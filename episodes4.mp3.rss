@@ -1,0 +1,1591 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Cowsay Show</title>
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss4" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes8.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes5.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes3.mp3.rss" rel="prev" type="application/rss+xml" />
+
+    
+    <description>Podcast Moldovenesc depsre IT, business și oameni
+</description>
+    <lastBuildDate>Thu, 09 Oct 2025 21:58:14 +0300</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>Podcast Moldovenesc depsre IT, business și oameni
+</itunes:summary>
+    <itunes:author>Cowsay Crew ©</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:owner>
+      <itunes:name>Cowsay Crew ©</itunes:name>
+      <itunes:email>vlad.drahnea@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>vlad.drahnea@gmail.com (Cowsay Crew ©)</managingEditor>
+    <copyright>All Rights Reserved © Vlad Drahnea 2023</copyright>
+    <itunes:subtitle>Despre IT</itunes:subtitle>
+    <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
+    <image>
+      <title>Cowsay Show</title>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>#95 🪦 :wq - </title>
+            <link>https://cowsay.show/2023/08/10/95.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/95"/>
+            <comments>https://cowsay.show/2023/08/10/95.html#disqus_thread</comments>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/08/10/95.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://groups.google.com/g/vim_announce/c/tWahca9zkt4">Creatorul vim a ieșit</a></li>
+  <li><a href="https://sweep.dev/">Junior AI</a></li>
+  <li>(Sergiu)<a href="https://www.cnbc.com/2023/08/07/zoom-ai-tools-trained-using-some-customer-data.html">Vindem sufletul(datele personale) la Zoom pidijeaba</a></li>
+  <li><a href="https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/">Zoom alungă lucrătorii înapoi la oficii</a></li>
+  <li><a href="https://www.theverge.com/2023/8/8/23825112/verizon-bluejeans-shutting-down-sunset">Verizon -$400M</a></li>
+  <li><a href="https://platform.openai.com/docs/gptbot">GPT(Ro)bot</a></li>
+  <li><a href="https://techcrunch.com/2023/08/09/anthropic-launches-improved-version-of-its-entry-level-llm/">Anthropic news</a></li>
+  <li><a href="https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history">Youtube nu vă mai arăta pagină pustie dacă ai deconectat istoria</a></li>
+  <li>(Andrew)<a href="https://meduza.io/feature/2023/08/08/sovsem-skoro-fsb-poluchit-kruglosutochnyy-dostup-k-dannym-servisa-yandeksa-po-zakazu-taksi-kak-vyyasnila-meduza-v-tom-chisle-k-poezdkam-za-predelami-rossii">FSB va avea cablu direct la Yandex. Da până acum veneau cu stickul?</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://groups.google.com/g/vim_announce/c/tWahca9zkt4">Creatorul vim a ieșit</a></li>
+  <li><a href="https://sweep.dev/">Junior AI</a></li>
+  <li>(Sergiu)<a href="https://www.cnbc.com/2023/08/07/zoom-ai-tools-trained-using-some-customer-data.html">Vindem sufletul(datele personale) la Zoom pidijeaba</a></li>
+  <li><a href="https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/">Zoom alungă lucrătorii înapoi la oficii</a></li>
+  <li><a href="https://www.theverge.com/2023/8/8/23825112/verizon-bluejeans-shutting-down-sunset">Verizon -$400M</a></li>
+  <li><a href="https://platform.openai.com/docs/gptbot">GPT(Ro)bot</a></li>
+  <li><a href="https://techcrunch.com/2023/08/09/anthropic-launches-improved-version-of-its-entry-level-llm/">Anthropic news</a></li>
+  <li><a href="https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history">Youtube nu vă mai arăta pagină pustie dacă ai deconectat istoria</a></li>
+  <li>(Andrew)<a href="https://meduza.io/feature/2023/08/08/sovsem-skoro-fsb-poluchit-kruglosutochnyy-dostup-k-dannym-servisa-yandeksa-po-zakazu-taksi-kak-vyyasnila-meduza-v-tom-chisle-k-poezdkam-za-predelami-rossii">FSB va avea cablu direct la Yandex. Da până acum veneau cu stickul?</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow95.mp3" 
+                         length="70399582" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:37</itunes:duration>
+            </item><item>
+            <title>#94 🧲 Știința, acum și live - </title>
+            <link>https://cowsay.show/2023/08/03/94.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/94"/>
+            <comments>https://cowsay.show/2023/08/03/94.html#disqus_thread</comments>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/08/03/94.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.reuters.com/markets/deals/tpg-francisco-partners-take-software-firm-new-relic-private-65-bln-deal-2023-07-31/">New Relic, moarte în privat</a></li>
+  <li><a href="https://c2pa.org/">Ce-i ca un NFT dar nu e?</a></li>
+  <li><a href="https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/">AI nu va mai controla AI. Nu că tare s-ar strădui</a></li>
+  <li><a href="https://asia.nikkei.com/Business/Media-Entertainment/Rise-of-AI-newsbots-shakes-up-India-s-media-landscape">AI newsbots în toată India</a></li>
+  <li><a href="https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/">Audiocraft AI</a></li>
+  <li><a href="https://arxiv.org/abs/2308.00676">Superconductor?</a></li>
+  <li><a href="https://www.ft.com/content/dae2b90e-1ba0-4e8f-aabc-34aae4ca05d7">Uber, profitabil pentru prima dată</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/08/hate-speech-researchers-sued-by-x-accuse-musk-of-being-an-authoritarian/">Twitter dă în judecată cercetătorii care zic că acum e mai mult hate speach pe platformă</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.reuters.com/markets/deals/tpg-francisco-partners-take-software-firm-new-relic-private-65-bln-deal-2023-07-31/">New Relic, moarte în privat</a></li>
+  <li><a href="https://c2pa.org/">Ce-i ca un NFT dar nu e?</a></li>
+  <li><a href="https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/">AI nu va mai controla AI. Nu că tare s-ar strădui</a></li>
+  <li><a href="https://asia.nikkei.com/Business/Media-Entertainment/Rise-of-AI-newsbots-shakes-up-India-s-media-landscape">AI newsbots în toată India</a></li>
+  <li><a href="https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/">Audiocraft AI</a></li>
+  <li><a href="https://arxiv.org/abs/2308.00676">Superconductor?</a></li>
+  <li><a href="https://www.ft.com/content/dae2b90e-1ba0-4e8f-aabc-34aae4ca05d7">Uber, profitabil pentru prima dată</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/08/hate-speech-researchers-sued-by-x-accuse-musk-of-being-an-authoritarian/">Twitter dă în judecată cercetătorii care zic că acum e mai mult hate speach pe platformă</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow94.mp3" 
+                         length="69070315" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:01:49</itunes:duration>
+            </item><item>
+            <title>#93 Bănuți pentru ochii 👀 tăi frumoși - </title>
+            <link>https://cowsay.show/2023/07/27/93.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/93"/>
+            <comments>https://cowsay.show/2023/07/27/93.html#disqus_thread</comments>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/07/27/93.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://start.arc.net/release-notes">Arc 1.01</a></li>
+  <li><a href="https://stackdiary.com/web-environment-integrity/">Google vs Open Web</a></li>
+  <li><a href="https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/">Apple mai degrabă să scoată iMessage din UK decât să slăbească encripția</a></li>
+  <li><a href="https://worldcoin.org/cofounder-letter">Noul/vechi startup a lui Altman</a></li>
+  <li><a href="https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/">Lucrătorul Shopify care se jărvește pentru ca noi să aflăm adevărul</a></li>
+  <li><a href="https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/">Twitter acum oficial - X</a></li>
+  <li><a href="https://www.telegraph.co.uk/business/2023/07/27/elon-musk-x-com-blocked-under-anti-pornography-laws-twitter/">x.com blocat în mai multe țări pentru pronografie</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=36855342">Cei de la mici-moi dețin marca comercială X</a></li>
+  <li><a href="https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow">Căderea gigantului StackOverflow</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://start.arc.net/release-notes">Arc 1.01</a></li>
+  <li><a href="https://stackdiary.com/web-environment-integrity/">Google vs Open Web</a></li>
+  <li><a href="https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/">Apple mai degrabă să scoată iMessage din UK decât să slăbească encripția</a></li>
+  <li><a href="https://worldcoin.org/cofounder-letter">Noul/vechi startup a lui Altman</a></li>
+  <li><a href="https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/">Lucrătorul Shopify care se jărvește pentru ca noi să aflăm adevărul</a></li>
+  <li><a href="https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/">Twitter acum oficial - X</a></li>
+  <li><a href="https://www.telegraph.co.uk/business/2023/07/27/elon-musk-x-com-blocked-under-anti-pornography-laws-twitter/">x.com blocat în mai multe țări pentru pronografie</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=36855342">Cei de la mici-moi dețin marca comercială X</a></li>
+  <li><a href="https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow">Căderea gigantului StackOverflow</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow93.mp3" 
+                         length="55879303" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:51:34</itunes:duration>
+            </item><item>
+            <title>#92 🗜️ Legi, Judecăți și AI - </title>
+            <link>https://cowsay.show/2023/07/20/92.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/92"/>
+            <comments>https://cowsay.show/2023/07/20/92.html#disqus_thread</comments>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/07/20/92.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.semafor.com/article/07/06/2023/twitter-is-threatening-to-sue-meta-over-threads">Twitter acuză Meta că a furat code și amenință cu judecata</a></li>
+  <li>(Andrew Luca): <a href="https://www.similarweb.com/blog/insights/social-media-news/threads-week/">Threads între timp (o săptămână dacă să fim sinceri) a pierdut jumătate de utilizatori</a></li>
+  <li><a href="https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/">Threads, nu acela, dar o alternativă la Slack, a adunat noi utilizatori</a></li>
+  <li>(Andrew Luca): <a href="https://www.techspot.com/news/99338-elon-musk-sues-law-firm-over-90-million.html">Musk amenință cu judecata și juriștii care “l-au ajutat” să cumpere Twitter</a></li>
+  <li>(neznayka): <a href="https://www.politico.eu/article/facebook-instagram-norway-ban-track-users-ads/?fbclid=IwAR2ZNMDNjig8OqaJEEwRkhhdOWsp5kUPmn6q5fMRSON9-l1t6zHwtlzSq5o">Norvegia a mai găsit o sondă de bani, care vine direct din Meta</a></li>
+  <li><a href="https://fablestudio.github.io/showrunner-agents/">South Park generat de AI. Cine-i următorul? Rick and Morty?</a></li>
+  <li><a href="https://github.com/facebookresearch/llama">LLaMA 2. Mai mare. Mai performant. Mai accesibil.</a></li>
+  <li><a href="https://twitter.com/svpino/status/1681614284613099520">Dar GPT-4, aparent, se face tot mai rău</a></li>
+  <li><a href="https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/">Baterii ușor de schimbat la toate telefoanele în Europa începând cu 2027</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.semafor.com/article/07/06/2023/twitter-is-threatening-to-sue-meta-over-threads">Twitter acuză Meta că a furat code și amenință cu judecata</a></li>
+  <li>(Andrew Luca): <a href="https://www.similarweb.com/blog/insights/social-media-news/threads-week/">Threads între timp (o săptămână dacă să fim sinceri) a pierdut jumătate de utilizatori</a></li>
+  <li><a href="https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/">Threads, nu acela, dar o alternativă la Slack, a adunat noi utilizatori</a></li>
+  <li>(Andrew Luca): <a href="https://www.techspot.com/news/99338-elon-musk-sues-law-firm-over-90-million.html">Musk amenință cu judecata și juriștii care “l-au ajutat” să cumpere Twitter</a></li>
+  <li>(neznayka): <a href="https://www.politico.eu/article/facebook-instagram-norway-ban-track-users-ads/?fbclid=IwAR2ZNMDNjig8OqaJEEwRkhhdOWsp5kUPmn6q5fMRSON9-l1t6zHwtlzSq5o">Norvegia a mai găsit o sondă de bani, care vine direct din Meta</a></li>
+  <li><a href="https://fablestudio.github.io/showrunner-agents/">South Park generat de AI. Cine-i următorul? Rick and Morty?</a></li>
+  <li><a href="https://github.com/facebookresearch/llama">LLaMA 2. Mai mare. Mai performant. Mai accesibil.</a></li>
+  <li><a href="https://twitter.com/svpino/status/1681614284613099520">Dar GPT-4, aparent, se face tot mai rău</a></li>
+  <li><a href="https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/">Baterii ușor de schimbat la toate telefoanele în Europa începând cu 2027</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow92.mp3" 
+                         length="69557441" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:00:48</itunes:duration>
+            </item><item>
+            <title>#91 🧠🫙 Kombucha Computing - </title>
+            <link>https://cowsay.show/2023/07/13/91.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/91"/>
+            <comments>https://cowsay.show/2023/07/13/91.html#disqus_thread</comments>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/07/13/91.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://archive.is/S61Gl">Lucrul de acasă o iluzie?</a></li>
+  <li><a href="https://www.fool.com/investing/2023/07/09/3-stocks-poised-to-dominate-the-second-half/">NVIDIA stonks!</a></li>
+  <li>(cpv): <a href="https://archive.is/Joh4a">Frauda Revolut</a></li>
+  <li><a href="https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html">Google în raza de acțiune a supremației quantice</a></li>
+  <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue">Organoid Inteligence</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/07/amazon-claims-it-isnt-a-very-large-online-platform-to-evade-eu-rules/">AmazonȘ noi nu suntem VLOP, fac cruce</a></li>
+  <li><a href="https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew">Cum să paralizezi un taxi (instrucțiune aplicativă)</a></li>
+  <li><a href="https://www.gatesnotes.com/The-risks-of-AI-are-real-but-manageable?WT.mc_id=2023071060000_AI-Concerns_BG-EM_&amp;WT.tsrc=BGEM">Bill Gates deja a deja a aflat totul depsre AI. Ne spune și nouă.</a></li>
+  <li><a href="https://blog.google/technology/ai/notebooklm-google-ai/">NotebookML de la Google</a></li>
+  <li><a href="https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/">Stable Doodle de la Stability AI sau Cracaleți generativi</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul <a href="https://discord.gg/GAYUppJUVX">#topics</a> din <a href="https://discord.gg/UaNer3K">Discord</a>.</p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://archive.is/S61Gl">Lucrul de acasă o iluzie?</a></li>
+  <li><a href="https://www.fool.com/investing/2023/07/09/3-stocks-poised-to-dominate-the-second-half/">NVIDIA stonks!</a></li>
+  <li>(cpv): <a href="https://archive.is/Joh4a">Frauda Revolut</a></li>
+  <li><a href="https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html">Google în raza de acțiune a supremației quantice</a></li>
+  <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue">Organoid Inteligence</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/07/amazon-claims-it-isnt-a-very-large-online-platform-to-evade-eu-rules/">AmazonȘ noi nu suntem VLOP, fac cruce</a></li>
+  <li><a href="https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones?utm_campaign=mb&amp;utm_medium=newsletter&amp;utm_source=morning_brew">Cum să paralizezi un taxi (instrucțiune aplicativă)</a></li>
+  <li><a href="https://www.gatesnotes.com/The-risks-of-AI-are-real-but-manageable?WT.mc_id=2023071060000_AI-Concerns_BG-EM_&amp;WT.tsrc=BGEM">Bill Gates deja a deja a aflat totul depsre AI. Ne spune și nouă.</a></li>
+  <li><a href="https://blog.google/technology/ai/notebooklm-google-ai/">NotebookML de la Google</a></li>
+  <li><a href="https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/">Stable Doodle de la Stability AI sau Cracaleți generativi</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul <a href="https://discord.gg/GAYUppJUVX">#topics</a> din <a href="https://discord.gg/UaNer3K">Discord</a>.</p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow91.mp3" 
+                         length="68008722" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:57</itunes:duration>
+            </item><item>
+            <title>#90 🧵 Să nu pierdem firele - </title>
+            <link>https://cowsay.show/2023/07/06/90.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/90"/>
+            <comments>https://cowsay.show/2023/07/06/90.html#disqus_thread</comments>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/07/06/90.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<p>N-am fost de un pic mai mult de-o lună dar de parcă o veșnicie. Good to be back 🤗.</p>
+
+<h2 id="temele-săptămânii">Temele săptămânii</h2>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO! Jucăm acest sezon</a></li>
+  <li><a href="https://www.apple.com/apple-vision-pro/">WWDC23 nu se termină până noi nu l-am discutat 🤪 (Vision Pro, marosuri în Swift)</a></li>
+  <li><a href="https://help.twitter.com/en/rules-and-policies/twitter-limits#:~:text=Direct%20Messages%20(daily)%3A%20The,Retweets%20are%20counted%20as%20Tweets.">Twitter bagă taloane</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Meta lansează Threads, alternativa Twitter, într-un moment potrivit</a></li>
+  <li><a href="https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon">Rețelele de socializare vor dispărea?</a></li>
+  <li><a href="https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAADJr_Wk5Ib9ty_uSn5NwwYRIcTYLkJM4mGfhbSoXTTre1SF4KYvuEfjc0eI0Ty5NlRcWdP8svF-bSi6KfnC8Sls5WSxcCyt_xIWBqaVApU1v5bKXThsQXJuWfyzg1ORPELLUNp1EkJKJntpFCdm3elbGNIS24UUIcTaY9nXZHo7z">OpenAI antrenează model care să controleze alte modele</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Valve interzice publicarea jocurilor care conțin content generat din modele antrenate pe content protejat prin copyright</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Vibrator + ChatGPT = 💓</a></li>
+</ul>
+
+<h2 id="temele-ascultătorilor">Temele ascultătorilor</h2>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. <a href="https://discord.gg/GAYUppJUVX">Iată aici</a>)</p>
+
+<ul>
+  <li><a href="https://hackaday.com/2023/07/02/computer-speed-gains-erased-by-modern-software/">(cpv): Cât memorie operativă nu le dai, tot cer mai mult</a></li>
+</ul>
+
+<h2 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h2>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h2 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h2>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<p>N-am fost de un pic mai mult de-o lună dar de parcă o veșnicie. Good to be back 🤗.</p>
+
+<h2 id="temele-săptămânii">Temele săptămânii</h2>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO! Jucăm acest sezon</a></li>
+  <li><a href="https://www.apple.com/apple-vision-pro/">WWDC23 nu se termină până noi nu l-am discutat 🤪 (Vision Pro, marosuri în Swift)</a></li>
+  <li><a href="https://help.twitter.com/en/rules-and-policies/twitter-limits#:~:text=Direct%20Messages%20(daily)%3A%20The,Retweets%20are%20counted%20as%20Tweets.">Twitter bagă taloane</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Meta lansează Threads, alternativa Twitter, într-un moment potrivit</a></li>
+  <li><a href="https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon">Rețelele de socializare vor dispărea?</a></li>
+  <li><a href="https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAADJr_Wk5Ib9ty_uSn5NwwYRIcTYLkJM4mGfhbSoXTTre1SF4KYvuEfjc0eI0Ty5NlRcWdP8svF-bSi6KfnC8Sls5WSxcCyt_xIWBqaVApU1v5bKXThsQXJuWfyzg1ORPELLUNp1EkJKJntpFCdm3elbGNIS24UUIcTaY9nXZHo7z">OpenAI antrenează model care să controleze alte modele</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Valve interzice publicarea jocurilor care conțin content generat din modele antrenate pe content protejat prin copyright</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Vibrator + ChatGPT = 💓</a></li>
+</ul>
+
+<h2 id="temele-ascultătorilor">Temele ascultătorilor</h2>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. <a href="https://discord.gg/GAYUppJUVX">Iată aici</a>)</p>
+
+<ul>
+  <li><a href="https://hackaday.com/2023/07/02/computer-speed-gains-erased-by-modern-software/">(cpv): Cât memorie operativă nu le dai, tot cer mai mult</a></li>
+</ul>
+
+<h2 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h2>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h2 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h2>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow90.mp3" 
+                         length="66539428" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:42</itunes:duration>
+            </item><item>
+            <title>#89 ⚔️ Incertitudini și Senzații în AI - </title>
+            <link>https://cowsay.show/2023/05/11/89.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/89"/>
+            <comments>https://cowsay.show/2023/05/11/89.html#disqus_thread</comments>
+            <pubDate>Thu, 11 May 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/05/11/89.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/">Intel, după un an nereușit (-30%) dă afară oameni și plătește $1.5B dividende</a></li>
+  <li><a href="https://twitter.com/tomwarren/status/1656331173390327811">Condițiile “macroeconomice” nu vor permite mărirea salariilor la Microsoft</a></li>
+  <li><a href="https://www.tiktok.com/@verge/video/7231610749796437294">Google I/O 2023</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Acum vei putea nu doar fura o trotinetă în GTA, dar și procura una reală direct din joc</a></li>
+  <li><a href="https://openai.com/research/language-models-can-explain-neurons-in-language-models?fbclid=IwAR3S0EvsuMmZs1KnsK0rWCmwX9bHHyzBuR-9G3U_OaN9Wx70rarQxiPb-3A">GPT-4 încearcă să explice la ce se gândește GPT-2. Fără mair succese, deocamdată</a></li>
+  <li><a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">Războiul AI abia începe și nimeni nu are vreun avantaj evident.</a></li>
+  <li><a href="https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage?fbclid=IwAR2LDgnViTLrB4GOqDMj6fCv8HB708XsqBuyNSWLT1MPMaSAs6rq7jcGSxs">Emergent Properties my ass</a></li>
+  <li><a href="https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/">Disruptive Properties prin exemplu StackOverflow</a></li>
+  <li><a href="https://twitter.com/lacker/status/1655639904368615424">ChatGPT a găsit un bug în compilatorul Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/">Intel, după un an nereușit (-30%) dă afară oameni și plătește $1.5B dividende</a></li>
+  <li><a href="https://twitter.com/tomwarren/status/1656331173390327811">Condițiile “macroeconomice” nu vor permite mărirea salariilor la Microsoft</a></li>
+  <li><a href="https://www.tiktok.com/@verge/video/7231610749796437294">Google I/O 2023</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Acum vei putea nu doar fura o trotinetă în GTA, dar și procura una reală direct din joc</a></li>
+  <li><a href="https://openai.com/research/language-models-can-explain-neurons-in-language-models?fbclid=IwAR3S0EvsuMmZs1KnsK0rWCmwX9bHHyzBuR-9G3U_OaN9Wx70rarQxiPb-3A">GPT-4 încearcă să explice la ce se gândește GPT-2. Fără mair succese, deocamdată</a></li>
+  <li><a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">Războiul AI abia începe și nimeni nu are vreun avantaj evident.</a></li>
+  <li><a href="https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage?fbclid=IwAR2LDgnViTLrB4GOqDMj6fCv8HB708XsqBuyNSWLT1MPMaSAs6rq7jcGSxs">Emergent Properties my ass</a></li>
+  <li><a href="https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/">Disruptive Properties prin exemplu StackOverflow</a></li>
+  <li><a href="https://twitter.com/lacker/status/1655639904368615424">ChatGPT a găsit un bug în compilatorul Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow89.mp3" 
+                         length="94092813" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:11:48</itunes:duration>
+            </item><item>
+            <title>#88 ⚙️ + 🪟 = 🫶 - </title>
+            <link>https://cowsay.show/2023/05/04/88.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/88"/>
+            <comments>https://cowsay.show/2023/05/04/88.html#disqus_thread</comments>
+            <pubDate>Thu, 04 May 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/05/04/88.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuț serios de concedieri: <a href="https://news.shopify.com/important-team-and-business-changes">Shopify</a>, <a href="https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html">Unity</a>, <a href="https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/">RedHat</a>, <a href="https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html">Lyft</a>, <a href="https://www.axios.com/2023/04/27/audio-app-clubhouse-layoffs">Clubhouse</a></li>
+  <li><a href="https://twitter.com/GergelyOrosz/status/1653798663917826048">Și datprită la aceasta, managerii de top primesc bonusuri</a></li>
+  <li><a href="https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/">Rust acum și în Windows. Nu, pe bune.</a></li>
+  <li><a href="https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90">Microserviciile deja (încă o dată) nu-s bune</a></li>
+  <li><a href="https://twitter.com/TheStalwart/status/1653177446659682304?s=20">ChatGPT aparent poate manipula stock-urile</a></li>
+  <li><a href="https://www.ft.com/content/c8de53ac-6978-4b88-b7ed-7cdbcbfebbbf">ChatGPT se pricepe la investiții mai bine decât top10 fonduri de investiții britanice</a></li>
+  <li><a href="https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?fbclid=IwAR24CT-SRCb8c6Os4eVmkrBB20E9j-DwUPmYKfH_OKxHSvbjCY6eDjLMe8U">Lege europeană despre interzicerea recunoașterei faciale în locuri publice</a></li>
+  <li><a href="https://techcrunch.com/2023/04/25/europe-names-19-platforms-that-must-report-algorithmic-risks-under-dsa/">Lege europeană despre algoritmi de recomandare</a></li>
+  <li><a href="https://mastodon.social/@haeckerfelix/110272427676278609">Un scaun de la Ikea ar putea fi incompatibil cu monitorul tău</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuț serios de concedieri: <a href="https://news.shopify.com/important-team-and-business-changes">Shopify</a>, <a href="https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html">Unity</a>, <a href="https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/">RedHat</a>, <a href="https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html">Lyft</a>, <a href="https://www.axios.com/2023/04/27/audio-app-clubhouse-layoffs">Clubhouse</a></li>
+  <li><a href="https://twitter.com/GergelyOrosz/status/1653798663917826048">Și datprită la aceasta, managerii de top primesc bonusuri</a></li>
+  <li><a href="https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/">Rust acum și în Windows. Nu, pe bune.</a></li>
+  <li><a href="https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90">Microserviciile deja (încă o dată) nu-s bune</a></li>
+  <li><a href="https://twitter.com/TheStalwart/status/1653177446659682304?s=20">ChatGPT aparent poate manipula stock-urile</a></li>
+  <li><a href="https://www.ft.com/content/c8de53ac-6978-4b88-b7ed-7cdbcbfebbbf">ChatGPT se pricepe la investiții mai bine decât top10 fonduri de investiții britanice</a></li>
+  <li><a href="https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?fbclid=IwAR24CT-SRCb8c6Os4eVmkrBB20E9j-DwUPmYKfH_OKxHSvbjCY6eDjLMe8U">Lege europeană despre interzicerea recunoașterei faciale în locuri publice</a></li>
+  <li><a href="https://techcrunch.com/2023/04/25/europe-names-19-platforms-that-must-report-algorithmic-risks-under-dsa/">Lege europeană despre algoritmi de recomandare</a></li>
+  <li><a href="https://mastodon.social/@haeckerfelix/110272427676278609">Un scaun de la Ikea ar putea fi incompatibil cu monitorul tău</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow88.mp3" 
+                         length="81364509" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:06:08</itunes:duration>
+            </item><item>
+            <title>#87 Black Mirror 📱, Season Cowsay - </title>
+            <link>https://cowsay.show/2023/04/27/87.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/87"/>
+            <comments>https://cowsay.show/2023/04/27/87.html#disqus_thread</comments>
+            <pubDate>Thu, 27 Apr 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/04/27/87.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://youtu.be/k7uFcpF0pXk">Black Mirror sezonul 6 ne așteaptă în curând</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=35683254">Gata cu filtrarea în DuckDuckGo</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695534/twitter-blue-tick-verification-dead-celebrities">La Twitter și morții se abonează la Twitter Blue</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695772/twitter-blue-check-paid-verification-false-endorsement-dril">Dar pentru cei vii asta ar putea fi ilegal</a></li>
+  <li><a href="https://slack.com/blog/news/meet-slack-canvas">Slack vrea Notion acasă</a></li>
+  <li><a href="https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/">Apple câțtigă bătălia epică cu Epic Games</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695703/bored-apes-creator-lawsuit-nfts-ryder-ripps-yuga-labs-trademark-copyright">Când un mincinos fură de la un șarlatan😬</a></li>
+  <li><a href="https://www.understandingai.org/p/software-didnt-eat-the-world?fbclid=IwAR24CT-SRCb8c6Os4eVmkrBB20E9j-DwUPmYKfH_OKxHSvbjCY6eDjLMe8U">Cineva pe internet nu se teme că AI va fura toate job-urile</a></li>
+  <li><a href="https://arxiv.org/abs/2304.03442">Agent Smith intră în realitate</a></li>
+  <li><a href="https://www.geekmetaverse.com/openai-to-launch-a-chatgpt-business-subscription-plan/">ChatGPT acum cu business subscription</a></li>
+  <li><a href="https://twitter.com/mckaywrigley/status/1651291367224807424?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">ChatGPT cu ochi și voce</a></li>
+  <li><a href="https://twitter.com/grimezsz/status/1650304051718791170?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">Grims permite generarea muzicii similare (de parcă cineva era interesat :/)</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://youtu.be/k7uFcpF0pXk">Black Mirror sezonul 6 ne așteaptă în curând</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=35683254">Gata cu filtrarea în DuckDuckGo</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695534/twitter-blue-tick-verification-dead-celebrities">La Twitter și morții se abonează la Twitter Blue</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695772/twitter-blue-check-paid-verification-false-endorsement-dril">Dar pentru cei vii asta ar putea fi ilegal</a></li>
+  <li><a href="https://slack.com/blog/news/meet-slack-canvas">Slack vrea Notion acasă</a></li>
+  <li><a href="https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/">Apple câțtigă bătălia epică cu Epic Games</a></li>
+  <li><a href="https://www.theverge.com/2023/4/24/23695703/bored-apes-creator-lawsuit-nfts-ryder-ripps-yuga-labs-trademark-copyright">Când un mincinos fură de la un șarlatan😬</a></li>
+  <li><a href="https://www.understandingai.org/p/software-didnt-eat-the-world?fbclid=IwAR24CT-SRCb8c6Os4eVmkrBB20E9j-DwUPmYKfH_OKxHSvbjCY6eDjLMe8U">Cineva pe internet nu se teme că AI va fura toate job-urile</a></li>
+  <li><a href="https://arxiv.org/abs/2304.03442">Agent Smith intră în realitate</a></li>
+  <li><a href="https://www.geekmetaverse.com/openai-to-launch-a-chatgpt-business-subscription-plan/">ChatGPT acum cu business subscription</a></li>
+  <li><a href="https://twitter.com/mckaywrigley/status/1651291367224807424?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">ChatGPT cu ochi și voce</a></li>
+  <li><a href="https://twitter.com/grimezsz/status/1650304051718791170?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">Grims permite generarea muzicii similare (de parcă cineva era interesat :/)</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow87.mp3" 
+                         length="78683864" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:05:37</itunes:duration>
+            </item><item>
+            <title>#86 👨‍⚖️ Conform liniei partidului - </title>
+            <link>https://cowsay.show/2023/04/20/86.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/86"/>
+            <comments>https://cowsay.show/2023/04/20/86.html#disqus_thread</comments>
+            <pubDate>Thu, 20 Apr 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/04/20/86.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JJbExmT0syQklTdzQyOXFvX1ZvUGhEeWFVQXxBQ3Jtc0tuRlJHSVhwdHVoWFMxSlRJY0UzSDJ6d2lSTjVMTnRWRUwxNzlqd0oyb1ZWWUVlb2NVaTBGRjBkZjhqVVJwWlNTcmptVGc2S2xLbnpFVG0yYWp0TmthNTh6Y2VJaVhYRXNGTjZscEtSbFNaVGE3VUZPZw&amp;q=https%3A%2F%2Fapnews.com%2Farticle%2Fspacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2&amp;v=0ZkVkAeAouc">Lansarea eșuată SpaceX Starship</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbm1WYV93QmZIZHRiYmxwWFFwUlRtRGlUOG5aZ3xBQ3Jtc0ttelg1eGtrNHZiYVlyX0UyR1BHOGdvVUxNNUNiSDB3aTI4elV2TmtWUHBISm5JcDE4VXpWdzNSY3JSM2gyMTQwd3hRbENGNEw1YXhvZkFfTVp3aUVoNnF2OU1TTzZqeDBCTmNtdUdudURSYXZsV3VSaw&amp;q=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2023-04-19%2Ffacebook-instagram-whatsapp-job-cuts-coming-in-meta-restructuring%3Futm_content%3Dtech%26utm_source%3Dfacebook%26utm_campaign%3Dsocialflow-organic%26cmpid%3Dsocialflow-facebook-btechnology%26utm_medium%3Dsocial%26fbclid%3DIwAR3tiv8lTKK2ldVCQuujoHbp7pPzQT8bzu_ybmE201d9yfDuK2h96FOsoHQ%26leadSource%3Duverify%2520wall&amp;v=a1WS2Jc5X-o">Noi concedieri la Meta (Facebook, Instagram. WhatsApp)</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbGFVcUh4WTZDWExXXzJ6ckUwVnZpZmxGQ2dBUXxBQ3Jtc0tucl9jMkZnRlN0TnJBX3RfSHZ5WkYxbVZuMU04aTgzYW1tTFItZ2hTNGxqc1dzTGptZFRKRVFFX2c0bXAzcnB6WnVDa1Z2S3VoZW1rMG5EQkdJTzVIbDJWdE0yc18ycVlhVWcwblBnQ1A2NDMwNkM5QQ&amp;q=https%3A%2F%2Fwww.nytimes.com%2F2023%2F04%2F18%2Fbusiness%2Fmedia%2Fnetflix-dvds-earnings.html&amp;v=51qsDq0CxvI">Netflix sistează serviciu de livrare a DVD prin poștă</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazhxcXdpbnJxdFVqWU9sWmtqWUVkM2ZOQi0yQXxBQ3Jtc0trbTJTckpNV1ZSRTc4RVJDU3ltSjJCSjJhMWJBU2ZDSjhsQTBTZEt5bW1ZRi1zNW5jcm9aT05ETmtOaElXMnI2ZEhTYmdGMElrRUxWbVQ2OGlFRUp1YjhNcW9oV3hxY2lXVUpnZ3dqRWtncXpOQnNTZw&amp;q=https%3A%2F%2Fwww.ifixit.com%2FNews%2F73291%2Fcolorado-approves-first-ever-agricultural-right-to-repair-bill&amp;v=xHVfCd6KEV0">Fermerii din Colorado o să-și poată repara tehnica desinestătător</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbXcycXlyRjNRVTUydGxtalhWWTBWZDhLeDU4UXxBQ3Jtc0tsVEFrckRyVlh4N0h0Y3Y2MHBQbmZwQVRaem13UlpSYS1qVTYxS0l5UVZMTmlpWS1tSXljbjRQTXhDTFZ6b09GX0Zwa0g5YlUwUkpGUjBwMzdVeVlodXRJNUhjbzl6RVVWTW5RVHF4bjdmall1Z0Qyaw&amp;q=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Famazon-codewhisperer-free-for-individual-use-is-now-generally-available%2F&amp;v=NwCxFiVA0lA">Amazon anunță Code Whisper - asistentul de lucru cu codul</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbmpUQURSNmN5cTloM2hqbWpsYzFXd19vLTVmd3xBQ3Jtc0trbkxrOGkyS0dHLWZCZWgwajhfMUtOTDM2ZDJyN3BZNkQxcWx4TXk1MDRJbDdyeGludTUtNXRxQmJaWl9DR2hRZnVFM1NjcVlFdk9LU1ZSMDRHb1pHZFBWWFNJTl93X0pvRmxMa0dyblpEblJyRFpzYw&amp;q=https%3A%2F%2Fqz.com%2Freddit-ai-bots-training-payment-1850352526&amp;v=xrNkEvH5LrM">Twitter vrea să dea în judecată Microsoft și OpenAI</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa0FhWmxqcEFURGF5cTJNTk9uYjhYd1RCM3VFZ3xBQ3Jtc0tuNG41V3ozZWRaVTlubl8yTU1kaFRqZ191T1p0eVJfQmpFSl80OVdTbUpkWmFCNGhWZkRIMlQxbm91VThqdWphRjFKNzI0czFwNy1jSTliNjh4bWpWLVBqcFFlc3dlX3NNSDdtenFSaW9nOTFDdldMVQ&amp;q=https%3A%2F%2Ftechcrunch.com%2F2023%2F04%2F14%2Fsam-altman-size-of-llms-wont-matter-as-much-moving-forward%2F&amp;v=wWTmUa8KQF4">Sam Altman zice că vremea Modelelor Mari (LLM) a trecut</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbm9SNEQwQU1sNGlSa3VQNHJkMDQ5eDV4VVJXUXxBQ3Jtc0tsVUY4NU1BaDlmbkxEY1NZNmJBYWZBaVJmRTczd3NzMXk2bUlVb1lwVXRYeVFpem5qMGhrZlhuVWJraThBMU1WRWw3c0hHcEwxc3VVOHF3TVRLU2NTQllWbktrdnhMWlNjVlZMVGt4Y21XOXR4cUx4MA&amp;q=https%3A%2F%2Fwww.voanews.com%2Fa%2Fchina-unveils-proposed-new-law-overseeing-artificial-intelligence-products%2F7045454.html&amp;v=YrwBuz633gI">Prima lege AI se formează în China</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbllqWTNSRzYwTXllU2RLUElRelhkZzVvZHRrZ3xBQ3Jtc0ttSzMwQ2FaMmlqY3plTU1sNmlyb0tScnRfMERjU0F4OW1DZE1seVNtN0RkODVfZTVVazFOSm0yaWFuRk1QbkVja3RVN05ka3NBWFh2dnAyNjNCdDZfSENwdUJxajhGWnMyZEZCMm5ybEFBeFZZMXZPOA&amp;q=https%3A%2F%2Ftwitter.com%2Fkentbeck%2Fstatus%2F1648413998025707520%3Fs%3D12%26t%3D2CnOJYyAmisuV5rtdbxaLA&amp;v=gnHzQmypSuY">Kent Beck a încercat totuși ChatGPT, și are ceva de spus</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2tvQS1CbjN1NktGUTNsVXBINFpWVUllb0tpd3xBQ3Jtc0tueXlPc2wxOUd1cHk4dzZyOWZpeW1yc3JMYnJEVnJFYTdpSTNRd3J2ZWpSS3NsenFHdWhsa3FXZ1JXRXFzSUNpMzd0bEJQdDFmeTZ1Q2l2amhrNTNSUWtSdEh6eFdURmVOeEdidWp1c1pDT1R4Q0FZaw&amp;q=https%3A%2F%2Ftwitter.com%2FEMostaque%2Fstatus%2F1648281610045779970&amp;v=WMXqypDPnNA">Emergent Properties. Trezirea conștiinței AI sau un nou blackbox effect?</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbTBrNk90S2cyb1IxTTczOW9ZUkJTcVc3Y01LQXxBQ3Jtc0tsU0F5RXJIOTAwRDlVeGZ4SHRMaUUwTVUwMU4yYXdERFFPTlA4UFlLZmhxcWtsLW4xVGNFcUdsbkw5bkVOQzl5NkR0eHduSHZVUHJ3VVdmd3E5N3lvcG83TC1fbkRyRnZQdmwzVkJNRjZfcksxdUxrTQ&amp;q=https%3A%2F%2Ftwitter.com%2Fkentbeck%2Fstatus%2F1648413998025707520%3Fs%3D12%26t%3D2CnOJYyAmisuV5rtdbxaLA&amp;v=OQgQWiTl0tI">AI e gata să-ți fure job-ul?</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjVKMkxOMzB1bFNTWGxCR0piYWU1NkFOMEFuUXxBQ3Jtc0tuRlFlSk5MbW1FbHlyTzVDWm5ERkhRQTBoWVNZLXJMTGJFQm05aS0xN0xfbENOYWgtTFNTZDBDQlZpb2NIcUo2Yk5wZ0Q3UGZtQjRTM3EtdEJTclI4NlFkbTRaNlM1S3RoekU4enRTdlhUWXRudy1rQQ&amp;q=https%3A%2F%2Fwww.reddit.com%2Fr%2Frust%2Fcomments%2F12lb0am%2Fcan_someone_explain_to_me_whats_happening_with%2F&amp;v=jcpZh4_qHDY">Rust Foundation încearcă să restricționeze utilizarea logoului limbajului Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2JJbExmT0syQklTdzQyOXFvX1ZvUGhEeWFVQXxBQ3Jtc0tuRlJHSVhwdHVoWFMxSlRJY0UzSDJ6d2lSTjVMTnRWRUwxNzlqd0oyb1ZWWUVlb2NVaTBGRjBkZjhqVVJwWlNTcmptVGc2S2xLbnpFVG0yYWp0TmthNTh6Y2VJaVhYRXNGTjZscEtSbFNaVGE3VUZPZw&amp;q=https%3A%2F%2Fapnews.com%2Farticle%2Fspacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2&amp;v=0ZkVkAeAouc">Lansarea eșuată SpaceX Starship</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbm1WYV93QmZIZHRiYmxwWFFwUlRtRGlUOG5aZ3xBQ3Jtc0ttelg1eGtrNHZiYVlyX0UyR1BHOGdvVUxNNUNiSDB3aTI4elV2TmtWUHBISm5JcDE4VXpWdzNSY3JSM2gyMTQwd3hRbENGNEw1YXhvZkFfTVp3aUVoNnF2OU1TTzZqeDBCTmNtdUdudURSYXZsV3VSaw&amp;q=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2023-04-19%2Ffacebook-instagram-whatsapp-job-cuts-coming-in-meta-restructuring%3Futm_content%3Dtech%26utm_source%3Dfacebook%26utm_campaign%3Dsocialflow-organic%26cmpid%3Dsocialflow-facebook-btechnology%26utm_medium%3Dsocial%26fbclid%3DIwAR3tiv8lTKK2ldVCQuujoHbp7pPzQT8bzu_ybmE201d9yfDuK2h96FOsoHQ%26leadSource%3Duverify%2520wall&amp;v=a1WS2Jc5X-o">Noi concedieri la Meta (Facebook, Instagram. WhatsApp)</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbGFVcUh4WTZDWExXXzJ6ckUwVnZpZmxGQ2dBUXxBQ3Jtc0tucl9jMkZnRlN0TnJBX3RfSHZ5WkYxbVZuMU04aTgzYW1tTFItZ2hTNGxqc1dzTGptZFRKRVFFX2c0bXAzcnB6WnVDa1Z2S3VoZW1rMG5EQkdJTzVIbDJWdE0yc18ycVlhVWcwblBnQ1A2NDMwNkM5QQ&amp;q=https%3A%2F%2Fwww.nytimes.com%2F2023%2F04%2F18%2Fbusiness%2Fmedia%2Fnetflix-dvds-earnings.html&amp;v=51qsDq0CxvI">Netflix sistează serviciu de livrare a DVD prin poștă</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazhxcXdpbnJxdFVqWU9sWmtqWUVkM2ZOQi0yQXxBQ3Jtc0trbTJTckpNV1ZSRTc4RVJDU3ltSjJCSjJhMWJBU2ZDSjhsQTBTZEt5bW1ZRi1zNW5jcm9aT05ETmtOaElXMnI2ZEhTYmdGMElrRUxWbVQ2OGlFRUp1YjhNcW9oV3hxY2lXVUpnZ3dqRWtncXpOQnNTZw&amp;q=https%3A%2F%2Fwww.ifixit.com%2FNews%2F73291%2Fcolorado-approves-first-ever-agricultural-right-to-repair-bill&amp;v=xHVfCd6KEV0">Fermerii din Colorado o să-și poată repara tehnica desinestătător</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbXcycXlyRjNRVTUydGxtalhWWTBWZDhLeDU4UXxBQ3Jtc0tsVEFrckRyVlh4N0h0Y3Y2MHBQbmZwQVRaem13UlpSYS1qVTYxS0l5UVZMTmlpWS1tSXljbjRQTXhDTFZ6b09GX0Zwa0g5YlUwUkpGUjBwMzdVeVlodXRJNUhjbzl6RVVWTW5RVHF4bjdmall1Z0Qyaw&amp;q=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Famazon-codewhisperer-free-for-individual-use-is-now-generally-available%2F&amp;v=NwCxFiVA0lA">Amazon anunță Code Whisper - asistentul de lucru cu codul</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbmpUQURSNmN5cTloM2hqbWpsYzFXd19vLTVmd3xBQ3Jtc0trbkxrOGkyS0dHLWZCZWgwajhfMUtOTDM2ZDJyN3BZNkQxcWx4TXk1MDRJbDdyeGludTUtNXRxQmJaWl9DR2hRZnVFM1NjcVlFdk9LU1ZSMDRHb1pHZFBWWFNJTl93X0pvRmxMa0dyblpEblJyRFpzYw&amp;q=https%3A%2F%2Fqz.com%2Freddit-ai-bots-training-payment-1850352526&amp;v=xrNkEvH5LrM">Twitter vrea să dea în judecată Microsoft și OpenAI</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa0FhWmxqcEFURGF5cTJNTk9uYjhYd1RCM3VFZ3xBQ3Jtc0tuNG41V3ozZWRaVTlubl8yTU1kaFRqZ191T1p0eVJfQmpFSl80OVdTbUpkWmFCNGhWZkRIMlQxbm91VThqdWphRjFKNzI0czFwNy1jSTliNjh4bWpWLVBqcFFlc3dlX3NNSDdtenFSaW9nOTFDdldMVQ&amp;q=https%3A%2F%2Ftechcrunch.com%2F2023%2F04%2F14%2Fsam-altman-size-of-llms-wont-matter-as-much-moving-forward%2F&amp;v=wWTmUa8KQF4">Sam Altman zice că vremea Modelelor Mari (LLM) a trecut</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbm9SNEQwQU1sNGlSa3VQNHJkMDQ5eDV4VVJXUXxBQ3Jtc0tsVUY4NU1BaDlmbkxEY1NZNmJBYWZBaVJmRTczd3NzMXk2bUlVb1lwVXRYeVFpem5qMGhrZlhuVWJraThBMU1WRWw3c0hHcEwxc3VVOHF3TVRLU2NTQllWbktrdnhMWlNjVlZMVGt4Y21XOXR4cUx4MA&amp;q=https%3A%2F%2Fwww.voanews.com%2Fa%2Fchina-unveils-proposed-new-law-overseeing-artificial-intelligence-products%2F7045454.html&amp;v=YrwBuz633gI">Prima lege AI se formează în China</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbllqWTNSRzYwTXllU2RLUElRelhkZzVvZHRrZ3xBQ3Jtc0ttSzMwQ2FaMmlqY3plTU1sNmlyb0tScnRfMERjU0F4OW1DZE1seVNtN0RkODVfZTVVazFOSm0yaWFuRk1QbkVja3RVN05ka3NBWFh2dnAyNjNCdDZfSENwdUJxajhGWnMyZEZCMm5ybEFBeFZZMXZPOA&amp;q=https%3A%2F%2Ftwitter.com%2Fkentbeck%2Fstatus%2F1648413998025707520%3Fs%3D12%26t%3D2CnOJYyAmisuV5rtdbxaLA&amp;v=gnHzQmypSuY">Kent Beck a încercat totuși ChatGPT, și are ceva de spus</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2tvQS1CbjN1NktGUTNsVXBINFpWVUllb0tpd3xBQ3Jtc0tueXlPc2wxOUd1cHk4dzZyOWZpeW1yc3JMYnJEVnJFYTdpSTNRd3J2ZWpSS3NsenFHdWhsa3FXZ1JXRXFzSUNpMzd0bEJQdDFmeTZ1Q2l2amhrNTNSUWtSdEh6eFdURmVOeEdidWp1c1pDT1R4Q0FZaw&amp;q=https%3A%2F%2Ftwitter.com%2FEMostaque%2Fstatus%2F1648281610045779970&amp;v=WMXqypDPnNA">Emergent Properties. Trezirea conștiinței AI sau un nou blackbox effect?</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbTBrNk90S2cyb1IxTTczOW9ZUkJTcVc3Y01LQXxBQ3Jtc0tsU0F5RXJIOTAwRDlVeGZ4SHRMaUUwTVUwMU4yYXdERFFPTlA4UFlLZmhxcWtsLW4xVGNFcUdsbkw5bkVOQzl5NkR0eHduSHZVUHJ3VVdmd3E5N3lvcG83TC1fbkRyRnZQdmwzVkJNRjZfcksxdUxrTQ&amp;q=https%3A%2F%2Ftwitter.com%2Fkentbeck%2Fstatus%2F1648413998025707520%3Fs%3D12%26t%3D2CnOJYyAmisuV5rtdbxaLA&amp;v=OQgQWiTl0tI">AI e gata să-ți fure job-ul?</a></li>
+  <li><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjVKMkxOMzB1bFNTWGxCR0piYWU1NkFOMEFuUXxBQ3Jtc0tuRlFlSk5MbW1FbHlyTzVDWm5ERkhRQTBoWVNZLXJMTGJFQm05aS0xN0xfbENOYWgtTFNTZDBDQlZpb2NIcUo2Yk5wZ0Q3UGZtQjRTM3EtdEJTclI4NlFkbTRaNlM1S3RoekU4enRTdlhUWXRudy1rQQ&amp;q=https%3A%2F%2Fwww.reddit.com%2Fr%2Frust%2Fcomments%2F12lb0am%2Fcan_someone_explain_to_me_whats_happening_with%2F&amp;v=jcpZh4_qHDY">Rust Foundation încearcă să restricționeze utilizarea logoului limbajului Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow86.mp3" 
+                         length="78628040" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:56</itunes:duration>
+            </item><item>
+            <title>#85 💩 Contorul crește și crește - </title>
+            <link>https://cowsay.show/2023/04/13/85.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/85"/>
+            <comments>https://cowsay.show/2023/04/13/85.html#disqus_thread</comments>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/04/13/85.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.wired.com/story/twitters-open-source-algorithm-is-a-red-herring/">Este oare valoare în algoritmul Twitter publicat?</a></li>
+  <li><a href="https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained">Twitter API a rămas fără mentenanță efectiv</a></li>
+  <li><a href="https://www.bbc.com/news/world-us-canada-65251160">Musk contra jurnaliști</a></li>
+  <li><a href="https://crypto.news/users-reveal-bitcoin-white-paper-is-part-of-macos/">Un secret ascuns între fișierele macOS</a></li>
+  <li><a href="https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/">Nu vindeți toate văcile ca să plecați la Google</a></li>
+  <li><a href="https://www.theverge.com/2023/4/11/23678438/microsoft-teams-snapchat-lenses-feature">Snapchat lenses acum în Teams</a></li>
+  <li><a href="https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/">Progresul neîncetenit al absurdului în AI</a></li>
+  <li><a href="https://thesequence.substack.com/p/the-llama-effect-how-an-accidental">Llama efect, sau cum totuși vor ajunge Alpacele la fiecare în gospodărie</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.wired.com/story/twitters-open-source-algorithm-is-a-red-herring/">Este oare valoare în algoritmul Twitter publicat?</a></li>
+  <li><a href="https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained">Twitter API a rămas fără mentenanță efectiv</a></li>
+  <li><a href="https://www.bbc.com/news/world-us-canada-65251160">Musk contra jurnaliști</a></li>
+  <li><a href="https://crypto.news/users-reveal-bitcoin-white-paper-is-part-of-macos/">Un secret ascuns între fișierele macOS</a></li>
+  <li><a href="https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/">Nu vindeți toate văcile ca să plecați la Google</a></li>
+  <li><a href="https://www.theverge.com/2023/4/11/23678438/microsoft-teams-snapchat-lenses-feature">Snapchat lenses acum în Teams</a></li>
+  <li><a href="https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/">Progresul neîncetenit al absurdului în AI</a></li>
+  <li><a href="https://thesequence.substack.com/p/the-llama-effect-how-an-accidental">Llama efect, sau cum totuși vor ajunge Alpacele la fiecare în gospodărie</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow85.mp3" 
+                         length="79525197" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:05:45</itunes:duration>
+            </item><item>
+            <title>#84 🚫 Ban la stânga și la dreapta - </title>
+            <link>https://cowsay.show/2023/04/06/84.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/84"/>
+            <comments>https://cowsay.show/2023/04/06/84.html#disqus_thread</comments>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/04/06/84.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.theverge.com/2023/4/3/23668889/apple-corporate-layoffs-retail-big-tech-cuts">A ajuns sabia de concedieri și la Apple</a></li>
+  <li><a href="https://taylor.town/-10x">-10x engineer</a></li>
+  <li><a href="https://twitter.com/nonmayorpete/status/1643012248720523264?s=12&amp;t=AJ9P3TTz9CSTzZzb5j3niA">Stanford AI report</a></li>
+  <li><a href="https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/">Italia banează ChatGPT, s-ar putea și restul Europei să o facă</a></li>
+  <li><a href="https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci">Cei care cer pauză în AI au priorități greșite</a></li>
+  <li><a href="https://www.theverge.com/2023/3/29/23662476/microsoft-bing-chatbot-ads-revenue-sharing">Reclamă în AI chat din Bing</a></li>
+  <li><a href="https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns">O lege interesantă la orizontul american</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.theverge.com/2023/4/3/23668889/apple-corporate-layoffs-retail-big-tech-cuts">A ajuns sabia de concedieri și la Apple</a></li>
+  <li><a href="https://taylor.town/-10x">-10x engineer</a></li>
+  <li><a href="https://twitter.com/nonmayorpete/status/1643012248720523264?s=12&amp;t=AJ9P3TTz9CSTzZzb5j3niA">Stanford AI report</a></li>
+  <li><a href="https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/">Italia banează ChatGPT, s-ar putea și restul Europei să o facă</a></li>
+  <li><a href="https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci">Cei care cer pauză în AI au priorități greșite</a></li>
+  <li><a href="https://www.theverge.com/2023/3/29/23662476/microsoft-bing-chatbot-ads-revenue-sharing">Reclamă în AI chat din Bing</a></li>
+  <li><a href="https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns">O lege interesantă la orizontul american</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow84.mp3" 
+                         length="87352510" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:13:56</itunes:duration>
+            </item><item>
+            <title>#83 Câte o 🦙 alpacă în fiecare gospodărie - </title>
+            <link>https://cowsay.show/2023/03/30/83.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/83"/>
+            <comments>https://cowsay.show/2023/03/30/83.html#disqus_thread</comments>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/03/30/83.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina">RedHat 30 de ani 🎉🎉🎉</a></li>
+  <li><a href="https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github?fbclid=IwAR2OZkZZ9_-fx2kL2Yuq-2LWIGKg0aU9-wjJs0ciFBJ0idkg9qJ2cOoFzYg">Twitter totuși a publicat codul sursă, dar nu chiar cum și-au dorit</a></li>
+  <li><a href="https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650">Disney închide Metaverse-ul său</a></li>
+  <li><a href="https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/">O Alpacă cu potențial</a></li>
+  <li><a href="https://openai.com/blog/chatgpt-plugins">ChatGPT plugins</a></li>
+  <li><a href="https://podcastnotes.org/lex-fridman-podcast/sam-altman-openai-ceo-on-gpt-4-chatgpt-and-the-future-of-ai-lex-fridman-podcast-367/">Un interviu lung și boring despre cum Sam Altman crede că va arăta viitorul afectat de GPT</a></li>
+  <li><a href="https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter">Mai mulți oameni de vază caută o pauză în dezvoltarea modelelor mari</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina">RedHat 30 de ani 🎉🎉🎉</a></li>
+  <li><a href="https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github?fbclid=IwAR2OZkZZ9_-fx2kL2Yuq-2LWIGKg0aU9-wjJs0ciFBJ0idkg9qJ2cOoFzYg">Twitter totuși a publicat codul sursă, dar nu chiar cum și-au dorit</a></li>
+  <li><a href="https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650">Disney închide Metaverse-ul său</a></li>
+  <li><a href="https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/">O Alpacă cu potențial</a></li>
+  <li><a href="https://openai.com/blog/chatgpt-plugins">ChatGPT plugins</a></li>
+  <li><a href="https://podcastnotes.org/lex-fridman-podcast/sam-altman-openai-ceo-on-gpt-4-chatgpt-and-the-future-of-ai-lex-fridman-podcast-367/">Un interviu lung și boring despre cum Sam Altman crede că va arăta viitorul afectat de GPT</a></li>
+  <li><a href="https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter">Mai mulți oameni de vază caută o pauză în dezvoltarea modelelor mari</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow83.mp3" 
+                         length="91118685" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:12</itunes:duration>
+            </item><item>
+            <title>#82 Secta 🛐 AIpocaliptică - </title>
+            <link>https://cowsay.show/2023/03/23/82.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/82"/>
+            <comments>https://cowsay.show/2023/03/23/82.html#disqus_thread</comments>
+            <pubDate>Thu, 23 Mar 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/03/23/82.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuțul de concedieri 😬 Amazon https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html, Meta https://brandur.org/fragments/meta-layoffs, Accenture https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/</li>
+  <li>Cine va pierde primul job-ul sub presiunea AI https://twitter.com/rubinovitz/status/1637651591191842816</li>
+  <li>GPT-4 https://openai.com/research/gpt-4</li>
+  <li>Adobe Firefly https://www.adobe.com/sensei/generative-ai/firefly.html</li>
+  <li>Copilot X https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/</li>
+  <li>Scurgerea Meta LlaMa https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse</li>
+  <li>Midjourney 5, “Noi am tăiat degetele deprisos” https://news.ycombinator.com/item?id=35181433</li>
+  <li>Fum ciudat în Counter Strike 2 https://twitter.com/CSGO/status/1638580074126659584</li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuțul de concedieri 😬 Amazon https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html, Meta https://brandur.org/fragments/meta-layoffs, Accenture https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/</li>
+  <li>Cine va pierde primul job-ul sub presiunea AI https://twitter.com/rubinovitz/status/1637651591191842816</li>
+  <li>GPT-4 https://openai.com/research/gpt-4</li>
+  <li>Adobe Firefly https://www.adobe.com/sensei/generative-ai/firefly.html</li>
+  <li>Copilot X https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/</li>
+  <li>Scurgerea Meta LlaMa https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse</li>
+  <li>Midjourney 5, “Noi am tăiat degetele deprisos” https://news.ycombinator.com/item?id=35181433</li>
+  <li>Fum ciudat în Counter Strike 2 https://twitter.com/CSGO/status/1638580074126659584</li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow82.mp3" 
+                         length="89648973" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:03</itunes:duration>
+            </item><item>
+            <title>#81 AI va fi binevoitor 🤖 dacă tu vei fi binevoitor - </title>
+            <link>https://cowsay.show/2023/02/23/81.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/81"/>
+            <comments>https://cowsay.show/2023/02/23/81.html#disqus_thread</comments>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/02/23/81.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project">Starlink va avea competiție</a></li>
+  <li><a href="https://www.theverge.com/2023/2/14/23599505/amazon-zoox-robotaxi-public-road-california">Taxi autonom sub formă de o franzelă de la Amazon</a></li>
+  <li><a href="https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/">Amazon va ruga angajații să vină cel puțin 3 ori pe săptămână la oficiu</a></li>
+  <li><a href="https://twitter.com/kyliebytes/status/1628784289860194305">Twitter taie din costuri cum poate</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/02/meta-tests-12-monthly-subscription-for-extra-impersonation-protection/">Meta va avea serviciu cu pată</a></li>
+  <li><a href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/">Sidney nu-ți va face rău, cu excepția cazurilor când îi dorești rău</a></li>
+  <li><a href="https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3">Bing acum e deștept, cam ca un bully din școală</a></li>
+  <li><a href="https://www.theverge.com/2023/2/11/23595784/opera-browser-chatgpt-sidebar-ai">Opera încă-i vie și tot integrează ChatGPT</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project">Starlink va avea competiție</a></li>
+  <li><a href="https://www.theverge.com/2023/2/14/23599505/amazon-zoox-robotaxi-public-road-california">Taxi autonom sub formă de o franzelă de la Amazon</a></li>
+  <li><a href="https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/">Amazon va ruga angajații să vină cel puțin 3 ori pe săptămână la oficiu</a></li>
+  <li><a href="https://twitter.com/kyliebytes/status/1628784289860194305">Twitter taie din costuri cum poate</a></li>
+  <li><a href="https://arstechnica.com/tech-policy/2023/02/meta-tests-12-monthly-subscription-for-extra-impersonation-protection/">Meta va avea serviciu cu pată</a></li>
+  <li><a href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/">Sidney nu-ți va face rău, cu excepția cazurilor când îi dorești rău</a></li>
+  <li><a href="https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3">Bing acum e deștept, cam ca un bully din școală</a></li>
+  <li><a href="https://www.theverge.com/2023/2/11/23595784/opera-browser-chatgpt-sidebar-ai">Opera încă-i vie și tot integrează ChatGPT</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow81.mp3" 
+                         length="99765358" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:09:20</itunes:duration>
+            </item><item>
+            <title>#80 🪧 Acest spot a fost creat special pentru tine - </title>
+            <link>https://cowsay.show/2023/02/16/80.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/80"/>
+            <comments>https://cowsay.show/2023/02/16/80.html#disqus_thread</comments>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/02/16/80.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuțul de lay-off-uri continuă <a href="https://twitter.com/webology/status/1623722731819659269">Github</a>, <a href="https://aboutus.godaddy.net/newsroom/press-releases/press-release-details/2023/A-message-from-GoDaddy-CEO-Aman-Bhutani/default.aspx">GoDaddy</a>, <a href="https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/">Yahoo</a>, <a href="https://news.ycombinator.com/item?id=34803696">Digital Ocean</a>, <a href="https://www.twilio.com/blog/restructuring-twilio">Twilio</a></li>
+  <li><a href="https://twitter.com/dannypostmaa/status/1624689089332281344?s=12&amp;t=V6IuAlJIWDo1d10Ke9-DZg">Ce se poate întâmpla când în loc de tazik ai heroku</a></li>
+  <li><a href="https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai">Microsoft prezintă primele produse cu ChatGPT integrare: Bing și Edge</a></li>
+  <li><a href="https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md">core-js much drama</a></li>
+  <li><a href="https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493">Mai multă dramă</a></li>
+  <li><a href="https://www.platformer.news/p/yes-elon-musk-created-a-special-system">Twitt-urile lui Musk acum au prioritate pentru că Biden e mai popular</a></li>
+  <li><a href="https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge">Cum un TikTok a dus la furtul mii de mașine</a></li>
+  <li><a href="http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/">Cu un $2 și un pic de reclamă pe Facebook poți aduce un om la paranoie</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Trenuțul de lay-off-uri continuă <a href="https://twitter.com/webology/status/1623722731819659269">Github</a>, <a href="https://aboutus.godaddy.net/newsroom/press-releases/press-release-details/2023/A-message-from-GoDaddy-CEO-Aman-Bhutani/default.aspx">GoDaddy</a>, <a href="https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/">Yahoo</a>, <a href="https://news.ycombinator.com/item?id=34803696">Digital Ocean</a>, <a href="https://www.twilio.com/blog/restructuring-twilio">Twilio</a></li>
+  <li><a href="https://twitter.com/dannypostmaa/status/1624689089332281344?s=12&amp;t=V6IuAlJIWDo1d10Ke9-DZg">Ce se poate întâmpla când în loc de tazik ai heroku</a></li>
+  <li><a href="https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai">Microsoft prezintă primele produse cu ChatGPT integrare: Bing și Edge</a></li>
+  <li><a href="https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md">core-js much drama</a></li>
+  <li><a href="https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493">Mai multă dramă</a></li>
+  <li><a href="https://www.platformer.news/p/yes-elon-musk-created-a-special-system">Twitt-urile lui Musk acum au prioritate pentru că Biden e mai popular</a></li>
+  <li><a href="https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge">Cum un TikTok a dus la furtul mii de mașine</a></li>
+  <li><a href="http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/">Cu un $2 și un pic de reclamă pe Facebook poți aduce un om la paranoie</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow80.mp3" 
+                         length="97782869" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:09:03</itunes:duration>
+            </item><item>
+            <title>#79 Google Bard 🪕 sau muzică de 100B - </title>
+            <link>https://cowsay.show/2023/02/09/79.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/79"/>
+            <comments>https://cowsay.show/2023/02/09/79.html#disqus_thread</comments>
+            <pubDate>Thu, 09 Feb 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/02/09/79.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://blog.google/technology/ai/bard-google-ai-search-updates/">Google prezintă Bard, alternativă la ChatGPT</a></li>
+  <li><a href="https://www.reuters.com/technology/google-ai-chatbot-bard-offers-inaccurate-information-company-ad-2023-02-08/">Contextul i-a costat Alphabet 8% capitalizare</a></li>
+  <li><a href="https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai">Microsoft prezintă primele produse cu ChatGPT integrare: Bing și Edge</a></li>
+  <li><a href="https://readhacker.news/s/5xas6">Twitter API drama</a></li>
+  <li><a href="https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493">Mai multă dramă</a></li>
+  <li><a href="https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web">Cum tu deja poți face bani cu ajutorul modelelor generatoare</a></li>
+  <li><a href="https://www.semafor.com/article/02/03/2023/how-chatgpt-inadvertently-learned-to-avoid-talking-about-trump">Trump e ingorat de ChatGPT</a></li>
+  <li><a href="https://web.archive.org/web/20230208085753/https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave">Meta prezintă managerii o dilemă interesantă: devii contributor individual sau pleci</a></li>
+  <li><a href="https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/">Zoom -15%</a></li>
+  <li><a href="https://about.gitlab.com/blog/2023/02/09/gitlab-news/">Gitlab -7%</a></li>
+  <li><a href="https://www.a.team//mission/the-great-betrayal">Nu te mai simți protejat contr-o familie la lucru?</a></li>
+  <li><a href="https://www.theregister.com/2023/02/07/mozilla_google_apple_webkit/">Ecosystemul iOS ar putea trece printr-o renaștere</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://blog.google/technology/ai/bard-google-ai-search-updates/">Google prezintă Bard, alternativă la ChatGPT</a></li>
+  <li><a href="https://www.reuters.com/technology/google-ai-chatbot-bard-offers-inaccurate-information-company-ad-2023-02-08/">Contextul i-a costat Alphabet 8% capitalizare</a></li>
+  <li><a href="https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai">Microsoft prezintă primele produse cu ChatGPT integrare: Bing și Edge</a></li>
+  <li><a href="https://readhacker.news/s/5xas6">Twitter API drama</a></li>
+  <li><a href="https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493">Mai multă dramă</a></li>
+  <li><a href="https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web">Cum tu deja poți face bani cu ajutorul modelelor generatoare</a></li>
+  <li><a href="https://www.semafor.com/article/02/03/2023/how-chatgpt-inadvertently-learned-to-avoid-talking-about-trump">Trump e ingorat de ChatGPT</a></li>
+  <li><a href="https://web.archive.org/web/20230208085753/https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave">Meta prezintă managerii o dilemă interesantă: devii contributor individual sau pleci</a></li>
+  <li><a href="https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/">Zoom -15%</a></li>
+  <li><a href="https://about.gitlab.com/blog/2023/02/09/gitlab-news/">Gitlab -7%</a></li>
+  <li><a href="https://www.a.team//mission/the-great-betrayal">Nu te mai simți protejat contr-o familie la lucru?</a></li>
+  <li><a href="https://www.theregister.com/2023/02/07/mozilla_google_apple_webkit/">Ecosystemul iOS ar putea trece printr-o renaștere</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow79.mp3" 
+                         length="79150639" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:11:41</itunes:duration>
+            </item><item>
+            <title>#78 ✋ MAAS 🤚 - </title>
+            <link>https://cowsay.show/2023/02/02/78.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/78"/>
+            <comments>https://cowsay.show/2023/02/02/78.html#disqus_thread</comments>
+            <pubDate>Thu, 02 Feb 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/02/02/78.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/">BuzzFeed &lt;3 ChatGPT</a></li>
+  <li><a href="https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/">OpenAI vor ajuta școlile să depisteze plagiatul din AI, doar 26% din el</a></li>
+  <li><a href="https://openai.com/blog/chatgpt-plus/">ChatGPT Plus de $20</a></li>
+  <li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/">MS Teams &lt;3 ChatGPT</a></li>
+  <li><a href="https://www.intercom.com/blog/announcing-new-intercom-ai-features/">Intercom &lt;3 ChatGPT</a></li>
+  <li><a href="https://www.vox.com/recode/23573432/tech-layoffs-cuts-startup-facebook-google-amazon">Google, Facebook, Microsoft de cu sunt o prăjitură</a></li>
+  <li><a href="https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/">Netlify cumpără Gatsby</a></li>
+  <li><a href="https://www.theverge.com/2023/1/31/23580356/meta-shut-down-echo-vr-oculus-quest-arena-ready-at-down">Meta închide un joc VR popular. 2023 year of VR?</a></li>
+  <li><a href="https://uk.finance.yahoo.com/news/meta-earnings-drop-less-expected-233248588.html">META +20%?</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta. Tot aici strângem pentru O-ring-uri lui Ivan și Sava.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/">BuzzFeed &lt;3 ChatGPT</a></li>
+  <li><a href="https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/">OpenAI vor ajuta școlile să depisteze plagiatul din AI, doar 26% din el</a></li>
+  <li><a href="https://openai.com/blog/chatgpt-plus/">ChatGPT Plus de $20</a></li>
+  <li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/">MS Teams &lt;3 ChatGPT</a></li>
+  <li><a href="https://www.intercom.com/blog/announcing-new-intercom-ai-features/">Intercom &lt;3 ChatGPT</a></li>
+  <li><a href="https://www.vox.com/recode/23573432/tech-layoffs-cuts-startup-facebook-google-amazon">Google, Facebook, Microsoft de cu sunt o prăjitură</a></li>
+  <li><a href="https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/">Netlify cumpără Gatsby</a></li>
+  <li><a href="https://www.theverge.com/2023/1/31/23580356/meta-shut-down-echo-vr-oculus-quest-arena-ready-at-down">Meta închide un joc VR popular. 2023 year of VR?</a></li>
+  <li><a href="https://uk.finance.yahoo.com/news/meta-earnings-drop-less-expected-233248588.html">META +20%?</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta. Tot aici strângem pentru O-ring-uri lui Ivan și Sava.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow78.mp3" 
+                         length="67092814" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:01:24</itunes:duration>
+            </item><item>
+            <title>#77 6% 🪄 - </title>
+            <link>https://cowsay.show/2023/01/26/77.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/77"/>
+            <comments>https://cowsay.show/2023/01/26/77.html#disqus_thread</comments>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/01/26/77.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/">Spotify dă afară 6%</a></li>
+  <li><a href="https://blog.google/inside-google/message-ceo/january-update/">Google dă afară 6%</a></li>
+  <li><a href="https://twitter.com/gergelyorosz/status/1616542572456955923?s=12&amp;t=MCrp18bWIn_VsmYnVBq2kw">Unii au lucrat la Google 16 ani, Karl!</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/">Fucshia a avut de suferit mult</a></li>
+  <li><a href="https://twitter.com/GergelyOrosz/status/1618215471819685888">PagerDuty dă afară 6%, cu ajutorul ChatGPT</a></li>
+  <li><a href="https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday">CoinBase CPO pleacă, cu $105M compensare</a></li>
+  <li><a href="https://twitter.com/goodside/status/1617140756321546244">O nouă profesie în noua realitate</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=34525936">40 GB Yandex code a fost scurs în rețea</a></li>
+  <li><a href="https://www.theverge.com/2023/1/24/23569109/goto-hack-lastpass-breach-encrypted-backups-key">Ultima spargere LastPass nu e de glumă</a></li>
+  <li><a href="https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government">United States(8) vs Google</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/">Spotify dă afară 6%</a></li>
+  <li><a href="https://blog.google/inside-google/message-ceo/january-update/">Google dă afară 6%</a></li>
+  <li><a href="https://twitter.com/gergelyorosz/status/1616542572456955923?s=12&amp;t=MCrp18bWIn_VsmYnVBq2kw">Unii au lucrat la Google 16 ani, Karl!</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/">Fucshia a avut de suferit mult</a></li>
+  <li><a href="https://twitter.com/GergelyOrosz/status/1618215471819685888">PagerDuty dă afară 6%, cu ajutorul ChatGPT</a></li>
+  <li><a href="https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday">CoinBase CPO pleacă, cu $105M compensare</a></li>
+  <li><a href="https://twitter.com/goodside/status/1617140756321546244">O nouă profesie în noua realitate</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=34525936">40 GB Yandex code a fost scurs în rețea</a></li>
+  <li><a href="https://www.theverge.com/2023/1/24/23569109/goto-hack-lastpass-breach-encrypted-backups-key">Ultima spargere LastPass nu e de glumă</a></li>
+  <li><a href="https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government">United States(8) vs Google</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow77.mp3" 
+                         length="92317736" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:05:20</itunes:duration>
+            </item><item>
+            <title>#76 Despre suferințile 😣 siliconului... - </title>
+            <link>https://cowsay.show/2023/01/19/76.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/76"/>
+            <comments>https://cowsay.show/2023/01/19/76.html#disqus_thread</comments>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/01/19/76.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/mac-mini/">Mac-uri noi, mai scumpe și mai ieftine</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2023/01/new-sony-walkman-music-players-feature-stunning-good-looks-android-12/">Sony Walkman</a></li>
+  <li><a href="https://www.wsj.com/video/series/news-explainers/elon-musks-tesla-tweets-trial-what-to-know/F2050DB1-EEB9-4489-9636-9569FD6F1C38?mod=e2fb&amp;fbclid=IwAR0oMZS3QF_UCBDBSc-c9LiaoIJQWUjlblwFpcCVY-98gnj8n7HFj2v_NfE">Boomerang Twits pentru Musk</a></li>
+  <li><a href="https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921">CNET deja folosește ChatGPT pentru articole</a></li>
+  <li><a href="https://techcrunch.com/2023/01/17/that-microsoft-deal-isnt-exclusive-video-is-coming-and-more-from-openai-ceo-sam-altman/?tpcc=tcplusfacebook&amp;fbclid=IwAR31Z_g6vRwcN3pevo8kF1tcGnuKzdQnu4Y5P_AmoYCnuOUS4Vlb8EdCAyo&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly9sLmZhY2Vib29rLmNvbS8&amp;guce_referrer_sig=AQAAAGZcI7Xx0NEagqWlLa2me8xsRqAYCWO063xUajUsiA9VjZEIau3Cdv8nCaGJZUpvNJVeSFpqtoDsBSglasqXK_3m-FeBlDi8OBhR285x_O3i07TqDzr1MNclhIqInSWv49AiXDIMUxZZw0FkBocDAt8DNoClOeM5iTuA37lBzTz6">Altman despre GPT 4</a></li>
+  <li><a href="https://www.theredhandfiles.com/chat-gpt-what-do-you-think/">Nick Cave zice că el suferă mai mult ca AI</a></li>
+  <li><a href="https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit">Getty Images vs Stable Diffusion</a></li>
+  <li><a href="https://www.theverge.com/2023/1/18/23560375/twitter-auction-company-assets-headquarters-bird-statue-coffee-machines">Bunuri din oficiu Twitter din San Francisco la vânzare</a></li>
+  <li><a href="https://techcrunch.com/2023/01/18/microsoft-announces-10000-job-cuts-nearly-5-of-its-workforce/">Microsoft dă afară 10k oameni</a></li>
+  <li><a href="https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/?tpcc=tcplusfacebook&amp;fbclid=IwAR0u3Zf5JivoZNtJJ56XVXWCVpthsqGARTDbXdJekWZOH92UZ_lJpG6nY5I&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly9sLmZhY2Vib29rLmNvbS8&amp;guce_referrer_sig=AQAAAFrd1VCOA-pHjzsSPRBWa-hkRhJEYDhAvapQmsXbPEcdsCJN_RXbkQFxfXgusdknfDqcPCx48pybndgKY1qOY1PHymm7nrxeVwKqigGYwde3x9JYKid-eIl34qBGbJjnjN2Qz2dHjbZBsP9De8h0tWgPZU-oYJThdq3u5b-OKjJs">Boston Dynamics Atlas acum are mîini capabile</a></li>
+  <li><a href="https://www.theguardian.com/technology/2023/jan/17/free-the-nipple-meta-facebook-instagram">Free the nipples!</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/mac-mini/">Mac-uri noi, mai scumpe și mai ieftine</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2023/01/new-sony-walkman-music-players-feature-stunning-good-looks-android-12/">Sony Walkman</a></li>
+  <li><a href="https://www.wsj.com/video/series/news-explainers/elon-musks-tesla-tweets-trial-what-to-know/F2050DB1-EEB9-4489-9636-9569FD6F1C38?mod=e2fb&amp;fbclid=IwAR0oMZS3QF_UCBDBSc-c9LiaoIJQWUjlblwFpcCVY-98gnj8n7HFj2v_NfE">Boomerang Twits pentru Musk</a></li>
+  <li><a href="https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921">CNET deja folosește ChatGPT pentru articole</a></li>
+  <li><a href="https://techcrunch.com/2023/01/17/that-microsoft-deal-isnt-exclusive-video-is-coming-and-more-from-openai-ceo-sam-altman/?tpcc=tcplusfacebook&amp;fbclid=IwAR31Z_g6vRwcN3pevo8kF1tcGnuKzdQnu4Y5P_AmoYCnuOUS4Vlb8EdCAyo&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly9sLmZhY2Vib29rLmNvbS8&amp;guce_referrer_sig=AQAAAGZcI7Xx0NEagqWlLa2me8xsRqAYCWO063xUajUsiA9VjZEIau3Cdv8nCaGJZUpvNJVeSFpqtoDsBSglasqXK_3m-FeBlDi8OBhR285x_O3i07TqDzr1MNclhIqInSWv49AiXDIMUxZZw0FkBocDAt8DNoClOeM5iTuA37lBzTz6">Altman despre GPT 4</a></li>
+  <li><a href="https://www.theredhandfiles.com/chat-gpt-what-do-you-think/">Nick Cave zice că el suferă mai mult ca AI</a></li>
+  <li><a href="https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit">Getty Images vs Stable Diffusion</a></li>
+  <li><a href="https://www.theverge.com/2023/1/18/23560375/twitter-auction-company-assets-headquarters-bird-statue-coffee-machines">Bunuri din oficiu Twitter din San Francisco la vânzare</a></li>
+  <li><a href="https://techcrunch.com/2023/01/18/microsoft-announces-10000-job-cuts-nearly-5-of-its-workforce/">Microsoft dă afară 10k oameni</a></li>
+  <li><a href="https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/?tpcc=tcplusfacebook&amp;fbclid=IwAR0u3Zf5JivoZNtJJ56XVXWCVpthsqGARTDbXdJekWZOH92UZ_lJpG6nY5I&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly9sLmZhY2Vib29rLmNvbS8&amp;guce_referrer_sig=AQAAAFrd1VCOA-pHjzsSPRBWa-hkRhJEYDhAvapQmsXbPEcdsCJN_RXbkQFxfXgusdknfDqcPCx48pybndgKY1qOY1PHymm7nrxeVwKqigGYwde3x9JYKid-eIl34qBGbJjnjN2Qz2dHjbZBsP9De8h0tWgPZU-oYJThdq3u5b-OKjJs">Boston Dynamics Atlas acum are mîini capabile</a></li>
+  <li><a href="https://www.theguardian.com/technology/2023/jan/17/free-the-nipple-meta-facebook-instagram">Free the nipples!</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow76.mp3" 
+                         length="89184520" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:45</itunes:duration>
+            </item></channel>
+</rss>

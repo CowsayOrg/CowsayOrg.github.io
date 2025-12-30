@@ -1,0 +1,1172 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Cowsay Show</title>
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss5" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes8.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes6.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes4.mp3.rss" rel="prev" type="application/rss+xml" />
+
+    
+    <description>Podcast Moldovenesc depsre IT, business și oameni
+</description>
+    <lastBuildDate>Thu, 09 Oct 2025 21:58:14 +0300</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>Podcast Moldovenesc depsre IT, business și oameni
+</itunes:summary>
+    <itunes:author>Cowsay Crew ©</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:owner>
+      <itunes:name>Cowsay Crew ©</itunes:name>
+      <itunes:email>vlad.drahnea@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>vlad.drahnea@gmail.com (Cowsay Crew ©)</managingEditor>
+    <copyright>All Rights Reserved © Vlad Drahnea 2023</copyright>
+    <itunes:subtitle>Despre IT</itunes:subtitle>
+    <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
+    <image>
+      <title>Cowsay Show</title>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>#75 De asta se ocupă alt 💼 departament - </title>
+            <link>https://cowsay.show/2023/01/12/75.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/75"/>
+            <comments>https://cowsay.show/2023/01/12/75.html#disqus_thread</comments>
+            <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/01/12/75.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://edition.cnn.com/travel/article/faa-ground-stop-causes/index.html">Cer curat peste SUA pentru 2 ore</a></li>
+  <li><a href="https://2022.stateofjs.com/en-us/">State of JS 2022</a></li>
+  <li><a href="https://www.theverge.com/2023/1/11/23550470/microsoft-employees-unlimited-time-off-2023">Vacanță (ne)limitată la Microsoft</a></li>
+  <li><a href="https://twitter.com/nonmayorpete/status/1612664664214892551">Microsoft arendează ChatGPT</a></li>
+  <li><a href="https://valle-demo.github.io/">3 secunde și glasul tău nu mai e doar al tău…</a></li>
+  <li><a href="https://twitter.com/molly0xFFF/status/1612944868111794176">Yet another crypto success(not) story</a></li>
+  <li><a href="https://www.wired.com/story/meta-surveillance-capitalism/">End of surveillance capitalism?</a></li>
+</ul>
+
+<h2 id="vanea-la-mulți-ani">Vanea, La Mulți Ani!!!</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://edition.cnn.com/travel/article/faa-ground-stop-causes/index.html">Cer curat peste SUA pentru 2 ore</a></li>
+  <li><a href="https://2022.stateofjs.com/en-us/">State of JS 2022</a></li>
+  <li><a href="https://www.theverge.com/2023/1/11/23550470/microsoft-employees-unlimited-time-off-2023">Vacanță (ne)limitată la Microsoft</a></li>
+  <li><a href="https://twitter.com/nonmayorpete/status/1612664664214892551">Microsoft arendează ChatGPT</a></li>
+  <li><a href="https://valle-demo.github.io/">3 secunde și glasul tău nu mai e doar al tău…</a></li>
+  <li><a href="https://twitter.com/molly0xFFF/status/1612944868111794176">Yet another crypto success(not) story</a></li>
+  <li><a href="https://www.wired.com/story/meta-surveillance-capitalism/">End of surveillance capitalism?</a></li>
+</ul>
+
+<h2 id="vanea-la-mulți-ani">Vanea, La Mulți Ani!!!</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow75.mp3" 
+                         length="85476493" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:58:33</itunes:duration>
+            </item><item>
+            <title>#74 Anul trecut a fost unul 🪨 greu... - </title>
+            <link>https://cowsay.show/2023/01/05/74.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/74"/>
+            <comments>https://cowsay.show/2023/01/05/74.html#disqus_thread</comments>
+            <pubDate>Thu, 05 Jan 2023 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/01/05/74.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="primul-episod-din-noul-an-și-sezon-trebuie-să-fie-de-totalizare-thre-is-no-escape-haideți-să-mai-plângem-pe-seama-2022">Primul episod din noul an (și sezon) trebuie să fie de totalizare. Thre is no escape. Haideți să mai plângem pe seama 2022.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="primul-episod-din-noul-an-și-sezon-trebuie-să-fie-de-totalizare-thre-is-no-escape-haideți-să-mai-plângem-pe-seama-2022">Primul episod din noul an (și sezon) trebuie să fie de totalizare. Thre is no escape. Haideți să mai plângem pe seama 2022.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow74.mp3" 
+                         length="89822016" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:04:00</itunes:duration>
+            </item><item>
+            <title>#73 Cine-ți ascultă telefonul👂? - </title>
+            <link>https://cowsay.show/2022/12/04/73.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/73"/>
+            <comments>https://cowsay.show/2022/12/04/73.html#disqus_thread</comments>
+            <pubDate>Sun, 04 Dec 2022 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/12/04/73.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="ce-este-e2e-encryption-și-de-ce-ar-trebui-să-ne-pese-ce-riscuri-prezintă-platformele-moderne-de-comunicare-și-unde-ți-poți-găsi-parola-uitată-de-la-torrentsmd-acestea-și-multe-alte-întrebări-vor-fi-discutate-duminica-aceasta-la-cowsay-cu-patronul-și-invitatul-nostru-special-nicu-soare">Ce este E2E encryption și de ce ar trebui să ne pese? Ce riscuri prezintă platformele moderne de comunicare și unde-ți poți găsi parola uitată de la torrents.md? Acestea și multe alte întrebări vor fi discutate duminica aceasta la Cowsay cu patronul, și invitatul nostru special, Nicu Soare.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="ce-este-e2e-encryption-și-de-ce-ar-trebui-să-ne-pese-ce-riscuri-prezintă-platformele-moderne-de-comunicare-și-unde-ți-poți-găsi-parola-uitată-de-la-torrentsmd-acestea-și-multe-alte-întrebări-vor-fi-discutate-duminica-aceasta-la-cowsay-cu-patronul-și-invitatul-nostru-special-nicu-soare">Ce este E2E encryption și de ce ar trebui să ne pese? Ce riscuri prezintă platformele moderne de comunicare și unde-ți poți găsi parola uitată de la torrents.md? Acestea și multe alte întrebări vor fi discutate duminica aceasta la Cowsay cu patronul, și invitatul nostru special, Nicu Soare.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow73.mp3" 
+                         length="98278844" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:11:50</itunes:duration>
+            </item><item>
+            <title>#72 Sfârșitul umilitor geniului 🫠 sumbru - </title>
+            <link>https://cowsay.show/2022/11/20/72.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/72"/>
+            <comments>https://cowsay.show/2022/11/20/72.html#disqus_thread</comments>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/11/20/72.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="de-când-twitter-a-fost-cumpărat-de-musk-se-întâmplă-lucruri-despre-care-nu-putem-tace-și-nu-o-să-">De când Twitter a fost cumpărat de Musk se întâmplă lucruri despre care nu putem tace. Și nu o să 🙂</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="de-când-twitter-a-fost-cumpărat-de-musk-se-întâmplă-lucruri-despre-care-nu-putem-tace-și-nu-o-să-">De când Twitter a fost cumpărat de Musk se întâmplă lucruri despre care nu putem tace. Și nu o să 🙂</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow72.mp3" 
+                         length="83650207" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:15:15</itunes:duration>
+            </item><item>
+            <title>#71 ☑️ Viață după development - </title>
+            <link>https://cowsay.show/2022/10/30/71.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/71"/>
+            <comments>https://cowsay.show/2022/10/30/71.html#disqus_thread</comments>
+            <pubDate>Sun, 30 Oct 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/10/30/71.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="dilema-carierei-pentru-mulți-dezvoltători-la-un-moment-dat-începe-să-sune-la-fel-stau-mai-departe-pe-ramura-tehnologică-sau-fac-schimbarea-spre-management-inga-codreanu-este-developer-ul-care-a-optat-pentru-a-merge-spre-em-ce-este-em-și-cum-asta-diferă-de-restul-management-ului-și-vom-afla-de-la-ea-în-primul-episod-din-noul-sezon">Dilema carierei pentru mulți dezvoltători, la un moment dat, începe să sune la fel: stau mai departe pe ramura tehnologică sau fac schimbarea spre management. Inga Codreanu este developer-ul care a optat pentru a merge spre EM. Ce este EM și cum asta diferă de restul management-ului și vom afla de la ea în primul episod din noul sezon.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="dilema-carierei-pentru-mulți-dezvoltători-la-un-moment-dat-începe-să-sune-la-fel-stau-mai-departe-pe-ramura-tehnologică-sau-fac-schimbarea-spre-management-inga-codreanu-este-developer-ul-care-a-optat-pentru-a-merge-spre-em-ce-este-em-și-cum-asta-diferă-de-restul-management-ului-și-vom-afla-de-la-ea-în-primul-episod-din-noul-sezon">Dilema carierei pentru mulți dezvoltători, la un moment dat, începe să sune la fel: stau mai departe pe ramura tehnologică sau fac schimbarea spre management. Inga Codreanu este developer-ul care a optat pentru a merge spre EM. Ce este EM și cum asta diferă de restul management-ului și vom afla de la ea în primul episod din noul sezon.</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow71.mp3" 
+                         length="68163179" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:08:43</itunes:duration>
+            </item><item>
+            <title>#70 Criza 👷 Recrutării - </title>
+            <link>https://cowsay.show/2022/08/02/70.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/70"/>
+            <comments>https://cowsay.show/2022/08/02/70.html#disqus_thread</comments>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/08/02/70.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="împreună-cu-lia-plămădeală-de-la-orange-franța-încercăm-să-înțelegem-ce-se-întâmplă-pe-piața-de-angajare-și-ce-fac-companiile-pentru-a-rămâne-competitive">Împreună cu Lia Plămădeală de la Orange, Franța încercăm să înțelegem ce se întâmplă pe piața de angajare și ce fac companiile pentru a rămâne competitive</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="împreună-cu-lia-plămădeală-de-la-orange-franța-încercăm-să-înțelegem-ce-se-întâmplă-pe-piața-de-angajare-și-ce-fac-companiile-pentru-a-rămâne-competitive">Împreună cu Lia Plămădeală de la Orange, Franța încercăm să înțelegem ce se întâmplă pe piața de angajare și ce fac companiile pentru a rămâne competitive</h2>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow70.mp3" 
+                         length="44935390" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:47:21</itunes:duration>
+            </item><item>
+            <title>#69 e-vot 🗳️ în Moldova? - </title>
+            <link>https://cowsay.show/2022/07/04/_69.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_69"/>
+            <comments>https://cowsay.show/2022/07/04/_69.html#disqus_thread</comments>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/07/04/_69.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="astăzi-avem-doar-o-temă-în-discuție-e-votul-în-moldova">Astăzi avem doar o temă în discuție: e-votul în Moldova</h2>
+
+<p>Și oaspeții noștri Vitalie Eșanu și Dumitru Alaiba, ne vor ajuta să înțelegem cât de aplicabil, necesar și viabil este votarea electronică pentru Moldova.</p>
+
+<ul>
+  <li>CEC a <a href="https://a.cec.md/ro/conceptul-sistemului-de-vot-prin-internet-e-votare-a-2781_102036.html?fbclid=IwAR3KuJxP5u8KxKqW5O1xbKmmOVGhPcG1ZeDQQCLoWKZLp2TdQ2oZwJKsrIk">anunțat că decizia de a adopta e-votul a fost adoptată</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="astăzi-avem-doar-o-temă-în-discuție-e-votul-în-moldova">Astăzi avem doar o temă în discuție: e-votul în Moldova</h2>
+
+<p>Și oaspeții noștri Vitalie Eșanu și Dumitru Alaiba, ne vor ajuta să înțelegem cât de aplicabil, necesar și viabil este votarea electronică pentru Moldova.</p>
+
+<ul>
+  <li>CEC a <a href="https://a.cec.md/ro/conceptul-sistemului-de-vot-prin-internet-e-votare-a-2781_102036.html?fbclid=IwAR3KuJxP5u8KxKqW5O1xbKmmOVGhPcG1ZeDQQCLoWKZLp2TdQ2oZwJKsrIk">anunțat că decizia de a adopta e-votul a fost adoptată</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow69.mp3" 
+                         length="52848397" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:06</itunes:duration>
+            </item><item>
+            <title>#68 🧚 Noutăți bune - </title>
+            <link>https://cowsay.show/2022/06/24/_68.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_68"/>
+            <comments>https://cowsay.show/2022/06/24/_68.html#disqus_thread</comments>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/06/24/_68.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=IMpWH6vDZ8E&amp;t=3s">Ochelarii lui Zukerberg</a></li>
+  <li>[Copilot acum e cu plată]](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)</li>
+  <li><a href="https://www.engadget.com/ebay-acquires-nft-art-marketplace-knownorigin-055636700.html?src=rss&amp;guccounter=1">eBay vrea NFT-uri</a></li>
+  <li><a href="https://twitter.com/mrjasonchoi/status/1539140816505274368?s=21&amp;t=6AX5V_s6Y3lO5NxQQboVBA">Random Lamp</a></li>
+  <li><a href="https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right">Apple sunt răi. Spune cine? Facebook? :)</a></li>
+  <li><a href="https://www.macrumors.com/roundup/wwdc/">WWDC22</a></li>
+  <li><a href="https://benoitessiambre.com/macro.html">Simulator de Inflație</a></li>
+  <li><a href="https://ifuckinghatejira.com/2/">I fucking hate Jira</a></li>
+  <li><a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#">De ce estimările nu se pupă cu realitatea</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=IMpWH6vDZ8E&amp;t=3s">Ochelarii lui Zukerberg</a></li>
+  <li>[Copilot acum e cu plată]](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)</li>
+  <li><a href="https://www.engadget.com/ebay-acquires-nft-art-marketplace-knownorigin-055636700.html?src=rss&amp;guccounter=1">eBay vrea NFT-uri</a></li>
+  <li><a href="https://twitter.com/mrjasonchoi/status/1539140816505274368?s=21&amp;t=6AX5V_s6Y3lO5NxQQboVBA">Random Lamp</a></li>
+  <li><a href="https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right">Apple sunt răi. Spune cine? Facebook? :)</a></li>
+  <li><a href="https://www.macrumors.com/roundup/wwdc/">WWDC22</a></li>
+  <li><a href="https://benoitessiambre.com/macro.html">Simulator de Inflație</a></li>
+  <li><a href="https://ifuckinghatejira.com/2/">I fucking hate Jira</a></li>
+  <li><a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#">De ce estimările nu se pupă cu realitatea</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow68.mp3" 
+                         length="71177101" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:09:29</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#67 🚽 Crypto homeless - </title>
+            <link>https://cowsay.show/2022/06/17/_67.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_67"/>
+            <comments>https://cowsay.show/2022/06/17/_67.html#disqus_thread</comments>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/06/17/_67.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.hertzbleed.com/">Hertzbleed</a></li>
+  <li>Instorii de success la <a href="https://twitter.com/kyliebytes/status/1535270143239987200?s=21&amp;t=Xbt8_oIoEGIA6w-9luyLDw">Bolt</a></li>
+  <li><a href="https://www.theverge.com/2022/6/3/23153615/square-apple-tap-to-pay-beta-contactless">Primul adopter al Apple Tap to Pay</a></li>
+  <li><a href="https://www.linkedin.com/news/story/google-chatbot-says-it-has-a-soul-4821793/">Cum Google a alungat potențialul contact cu AI adevărat</a></li>
+  <li><a href="https://techcrunch.com/2022/06/16/discord-automod-premium-memberships/">Spam protecție la Discord</a></li>
+  <li><a href="https://www.forbes.com/sites/brianbushard/2022/06/16/spacex-employees-reportedly-condemn-elon-musks-behavior-in-open-letter/?sh=6a74b0747588">Lucrătorii de la SpaceX încep să aibă dubii</a></li>
+  <li><a href="https://www.fastcompany.com/90761032/cryptos-bloodbath-proves-why-bitcoin-is-not-digital-gold">Istorii de succes cu crypto</a> sau cum totul <a href="https://www.forbes.com/advisor/investing/cryptocurrency/why-is-crypto-down-today/">se topește</a> iar companiile continue să <a href="https://www.wsj.com/articles/crypto-exchange-coinbase-to-lay-off-18-of-staff-11655211069">dea oamenii afară</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.hertzbleed.com/">Hertzbleed</a></li>
+  <li>Instorii de success la <a href="https://twitter.com/kyliebytes/status/1535270143239987200?s=21&amp;t=Xbt8_oIoEGIA6w-9luyLDw">Bolt</a></li>
+  <li><a href="https://www.theverge.com/2022/6/3/23153615/square-apple-tap-to-pay-beta-contactless">Primul adopter al Apple Tap to Pay</a></li>
+  <li><a href="https://www.linkedin.com/news/story/google-chatbot-says-it-has-a-soul-4821793/">Cum Google a alungat potențialul contact cu AI adevărat</a></li>
+  <li><a href="https://techcrunch.com/2022/06/16/discord-automod-premium-memberships/">Spam protecție la Discord</a></li>
+  <li><a href="https://www.forbes.com/sites/brianbushard/2022/06/16/spacex-employees-reportedly-condemn-elon-musks-behavior-in-open-letter/?sh=6a74b0747588">Lucrătorii de la SpaceX încep să aibă dubii</a></li>
+  <li><a href="https://www.fastcompany.com/90761032/cryptos-bloodbath-proves-why-bitcoin-is-not-digital-gold">Istorii de succes cu crypto</a> sau cum totul <a href="https://www.forbes.com/advisor/investing/cryptocurrency/why-is-crypto-down-today/">se topește</a> iar companiile continue să <a href="https://www.wsj.com/articles/crypto-exchange-coinbase-to-lay-off-18-of-staff-11655211069">dea oamenii afară</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow67.mp3" 
+                         length="53064500" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:02</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#66 🎛️ End of Remote? - </title>
+            <link>https://cowsay.show/2022/06/03/_66.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_66"/>
+            <comments>https://cowsay.show/2022/06/03/_66.html#disqus_thread</comments>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/06/03/_66.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/samnissim/status/1531810291222192130?s=12&amp;t=XT_1E3nILTZ88iVfUr9ZFg">Musk îi alungă pe toți la oficiu</a></li>
+  <li>Noi valuri de concedieri la <a href="https://techcrunch.com/2022/06/01/a16z-backed-loom-video-layoffs/">Loom</a> și <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftechcrunch.com%2F2022%2F06%2F02%2Fgemini-lays-off-10-of-workforce-as-the-crypto-revolution-enters-its-contraction-phase%2F%3Ffbclid%3DIwAR2l-zcoi8cu1tjdGGPbEbxsqbLh87qqfA5Ng-NTz-wIdr7YOg3sqXKXedY&amp;h=AT3zqi5dBT07tfwUKG-81KEHCkVPwlBZ9xMJmFE7mUNny7u6eM3wYWaSFDKvzhQ_itDYHw5e4rksJssJ6r0Zk3W5JYw9tMyUR_14s2yAvqEgqc7Xk3wr2fi-1Hm-6vy-AoPi5bCJjg&amp;__tn__=R]-R&amp;c[0]=AT3Z_f8Lc4ia-4u-J1AL9Ifqt7wsMrmlOl1B2MPvbYgxfHLcuStoOJi-JUFkqn4lVRuukLVTW033Axc0qJln80nxxdRDo6HaTeiBnqoPY-Dq0wTK9C_sbsJCQ6RnAjcD1wHbugpvEFCtfOKSyWGmr5QdZwymdqsVESVZ1n83Zr9PzWTwX9WzwMvEogqWSJymTk5Q6BZ0q2hewLq7b1_MdNcoHKMkfyTSzJ3WT3lHa2U5Pg">Gemini</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2022-05-16/microsoft-to-boost-salaries-to-keep-workers-cope-with-inflation?fbclid=IwAR1mdpYS8Dd81NMST1BQZF1VIxq7pRDXzxT0YXpatODZPK3XtzepXVw4CaI">Microsoft dublează salariile</a></li>
+  <li><a href="https://finance.yahoo.com/news/why-the-fed-wants-corporate-america-to-have-a-hiring-freeze-morning-brief-100055174.html">Guvernul federal vrea ca companiile să angajeze mai puțin</a></li>
+  <li><a href="https://newsroom.spotify.com/2022-05-18/spotify-and-accenture-collaborate-to-offer-spotify-premium-as-an-employee-perk/?utm_source=podnews.net&amp;utm_medium=email&amp;utm_campaign=podnews.net:2022-05-27">Vino la Accenture și primește Spotify gratuit</a></li>
+  <li><a href="https://www.cbsnews.com/news/sheryl-sandberg-leaving-facebook-meta/">Meta reduce CO2, - Sheryl Sandberg</a></li>
+  <li><a href="https://www.bbc.com/news/business-61609689">Tenis cu roboțeii</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/samnissim/status/1531810291222192130?s=12&amp;t=XT_1E3nILTZ88iVfUr9ZFg">Musk îi alungă pe toți la oficiu</a></li>
+  <li>Noi valuri de concedieri la <a href="https://techcrunch.com/2022/06/01/a16z-backed-loom-video-layoffs/">Loom</a> și <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftechcrunch.com%2F2022%2F06%2F02%2Fgemini-lays-off-10-of-workforce-as-the-crypto-revolution-enters-its-contraction-phase%2F%3Ffbclid%3DIwAR2l-zcoi8cu1tjdGGPbEbxsqbLh87qqfA5Ng-NTz-wIdr7YOg3sqXKXedY&amp;h=AT3zqi5dBT07tfwUKG-81KEHCkVPwlBZ9xMJmFE7mUNny7u6eM3wYWaSFDKvzhQ_itDYHw5e4rksJssJ6r0Zk3W5JYw9tMyUR_14s2yAvqEgqc7Xk3wr2fi-1Hm-6vy-AoPi5bCJjg&amp;__tn__=R]-R&amp;c[0]=AT3Z_f8Lc4ia-4u-J1AL9Ifqt7wsMrmlOl1B2MPvbYgxfHLcuStoOJi-JUFkqn4lVRuukLVTW033Axc0qJln80nxxdRDo6HaTeiBnqoPY-Dq0wTK9C_sbsJCQ6RnAjcD1wHbugpvEFCtfOKSyWGmr5QdZwymdqsVESVZ1n83Zr9PzWTwX9WzwMvEogqWSJymTk5Q6BZ0q2hewLq7b1_MdNcoHKMkfyTSzJ3WT3lHa2U5Pg">Gemini</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2022-05-16/microsoft-to-boost-salaries-to-keep-workers-cope-with-inflation?fbclid=IwAR1mdpYS8Dd81NMST1BQZF1VIxq7pRDXzxT0YXpatODZPK3XtzepXVw4CaI">Microsoft dublează salariile</a></li>
+  <li><a href="https://finance.yahoo.com/news/why-the-fed-wants-corporate-america-to-have-a-hiring-freeze-morning-brief-100055174.html">Guvernul federal vrea ca companiile să angajeze mai puțin</a></li>
+  <li><a href="https://newsroom.spotify.com/2022-05-18/spotify-and-accenture-collaborate-to-offer-spotify-premium-as-an-employee-perk/?utm_source=podnews.net&amp;utm_medium=email&amp;utm_campaign=podnews.net:2022-05-27">Vino la Accenture și primește Spotify gratuit</a></li>
+  <li><a href="https://www.cbsnews.com/news/sheryl-sandberg-leaving-facebook-meta/">Meta reduce CO2, - Sheryl Sandberg</a></li>
+  <li><a href="https://www.bbc.com/news/business-61609689">Tenis cu roboțeii</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow66.mp3" 
+                         length="61644877" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>59:51</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#65 🚁 Apocalypse Now - </title>
+            <link>https://cowsay.show/2022/06/03/_65.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_65"/>
+            <comments>https://cowsay.show/2022/06/03/_65.html#disqus_thread</comments>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/06/03/_65.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow65.mp3" 
+                         length="63595357" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:00:47</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#64 ☀️ Mergem Înainte - </title>
+            <link>https://cowsay.show/2022/06/03/_64.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_64"/>
+            <comments>https://cowsay.show/2022/06/03/_64.html#disqus_thread</comments>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/06/03/_64.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow64.mp3" 
+                         length="64650685" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:33</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#63 Cât de talentat ✨ ești? - </title>
+            <link>https://cowsay.show/2022/02/22/_63-c_t-de-talentat-_-e_ti_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_63-c_t-de-talentat-_-e_ti_"/>
+            <comments>https://cowsay.show/2022/02/22/_63-c_t-de-talentat-_-e_ti_.html#disqus_thread</comments>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2022/02/22/_63-c_t-de-talentat-_-e_ti_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Un pic despre Advent of Code</li>
+  <li><a href="https://www.youtube.com/watch?v=hIJdFxYlEKE">Mitul programatorului talentat</a></li>
+  <li><a href="https://arstechnica.com/gaming/2021/12/stadia-finally-launches-on-lg-tvs-shows-off-the-greatness-that-couldve-been/?comments=1">Stadia Zombie</a></li>
+  <li><a href="https://anchor.fm/deepdreams">GPT-3 Podcast</a></li>
+  <li><a href="https://www.google.de/amp/s/www.nytimes.com/2021/11/30/business/dealbook/jack-dorsey-twitter.amp.html">Jack Dorsey lasă Twitter</a></li>
+  <li><a href="https://techcrunch.com/2021/12/08/instagram-head-adam-mosseri-says-the-app-will-offer-a-chronological-feed-option-early-next-year/">Insta vrea să întoarcă lenta cronologică</a></li>
+  <li><a href="https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint?utm_source=pocket_mylist">Fiecare inginer trebuie săă încerce consulting-ul?</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Un pic despre Advent of Code</li>
+  <li><a href="https://www.youtube.com/watch?v=hIJdFxYlEKE">Mitul programatorului talentat</a></li>
+  <li><a href="https://arstechnica.com/gaming/2021/12/stadia-finally-launches-on-lg-tvs-shows-off-the-greatness-that-couldve-been/?comments=1">Stadia Zombie</a></li>
+  <li><a href="https://anchor.fm/deepdreams">GPT-3 Podcast</a></li>
+  <li><a href="https://www.google.de/amp/s/www.nytimes.com/2021/11/30/business/dealbook/jack-dorsey-twitter.amp.html">Jack Dorsey lasă Twitter</a></li>
+  <li><a href="https://techcrunch.com/2021/12/08/instagram-head-adam-mosseri-says-the-app-will-offer-a-chronological-feed-option-early-next-year/">Insta vrea să întoarcă lenta cronologică</a></li>
+  <li><a href="https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint?utm_source=pocket_mylist">Fiecare inginer trebuie săă încerce consulting-ul?</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow63.mp3" 
+                         length="56890477" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:56:02</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#62 🎶 Oda oportunităților pierdute - </title>
+            <link>https://cowsay.show/2021/11/29/_62-_-oda-oportunit__ilor-pierdute.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_62-_-oda-oportunit__ilor-pierdute"/>
+            <comments>https://cowsay.show/2021/11/29/_62-_-oda-oportunit__ilor-pierdute.html#disqus_thread</comments>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/11/29/_62-_-oda-oportunit__ilor-pierdute.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/">Programul de reparație desinestătătoare de la Apple</a></li>
+  <li><a href="https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/">Clei și Photoshop bat amprenta</a></li>
+  <li><a href="https://www.google.de/amp/s/theconversation.com/amp/adele-has-successfully-asked-spotify-to-remove-shuffle-from-albums-heres-why-thats-important-for-musicians-172301">Adele care mișcă Spotify-ul</a></li>
+  <li><a href="https://fossbytes.com/winamp-redesign-streamng-service-podcast/">Streaming de la Winamp?</a></li>
+  <li><a href="https://www.wsj.com/articles/jpmorgans-jamie-dimon-and-teslas-elon-musk-feud-behind-the-scenes-11637586001">Musk vs Dimon de la JP Morgan</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/">Programul de reparație desinestătătoare de la Apple</a></li>
+  <li><a href="https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/">Clei și Photoshop bat amprenta</a></li>
+  <li><a href="https://www.google.de/amp/s/theconversation.com/amp/adele-has-successfully-asked-spotify-to-remove-shuffle-from-albums-heres-why-thats-important-for-musicians-172301">Adele care mișcă Spotify-ul</a></li>
+  <li><a href="https://fossbytes.com/winamp-redesign-streamng-service-podcast/">Streaming de la Winamp?</a></li>
+  <li><a href="https://www.wsj.com/articles/jpmorgans-jamie-dimon-and-teslas-elon-musk-feud-behind-the-scenes-11637586001">Musk vs Dimon de la JP Morgan</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow62.mp3" 
+                         length="59922157" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:52:21</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#61 🪧 Adds Everywhere (even in Meta) - </title>
+            <link>https://cowsay.show/2021/11/12/_61-_-adds-everywhere-_even-in-meta_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_61-_-adds-everywhere-_even-in-meta_"/>
+            <comments>https://cowsay.show/2021/11/12/_61-_-adds-everywhere-_even-in-meta_.html#disqus_thread</comments>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/11/12/_61-_-adds-everywhere-_even-in-meta_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features">Microsoft Teams în Metaverse</a></li>
+  <li><a href="https://techcrunch.com/2021/11/02/microsoft-launches-google-wave/?guccounter=1">Mircosoft Wave+Notion?</a></li>
+  <li><a href="https://techcrunch.com/2021/10/27/linkedin-rolls-out-its-freelance-services-marketplace-globally-after-picking-up-2m-users-in-smaller-us-beta/">Freelance platformă de la Linkedin</a></li>
+  <li><a href="https://techcrunch.com/2021/11/10/elon-musk-has-sold-more-than-1b-in-tesla-stock/?tpcc=tcplusfacebook&amp;fbclid=IwAR2RWxEk2643T_go5XbtfpuTOYyyNsHp15qvtbbIvJHe9CYPCbbphNlFY2w&amp;guccounter=1&amp;guce_referrer=aHR0cDovL20uZmFjZWJvb2suY29t&amp;guce_referrer_sig=AQAAACFvn1ihUVs6HXzjeuegqX7mNcdhHljnVc5eZYIvLsAeo0UdQ7L6y6TLml2_x8zPxBldxXBpwGcaAf3PiJlVOsUN-yc-Xr22pNAy23lh9vx9K5mVWOAt2sHt7GvrjHkQ1__f4HaG-LADXRW3Yd0eN6XqO1cEIUdiIdGs6JmDBqEO">Muks chiar va vinde Tesla options?</a></li>
+  <li><a href="https://www.infoq.com/news/2021/10/github-universe-2021/">Ultimul Github Universe pentru Nat Friedman</a></li>
+  <li><a href="https://blog.youtube/news-and-events/update-to-youtube/">Youtube dislikes dislike button</a></li>
+  <li><a href="https://www.techtimes.com/articles/267743/20211109/telegram-release-inexpensive-subscription-model-remove-ads-platform.htm">ADS EVERYWHERE!!!</a></li>
+  <li><a href="https://techcrunch.com/2021/11/09/new-integration-lets-you-query-tableau-data-in-slack-by-asking-a-question/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAAUK36JKZendik9zlQDkb85qmDhXJcLg_7rcIXYW8NOVJCEanjxv6r9j0nn26d-qCUtMyMVVV35jKNts-5NZ3aSAFg_0dQ97Iudb1adlYeZjLP0Wv_hjg448MnDkXh_XKsa8UsfD806ZyMb9CBcfLUtQljuSxpvE4EIn3RzgaZ8Y">Slack + Tableau</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features">Microsoft Teams în Metaverse</a></li>
+  <li><a href="https://techcrunch.com/2021/11/02/microsoft-launches-google-wave/?guccounter=1">Mircosoft Wave+Notion?</a></li>
+  <li><a href="https://techcrunch.com/2021/10/27/linkedin-rolls-out-its-freelance-services-marketplace-globally-after-picking-up-2m-users-in-smaller-us-beta/">Freelance platformă de la Linkedin</a></li>
+  <li><a href="https://techcrunch.com/2021/11/10/elon-musk-has-sold-more-than-1b-in-tesla-stock/?tpcc=tcplusfacebook&amp;fbclid=IwAR2RWxEk2643T_go5XbtfpuTOYyyNsHp15qvtbbIvJHe9CYPCbbphNlFY2w&amp;guccounter=1&amp;guce_referrer=aHR0cDovL20uZmFjZWJvb2suY29t&amp;guce_referrer_sig=AQAAACFvn1ihUVs6HXzjeuegqX7mNcdhHljnVc5eZYIvLsAeo0UdQ7L6y6TLml2_x8zPxBldxXBpwGcaAf3PiJlVOsUN-yc-Xr22pNAy23lh9vx9K5mVWOAt2sHt7GvrjHkQ1__f4HaG-LADXRW3Yd0eN6XqO1cEIUdiIdGs6JmDBqEO">Muks chiar va vinde Tesla options?</a></li>
+  <li><a href="https://www.infoq.com/news/2021/10/github-universe-2021/">Ultimul Github Universe pentru Nat Friedman</a></li>
+  <li><a href="https://blog.youtube/news-and-events/update-to-youtube/">Youtube dislikes dislike button</a></li>
+  <li><a href="https://www.techtimes.com/articles/267743/20211109/telegram-release-inexpensive-subscription-model-remove-ads-platform.htm">ADS EVERYWHERE!!!</a></li>
+  <li><a href="https://techcrunch.com/2021/11/09/new-integration-lets-you-query-tableau-data-in-slack-by-asking-a-question/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAAUK36JKZendik9zlQDkb85qmDhXJcLg_7rcIXYW8NOVJCEanjxv6r9j0nn26d-qCUtMyMVVV35jKNts-5NZ3aSAFg_0dQ97Iudb1adlYeZjLP0Wv_hjg448MnDkXh_XKsa8UsfD806ZyMb9CBcfLUtQljuSxpvE4EIn3RzgaZ8Y">Slack + Tableau</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow61.mp3" 
+                         length="68234365" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:06:21</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#60 🐟 Șpotify - </title>
+            <link>https://cowsay.show/2021/11/01/_60-_-_potify.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_60-_-_potify"/>
+            <comments>https://cowsay.show/2021/11/01/_60-_-_potify.html#disqus_thread</comments>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/11/01/_60-_-_potify.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/">Performanța și stranietatea noilor Macbooks</a></li>
+  <li><a href="https://www.macrumors.com/2021/10/28/scale-to-fit-below-built-in-camera-setting-notch/?scrolla=5eb6d68b7fedc32c19ef33b4">Sprânceana magică</a></li>
+  <li><a href="https://variety.com/2021/digital/news/spotify-shopify-ecommerce-merch-1235093368/">Spotify + Shopify = &lt;3</a></li>
+  <li><a href="https://www.shopify.com/counter">Shopify counter</a></li>
+  <li><a href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev">VSCode.dev</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/">Performanța și stranietatea noilor Macbooks</a></li>
+  <li><a href="https://www.macrumors.com/2021/10/28/scale-to-fit-below-built-in-camera-setting-notch/?scrolla=5eb6d68b7fedc32c19ef33b4">Sprânceana magică</a></li>
+  <li><a href="https://variety.com/2021/digital/news/spotify-shopify-ecommerce-merch-1235093368/">Spotify + Shopify = &lt;3</a></li>
+  <li><a href="https://www.shopify.com/counter">Shopify counter</a></li>
+  <li><a href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev">VSCode.dev</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow60.mp3" 
+                         length="55811005" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:54:00</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#59 🍕 Extras - </title>
+            <link>https://cowsay.show/2021/11/01/_59-_-extras.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_59-_-extras"/>
+            <comments>https://cowsay.show/2021/11/01/_59-_-extras.html#disqus_thread</comments>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/11/01/_59-_-extras.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/">Twitch e open source acum, dar nu voluntar ;)</a></li>
+  <li><a href="https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/">JavaScript și cheițele rele SSH</a></li>
+  <li><a href="https://cloud.google.com/compute/docs/instances/spot#preemption">Spot VMs de la Google Cloud</a></li>
+  <li><a href="https://blog.ycombinator.com/gitlab-from-yc-to-ipo/">GitLAb IPO</a></li>
+  <li><a href="https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf">Nu de mirare dar Android smartpho-anele colectează multe date</a></li>
+  <li><a href="https://michaelgummelt.medium.com/crypto-services-are-neither-decentralized-nor-trustworthy-f43c0a19a400">Ethereum nu-i atât de decentralizat cum crezi</a></li>
+  <li><a href="http://www.bennorthrop.com/Essays/2021/always-do-extra.php">Always do extra!</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/">Twitch e open source acum, dar nu voluntar ;)</a></li>
+  <li><a href="https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/">JavaScript și cheițele rele SSH</a></li>
+  <li><a href="https://cloud.google.com/compute/docs/instances/spot#preemption">Spot VMs de la Google Cloud</a></li>
+  <li><a href="https://blog.ycombinator.com/gitlab-from-yc-to-ipo/">GitLAb IPO</a></li>
+  <li><a href="https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf">Nu de mirare dar Android smartpho-anele colectează multe date</a></li>
+  <li><a href="https://michaelgummelt.medium.com/crypto-services-are-neither-decentralized-nor-trustworthy-f43c0a19a400">Ethereum nu-i atât de decentralizat cum crezi</a></li>
+  <li><a href="http://www.bennorthrop.com/Essays/2021/always-do-extra.php">Always do extra!</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow59.mp3" 
+                         length="67292845" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:04:29</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#58 🎱 Facebook - </title>
+            <link>https://cowsay.show/2021/11/01/_58-_-facebook.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_58-_-facebook"/>
+            <comments>https://cowsay.show/2021/11/01/_58-_-facebook.html#disqus_thread</comments>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/11/01/_58-_-facebook.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>Această ediție este totalmente dedicată Facebook. Asculater plăcută!</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>Această ediție este totalmente dedicată Facebook. Asculater plăcută!</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow58.mp3" 
+                         length="49639789" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:49:22</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#57 🦿 Robots' issues - </title>
+            <link>https://cowsay.show/2021/10/01/_57-robots_-issues.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_57-robots_-issues"/>
+            <comments>https://cowsay.show/2021/10/01/_57-robots_-issues.html#disqus_thread</comments>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/10/01/_57-robots_-issues.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.forbes.com/sites/kenrickcai/2021/09/28/elon-musk-responds-to-replacing-jeff-bezos-richest-person-silver-medal/?sh=40f704911cd4">Elon Musk - Pozer</a></li>
+  <li><a href="https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking">Amazon Astro</a></li>
+  <li><a href="https://gizmodo.com/spot-has-a-new-gig-as-a-robo-guard-dog-1847702442?fbclid=IwAR25ieV793kY8FKhlYRGKLj5zIqqAsrF2KoqPnJTq7jfyvFrJ9b_Bmsq2Z0">Spot - cîine de securitate</a></li>
+  <li><a href="https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic?fbclid=IwAR3gTci79tKgbnq9SxZ1KR1CTFfdDrQn_7Ko0veXPMoKO43ddlS_KX4-1aM">AI-ul e toxic, și nimeni nu știe ce de făcut cu asta</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/09/google-tells-eu-court-its-the-1-search-query-on-bing/?comments=1">Google tot mai desperat în lupta cu legile antimonopole</a></li>
+  <li><a href="https://shitlassian.com/?fbclid=IwAR25ieV793kY8FKhlYRGKLj5zIqqAsrF2KoqPnJTq7jfyvFrJ9b_Bmsq2Z0">Whatlassian?</a></li>
+</ul>
+
+<h3 id="python-developer-wanted">Python Developer Wanted!</h3>
+<p>Compania StyleMi este în creștere și caută dezvoltători Python (și iOS). StyleMi este un agregator de haine și articole de modă care permite găsirea simplă a produsului dorit cupă multiple criterii și cu ajutorul intrumentelor de personalizare. Mai multe detalii despre oportunitate găsiți <a href="https://bit.ly/3BbA8I5">aici</a> sau la email-ul: dmitri@stylemi.co.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.forbes.com/sites/kenrickcai/2021/09/28/elon-musk-responds-to-replacing-jeff-bezos-richest-person-silver-medal/?sh=40f704911cd4">Elon Musk - Pozer</a></li>
+  <li><a href="https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking">Amazon Astro</a></li>
+  <li><a href="https://gizmodo.com/spot-has-a-new-gig-as-a-robo-guard-dog-1847702442?fbclid=IwAR25ieV793kY8FKhlYRGKLj5zIqqAsrF2KoqPnJTq7jfyvFrJ9b_Bmsq2Z0">Spot - cîine de securitate</a></li>
+  <li><a href="https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic?fbclid=IwAR3gTci79tKgbnq9SxZ1KR1CTFfdDrQn_7Ko0veXPMoKO43ddlS_KX4-1aM">AI-ul e toxic, și nimeni nu știe ce de făcut cu asta</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/09/google-tells-eu-court-its-the-1-search-query-on-bing/?comments=1">Google tot mai desperat în lupta cu legile antimonopole</a></li>
+  <li><a href="https://shitlassian.com/?fbclid=IwAR25ieV793kY8FKhlYRGKLj5zIqqAsrF2KoqPnJTq7jfyvFrJ9b_Bmsq2Z0">Whatlassian?</a></li>
+</ul>
+
+<h3 id="python-developer-wanted">Python Developer Wanted!</h3>
+<p>Compania StyleMi este în creștere și caută dezvoltători Python (și iOS). StyleMi este un agregator de haine și articole de modă care permite găsirea simplă a produsului dorit cupă multiple criterii și cu ajutorul intrumentelor de personalizare. Mai multe detalii despre oportunitate găsiți <a href="https://bit.ly/3BbA8I5">aici</a> sau la email-ul: dmitri@stylemi.co.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow57.mp3" 
+                         length="64660285" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:02:06</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item></channel>
+</rss>

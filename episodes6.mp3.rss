@@ -1,0 +1,1375 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Cowsay Show</title>
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss6" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes8.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes7.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes5.mp3.rss" rel="prev" type="application/rss+xml" />
+
+    
+    <description>Podcast Moldovenesc depsre IT, business și oameni
+</description>
+    <lastBuildDate>Thu, 09 Oct 2025 21:58:14 +0300</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>Podcast Moldovenesc depsre IT, business și oameni
+</itunes:summary>
+    <itunes:author>Cowsay Crew ©</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:owner>
+      <itunes:name>Cowsay Crew ©</itunes:name>
+      <itunes:email>vlad.drahnea@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>vlad.drahnea@gmail.com (Cowsay Crew ©)</managingEditor>
+    <copyright>All Rights Reserved © Vlad Drahnea 2023</copyright>
+    <itunes:subtitle>Despre IT</itunes:subtitle>
+    <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
+    <image>
+      <title>Cowsay Show</title>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>#56 🔫 An Epic outcome - </title>
+            <link>https://cowsay.show/2021/10/01/_56-an-epic-outcome.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_56-an-epic-outcome"/>
+            <comments>https://cowsay.show/2021/10/01/_56-an-epic-outcome.html#disqus_thread</comments>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/10/01/_56-an-epic-outcome.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html">Facebook Rayban</a></li>
+  <li><a href="https://www.msn.com/en-us/news/us/facebook-sorry-for-primates-label-on-video-of-black-men/ar-AAO6tmX">Rasizm sau inginerie? Confuz de categorizare la Facebook</a></li>
+  <li><a href="https://twitter.com/stevewoz/status/1437234689786347523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1437234689786347523%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fd-3329917072794159452.ampproject.net%2F2109032350000%2Fframe.html">Wozniac va face cerul mai curat</a></li>
+  <li><a href="https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/">PosgreSQL mai nu și-au pierdut marca comercială</a></li>
+  <li><a href="https://www.bnl.gov/newsroom/news.php?a=119023">Minutul de știință de la Vlad</a></li>
+  <li><a href="https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition">Radiohead face expoziție în Fortnite</a></li>
+  <li><a href="https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store">Epic aproape a câșticat contra Apple</a></li>
+  <li><a href="https://www.inputmag.com/tech/apple-blocked-the-flicktype-watch-keyboard-then-announced-a-clone-of-it">Apple tot continuă să fure tehnologii de la dezvoltători fără ai plăti</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html">Facebook Rayban</a></li>
+  <li><a href="https://www.msn.com/en-us/news/us/facebook-sorry-for-primates-label-on-video-of-black-men/ar-AAO6tmX">Rasizm sau inginerie? Confuz de categorizare la Facebook</a></li>
+  <li><a href="https://twitter.com/stevewoz/status/1437234689786347523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1437234689786347523%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fd-3329917072794159452.ampproject.net%2F2109032350000%2Fframe.html">Wozniac va face cerul mai curat</a></li>
+  <li><a href="https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/">PosgreSQL mai nu și-au pierdut marca comercială</a></li>
+  <li><a href="https://www.bnl.gov/newsroom/news.php?a=119023">Minutul de știință de la Vlad</a></li>
+  <li><a href="https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition">Radiohead face expoziție în Fortnite</a></li>
+  <li><a href="https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store">Epic aproape a câșticat contra Apple</a></li>
+  <li><a href="https://www.inputmag.com/tech/apple-blocked-the-flicktype-watch-keyboard-then-announced-a-clone-of-it">Apple tot continuă să fure tehnologii de la dezvoltători fără ai plăti</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow56.mp3" 
+                         length="60532045" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:56:23</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#55 Korea ⚔️ Google - </title>
+            <link>https://cowsay.show/2021/10/01/_55-korea-vs-google.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_55-korea-vs-google"/>
+            <comments>https://cowsay.show/2021/10/01/_55-korea-vs-google.html#disqus_thread</comments>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/10/01/_55-korea-vs-google.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<h3 id="discutăm-ce-am-pierdut-noi-vara">Discutăm ce am pierdut noi vara</h3>
+
+<ul>
+  <li><a href="https://www.theguardian.com/technology/2021/aug/29/why-onlyfans-had-second-thoughts-on-banning-sexually-explicit-content">OnlyFans now decent? (no)</a></li>
+  <li><a href="https://techcrunch.com/2021/08/31/south-korea-passes-anti-google-law-bill-to-curb-google-apple-in-app-payment-commission/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIxoO73I4pGA9qKO2ZlwknR2qp2cagG5tYFwn_We9qPaggKBG2Qmcg9b1wqYHILabEHCaEwTYXEJy774I5kjAXpOry4YD9GF1bqxz9harBDVHkQGEvszjPykOzmR_y7kDGnFVjxn8W8nJhVOODedshYJlgQ8rBzIar4PItjsP8P6">Korea lansează legea anti Google</a></li>
+  <li><a href="https://www.cnbc.com/2021/08/30/elizabeth-holmes-one-time-billionaire-and-ceo-finally-goes-on-trial.html">Elisabeth Holmes judecată după 12 articole</a></li>
+  <li><a href="https://www.cnbc.com/2021/08/19/elon-musk-teases-tesla-bot-humanoid-robot-for-repetitive-tasks.html">Tesla Bot!</a></li>
+  <li><a href="https://www.fast.ai/2021/07/19/copilot/">Github Copilot</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<h3 id="discutăm-ce-am-pierdut-noi-vara">Discutăm ce am pierdut noi vara</h3>
+
+<ul>
+  <li><a href="https://www.theguardian.com/technology/2021/aug/29/why-onlyfans-had-second-thoughts-on-banning-sexually-explicit-content">OnlyFans now decent? (no)</a></li>
+  <li><a href="https://techcrunch.com/2021/08/31/south-korea-passes-anti-google-law-bill-to-curb-google-apple-in-app-payment-commission/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIxoO73I4pGA9qKO2ZlwknR2qp2cagG5tYFwn_We9qPaggKBG2Qmcg9b1wqYHILabEHCaEwTYXEJy774I5kjAXpOry4YD9GF1bqxz9harBDVHkQGEvszjPykOzmR_y7kDGnFVjxn8W8nJhVOODedshYJlgQ8rBzIar4PItjsP8P6">Korea lansează legea anti Google</a></li>
+  <li><a href="https://www.cnbc.com/2021/08/30/elizabeth-holmes-one-time-billionaire-and-ceo-finally-goes-on-trial.html">Elisabeth Holmes judecată după 12 articole</a></li>
+  <li><a href="https://www.cnbc.com/2021/08/19/elon-musk-teases-tesla-bot-humanoid-robot-for-repetitive-tasks.html">Tesla Bot!</a></li>
+  <li><a href="https://www.fast.ai/2021/07/19/copilot/">Github Copilot</a></li>
+</ul>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow55.mp3" 
+                         length="55397725" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:52:43</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#54 🎬 Totul abia începe - </title>
+            <link>https://cowsay.show/2021/06/18/_54-_-totul-abia-_ncepe.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_54-_-totul-abia-_ncepe"/>
+            <comments>https://cowsay.show/2021/06/18/_54-_-totul-abia-_ncepe.html#disqus_thread</comments>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/06/18/_54-_-totul-abia-_ncepe.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/">Torvalds oleacă biolog</a></li>
+  <li><a href="https://www.tomshardware.com/news/intel-offers-dollar2-billion-for-risc-v-startup-sifive-bloomberg">Intel vrea să cumpere RISC-V startup cu $2Bln</a></li>
+  <li><a href="https://developer.apple.com/forums/thread/681907">PHP nu va mai fi în macOS (era pân acum? 0_o)</a></li>
+  <li>Noi plecăm în vacanță și pe voi vă sfătuim. Ne auzim când revenim ;) Văcuța vă iubește! ❤️</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/">Torvalds oleacă biolog</a></li>
+  <li><a href="https://www.tomshardware.com/news/intel-offers-dollar2-billion-for-risc-v-startup-sifive-bloomberg">Intel vrea să cumpere RISC-V startup cu $2Bln</a></li>
+  <li><a href="https://developer.apple.com/forums/thread/681907">PHP nu va mai fi în macOS (era pân acum? 0_o)</a></li>
+  <li>Noi plecăm în vacanță și pe voi vă sfătuim. Ne auzim când revenim ;) Văcuța vă iubește! ❤️</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow54.mp3" 
+                         length="32150077" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:31:18</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#53 🍎 Apples, Apples, Apples, cars - </title>
+            <link>https://cowsay.show/2021/06/11/_53-_-apples_-apples_-apples_-cars.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_53-_-apples_-apples_-apples_-cars"/>
+            <comments>https://cowsay.show/2021/06/11/_53-_-apples_-apples_-apples_-cars.html#disqus_thread</comments>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/06/11/_53-_-apples_-apples_-apples_-cars.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.engadget.com/apple-wwdc-2021-event-roundup-212428441.html">WWDC 2021</a></li>
+  <li><a href="https://www.theverge.com/2021/6/8/22525195/apple-mail-protection-privacy-pixel-tracking-newsletters-substack">Apple vs email marrketing</a></li>
+  <li><a href="https://9to5mac.com/2021/06/07/apple-pays-out-millions-in-compensation-to-student-after-iphone-repair-facility-shared-her-explicit-personal-images-online/">Apple sends nudes to everyone</a></li>
+  <li><a href="https://www.cnbc.com/2021/06/07/jeff-bezos-to-fly-on-blue-origin-first-passenger-flight-in-july.html">Bezos zboară în cosmos în Iulie</a></li>
+  <li><a href="https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/">VW o să-ți dea în arendă autopilot-ul său</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.engadget.com/apple-wwdc-2021-event-roundup-212428441.html">WWDC 2021</a></li>
+  <li><a href="https://www.theverge.com/2021/6/8/22525195/apple-mail-protection-privacy-pixel-tracking-newsletters-substack">Apple vs email marrketing</a></li>
+  <li><a href="https://9to5mac.com/2021/06/07/apple-pays-out-millions-in-compensation-to-student-after-iphone-repair-facility-shared-her-explicit-personal-images-online/">Apple sends nudes to everyone</a></li>
+  <li><a href="https://www.cnbc.com/2021/06/07/jeff-bezos-to-fly-on-blue-origin-first-passenger-flight-in-july.html">Bezos zboară în cosmos în Iulie</a></li>
+  <li><a href="https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/">VW o să-ți dea în arendă autopilot-ul său</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow53.mp3" 
+                         length="62157901" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:59:09</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#52 ⛏ Aurul lor, virușii tăi :) - </title>
+            <link>https://cowsay.show/2021/06/11/_52-_-aurul-lor_-viru_ii-t_i-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_52-_-aurul-lor_-viru_ii-t_i-__"/>
+            <comments>https://cowsay.show/2021/06/11/_52-_-aurul-lor_-viru_ii-t_i-__.html#disqus_thread</comments>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/06/11/_52-_-aurul-lor_-viru_ii-t_i-__.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.macrumors.com/2021/05/31/intel-claims-pcs-offer-better-gaming-than-macs/">Intel iar aiurește</a></li>
+  <li><a href="https://www.cnet.com/news/quic-gives-the-internets-data-transmission-foundation-a-needed-speedup/">Google Quic devine standard</a></li>
+  <li><a href="https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html">Chromium mai rapid cu 23%</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/">Harmony OS totuși e vie</a></li>
+  <li><a href="https://www.cnet.com/how-to/google-photos-unlimited-free-storage-is-over-heres-what-you-need-to-do-now/">Google iar aiurește</a></li>
+  <li><a href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400">Assta cum? o_0</a></li>
+  <li><a href="https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september">Apple zice că 3 days/week</a></li>
+  <li><a href="https://www.bleepingcomputer.com/news/cryptocurrency/norton-360-antivirus-now-lets-you-mine-ethereum-cryptocurrency/">AHAHAHAHAHHAAH NORTON FACE MINING</a></li>
+  <li><a href="https://www.wired.com/story/deepfake-maps-mess-sense-world/">Deep fake, but for maps</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.macrumors.com/2021/05/31/intel-claims-pcs-offer-better-gaming-than-macs/">Intel iar aiurește</a></li>
+  <li><a href="https://www.cnet.com/news/quic-gives-the-internets-data-transmission-foundation-a-needed-speedup/">Google Quic devine standard</a></li>
+  <li><a href="https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html">Chromium mai rapid cu 23%</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/">Harmony OS totuși e vie</a></li>
+  <li><a href="https://www.cnet.com/how-to/google-photos-unlimited-free-storage-is-over-heres-what-you-need-to-do-now/">Google iar aiurește</a></li>
+  <li><a href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400">Assta cum? o_0</a></li>
+  <li><a href="https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september">Apple zice că 3 days/week</a></li>
+  <li><a href="https://www.bleepingcomputer.com/news/cryptocurrency/norton-360-antivirus-now-lets-you-mine-ethereum-cryptocurrency/">AHAHAHAHAHHAAH NORTON FACE MINING</a></li>
+  <li><a href="https://www.wired.com/story/deepfake-maps-mess-sense-world/">Deep fake, but for maps</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow52.mp3" 
+                         length="61261933" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:58:07</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#51 💔 Salesforce, a-ta-ta! - </title>
+            <link>https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_51-_-salesforce_-a-ta-ta"/>
+            <comments>https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html#disqus_thread</comments>
+            <pubDate>Fri, 28 May 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/t/terms">Youtube acum va arăta reclamă peste tot</a></li>
+  <li><a href="https://twitter.com/elonmusk/status/1396914548167233537?s=19">Musk iar a zis ceva</a></li>
+  <li><a href="https://twitter.com/ccgus/status/1395145361136644098">Un GIF anomalic, sau nu GIF?</a></li>
+  <li><a href="https://www.theregister.com/2021/05/19/salesforce_root_cause/">Țapul de la Salesforce</a></li>
+  <li><a href="https://twitter.com/GrahamJCampbell/status/1396819482732023814">Zile grele de open source maintainer</a></li>
+  <li><a href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html">Importanța proiecteleor fără folos</a></li>
+  <li><a href="https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/">Microsoft Build a trecut nu degeaba</a></li>
+  <li><a href="https://www.wsj.com/articles/tiktok-founder-is-latest-china-tech-boss-to-step-down-amid-government-crackdown-11621524874">În 🇨🇳 să faci business nu e sursă doar de venit</a></li>
+  <li><a href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/">Google Fuchsia o venit</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/t/terms">Youtube acum va arăta reclamă peste tot</a></li>
+  <li><a href="https://twitter.com/elonmusk/status/1396914548167233537?s=19">Musk iar a zis ceva</a></li>
+  <li><a href="https://twitter.com/ccgus/status/1395145361136644098">Un GIF anomalic, sau nu GIF?</a></li>
+  <li><a href="https://www.theregister.com/2021/05/19/salesforce_root_cause/">Țapul de la Salesforce</a></li>
+  <li><a href="https://twitter.com/GrahamJCampbell/status/1396819482732023814">Zile grele de open source maintainer</a></li>
+  <li><a href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html">Importanța proiecteleor fără folos</a></li>
+  <li><a href="https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/">Microsoft Build a trecut nu degeaba</a></li>
+  <li><a href="https://www.wsj.com/articles/tiktok-founder-is-latest-china-tech-boss-to-step-down-amid-government-crackdown-11621524874">În 🇨🇳 să faci business nu e sursă doar de venit</a></li>
+  <li><a href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/">Google Fuchsia o venit</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow51.mp3" 
+                         length="65168125" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:31</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#50 💡 Hai să reinventăm X - </title>
+            <link>https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_50-_-hai-s_-reinvent_m-x"/>
+            <comments>https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html#disqus_thread</comments>
+            <pubDate>Fri, 21 May 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>DHH iar bucură cu aberații</li>
+</ul>
+
+<h3 id="google-io">Google I/O</h3>
+<ul>
+  <li><a href="https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html">Make RSS great again</a></li>
+  <li><a href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html">Gogole Workspace</a></li>
+  <li><a href="https://www.pocket-lint.com/phones/news/google/155445-android-12-release-date-features-news">Android 12</a></li>
+  <li><a href="https://www.pocket-lint.com/gadgets/news/156470-what-is-ultra-wideband-and-what-does-uwb-do">Revolu’ie care n-am observat-o (UWB)</a></li>
+  <li><a href="https://blog.google/technology/research/project-starline/">Googel face ceva pentru super remote</a></li>
+</ul>
+
+<h3 id="mai-departe">Mai departe</h3>
+<ul>
+  <li><a href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/">Firefox jails, sau cum Mozilla sporește securitatea</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-05-10/white-house-creates-task-force-to-deal-with-pipeline-breach?sref=vuYGislZ">Istoria despre cum hackerii ruși(posibil nu) au făcut ca americanii să care benzină în pungi de plastic</a></li>
+  <li><a href="https://www.macrumors.com/2021/05/14/macbook-pro-leaks-confirm-returning-ports/">Apple m40</a></li>
+</ul>
+
+<h3 id="mai-multe-în-aftershownu-se-publică-la-care-puteți-participa-alăturânduvă-la-comunitatea-cowsay-pe-discord">Mai multe în aftershow(nu se publică), la care puteți participa alăturânduvă la comunitatea Cowsay pe <a href="https://discord.com/invite/UaNer3K">Discord</a></h3>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>DHH iar bucură cu aberații</li>
+</ul>
+
+<h3 id="google-io">Google I/O</h3>
+<ul>
+  <li><a href="https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html">Make RSS great again</a></li>
+  <li><a href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html">Gogole Workspace</a></li>
+  <li><a href="https://www.pocket-lint.com/phones/news/google/155445-android-12-release-date-features-news">Android 12</a></li>
+  <li><a href="https://www.pocket-lint.com/gadgets/news/156470-what-is-ultra-wideband-and-what-does-uwb-do">Revolu’ie care n-am observat-o (UWB)</a></li>
+  <li><a href="https://blog.google/technology/research/project-starline/">Googel face ceva pentru super remote</a></li>
+</ul>
+
+<h3 id="mai-departe">Mai departe</h3>
+<ul>
+  <li><a href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/">Firefox jails, sau cum Mozilla sporește securitatea</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-05-10/white-house-creates-task-force-to-deal-with-pipeline-breach?sref=vuYGislZ">Istoria despre cum hackerii ruși(posibil nu) au făcut ca americanii să care benzină în pungi de plastic</a></li>
+  <li><a href="https://www.macrumors.com/2021/05/14/macbook-pro-leaks-confirm-returning-ports/">Apple m40</a></li>
+</ul>
+
+<h3 id="mai-multe-în-aftershownu-se-publică-la-care-puteți-participa-alăturânduvă-la-comunitatea-cowsay-pe-discord">Mai multe în aftershow(nu se publică), la care puteți participa alăturânduvă la comunitatea Cowsay pe <a href="https://discord.com/invite/UaNer3K">Discord</a></h3>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow50.mp3" 
+                         length="62063965" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:00:03</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#49 ⚡ Tesla Bitcoin xaxaxa - </title>
+            <link>https://cowsay.show/2021/05/14/_49-_-tesla-bitcoin-xaxaxa.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_49-_-tesla-bitcoin-xaxaxa"/>
+            <comments>https://cowsay.show/2021/05/14/_49-_-tesla-bitcoin-xaxaxa.html#disqus_thread</comments>
+            <pubDate>Fri, 14 May 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/14/_49-_-tesla-bitcoin-xaxaxa.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.nytimes.com/2021/05/12/automobiles/tesla-bitcoin.html">ELON MUSK IAR CEVA A FACUT</a></li>
+  <li><a href="https://babeljs.io/blog/2021/05/10/funding-update.html">CINEVA CANCELUIT DIN NOU</a></li>
+  <li>Și încă Bill Gates</li>
+  <li>RUST IS STILL GREAT (fără careva obiecții)</li>
+  <li><a href="https://babeljs.io/blog/2021/04/29/7.14.0">A IESIT UN RELEASE NOU LA CEVA CE NOI NU FOLOSIM DAR AVEM OPINIE</a></li>
+  <li><a href="https://t.me/denissexy/3524">APPLE A FACUT UN (LAWSUIT/PRODUCT/ACHIZITIE) NOUA (Cu Airtag poți spiona oamenii)</a></li>
+  <li><a href="https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/">Și Airtag a mai fost hack-anit</a></li>
+  <li><a href="https://positive.security/blog/send-my">Și încă o dată</a></li>
+</ul>
+
+<h3 id="bonus-temă">Bonus temă</h3>
+<ul>
+  <li><a href="https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html">Tiktok - Linkedin for Gen Z</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.nytimes.com/2021/05/12/automobiles/tesla-bitcoin.html">ELON MUSK IAR CEVA A FACUT</a></li>
+  <li><a href="https://babeljs.io/blog/2021/05/10/funding-update.html">CINEVA CANCELUIT DIN NOU</a></li>
+  <li>Și încă Bill Gates</li>
+  <li>RUST IS STILL GREAT (fără careva obiecții)</li>
+  <li><a href="https://babeljs.io/blog/2021/04/29/7.14.0">A IESIT UN RELEASE NOU LA CEVA CE NOI NU FOLOSIM DAR AVEM OPINIE</a></li>
+  <li><a href="https://t.me/denissexy/3524">APPLE A FACUT UN (LAWSUIT/PRODUCT/ACHIZITIE) NOUA (Cu Airtag poți spiona oamenii)</a></li>
+  <li><a href="https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/">Și Airtag a mai fost hack-anit</a></li>
+  <li><a href="https://positive.security/blog/send-my">Și încă o dată</a></li>
+</ul>
+
+<h3 id="bonus-temă">Bonus temă</h3>
+<ul>
+  <li><a href="https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html">Tiktok - Linkedin for Gen Z</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow49.mp3" 
+                         length="57810013" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:00:22</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#48 🙀 Scandalâ, Intrighi, Rassledovaniya - </title>
+            <link>https://cowsay.show/2021/05/07/_47-_-scandal__-intrighi_-rassledovaniya.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_47-_-scandal__-intrighi_-rassledovaniya"/>
+            <comments>https://cowsay.show/2021/05/07/_47-_-scandal__-intrighi_-rassledovaniya.html#disqus_thread</comments>
+            <pubDate>Fri, 07 May 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/07/_47-_-scandal__-intrighi_-rassledovaniya.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.businessinsider.com/googles-resistance-to-going-fully-remote-is-frustrating-employees-2021-4?r=US&amp;IR=T">Google vrea să se întoarcă în oficii dar iată angajații nu prea</a></li>
+  <li><a href="https://blog.google/inside-google/life-at-google/hybrid-approach-work/">Și Google a spus “LADNA”</a></li>
+  <li><a href="https://larahogan.me/blog/we-need-to-talk-about-your-q3-roadmap/">Q3 arată foarte straniu, cam la toți</a></li>
+  <li><a href="https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/">Peoloton se face olea STRAVA</a></li>
+  <li><a href="https://www.vice.com/en/article/epndnz/the-bizarre-case-of-snowden-and-a-get-rich-quick-real-estate-investing-conference">Snowden crasavcik!</a></li>
+  <li><a href="https://vc.ru/finance/242142-lyudi-ustali-ot-uorrena-baffeta-robinhood-i-glava-berkshire-hathaway-obmenyalis-vzaimnoy-kritikoy?fbclid=IwAR1HthhJ9N63o4zNeSwAOe-DaN9fLjJMIqN0uqhNjMBNQzVhgjeTIidWDus">Buffet și Robinhood ganesc unul la altul</a></li>
+  <li><a href="https://twitter.com/wongmjane/status/1385375100841586689">Twitter se face oleac Only Fans</a></li>
+  <li><a href="https://twitter.com/moyix/status/1388586550682861568">Plătește să nu fii beta tester la Docker</a></li>
+  <li><a href="https://www.theverge.com/2021/5/4/22419799/basecamp-ceo-apologizes-staff-new-post">Basecamp == Nazzi?</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.businessinsider.com/googles-resistance-to-going-fully-remote-is-frustrating-employees-2021-4?r=US&amp;IR=T">Google vrea să se întoarcă în oficii dar iată angajații nu prea</a></li>
+  <li><a href="https://blog.google/inside-google/life-at-google/hybrid-approach-work/">Și Google a spus “LADNA”</a></li>
+  <li><a href="https://larahogan.me/blog/we-need-to-talk-about-your-q3-roadmap/">Q3 arată foarte straniu, cam la toți</a></li>
+  <li><a href="https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/">Peoloton se face olea STRAVA</a></li>
+  <li><a href="https://www.vice.com/en/article/epndnz/the-bizarre-case-of-snowden-and-a-get-rich-quick-real-estate-investing-conference">Snowden crasavcik!</a></li>
+  <li><a href="https://vc.ru/finance/242142-lyudi-ustali-ot-uorrena-baffeta-robinhood-i-glava-berkshire-hathaway-obmenyalis-vzaimnoy-kritikoy?fbclid=IwAR1HthhJ9N63o4zNeSwAOe-DaN9fLjJMIqN0uqhNjMBNQzVhgjeTIidWDus">Buffet și Robinhood ganesc unul la altul</a></li>
+  <li><a href="https://twitter.com/wongmjane/status/1385375100841586689">Twitter se face oleac Only Fans</a></li>
+  <li><a href="https://twitter.com/moyix/status/1388586550682861568">Plătește să nu fii beta tester la Docker</a></li>
+  <li><a href="https://www.theverge.com/2021/5/4/22419799/basecamp-ceo-apologizes-staff-new-post">Basecamp == Nazzi?</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow48.mp3" 
+                         length="64454797" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:06:41</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#47 🙃 Scrie mai rău să fie mai bine - </title>
+            <link>https://cowsay.show/2021/05/05/_47-_-scrie-mai-r_u-s_-fie-mai-bine.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_47-_-scrie-mai-r_u-s_-fie-mai-bine"/>
+            <comments>https://cowsay.show/2021/05/05/_47-_-scrie-mai-r_u-s_-fie-mai-bine.html#disqus_thread</comments>
+            <pubDate>Wed, 05 May 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/05/_47-_-scrie-mai-r_u-s_-fie-mai-bine.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/shanselman/status/1385390175862202370">Linux pe Desktop, cum se cade :)</a></li>
+  <li><a href="https://www.reuters.com/business/retail-consumer/russian-competition-watchdog-fines-apple-12-mln-abusing-dominant-position-2021-04-27/">Rusia amendează Apple de $12M</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-04-26/basecamp-follows-coinbase-in-banning-politics-talk-at-work">Basecamp interzice angajaților să discute teme politice și sociale la lucru</a></li>
+  <li><a href="https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/">Cellebrite, după hack-ul de la Signal, își retrage aplicația iOS din Store</a></li>
+  <li><a href="https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS">Podcasturi cu plată?</a></li>
+  <li><a href="https://lkml.org/lkml/2021/4/24/315">Universitate din Minnesota privată de dreptul de a contribui la Linux</a></li>
+  <li><a href="https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/">Stackoverflow zic că e bine să scrii rău</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/shanselman/status/1385390175862202370">Linux pe Desktop, cum se cade :)</a></li>
+  <li><a href="https://www.reuters.com/business/retail-consumer/russian-competition-watchdog-fines-apple-12-mln-abusing-dominant-position-2021-04-27/">Rusia amendează Apple de $12M</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-04-26/basecamp-follows-coinbase-in-banning-politics-talk-at-work">Basecamp interzice angajaților să discute teme politice și sociale la lucru</a></li>
+  <li><a href="https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/">Cellebrite, după hack-ul de la Signal, își retrage aplicația iOS din Store</a></li>
+  <li><a href="https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS">Podcasturi cu plată?</a></li>
+  <li><a href="https://lkml.org/lkml/2021/4/24/315">Universitate din Minnesota privată de dreptul de a contribui la Linux</a></li>
+  <li><a href="https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/">Stackoverflow zic că e bine să scrii rău</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow47.mp3" 
+                         length="51678612" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:58:26</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#46 👂 Apple atent ne scultă - </title>
+            <link>https://cowsay.show/2021/04/23/_46-_-apple-atent-ne-scult_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_46-_-apple-atent-ne-scult_"/>
+            <comments>https://cowsay.show/2021/04/23/_46-_-apple-atent-ne-scult_.html#disqus_thread</comments>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/04/23/_46-_-apple-atent-ne-scult_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.macrumors.com/2021/04/20/apple-april-event-recap/">Apple multe ce a anunțat. iPAd parcă-i cel mai important</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-04-21/apple-targeted-in-50-million-ransomware-hack-of-supplier-quanta">Apple au fost iar atacați de hack-eri</a></li>
+  <li><a href="https://signal.org/blog/cellebrite-vulnerabilities/">Signal au hack-anit pe Cellebrite, care parcă i-au hack-anit pe ei mai devreme</a></li>
+  <li><a href="https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/">Cât de des și cine face copy-paste mai mult pe Stackoverflow?</a></li>
+  <li><a href="https://www.theverge.com/2021/4/20/22394106/discord-no-sale-microsoft">Discord a ales să stea independent</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.macrumors.com/2021/04/20/apple-april-event-recap/">Apple multe ce a anunțat. iPAd parcă-i cel mai important</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-04-21/apple-targeted-in-50-million-ransomware-hack-of-supplier-quanta">Apple au fost iar atacați de hack-eri</a></li>
+  <li><a href="https://signal.org/blog/cellebrite-vulnerabilities/">Signal au hack-anit pe Cellebrite, care parcă i-au hack-anit pe ei mai devreme</a></li>
+  <li><a href="https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/">Cât de des și cine face copy-paste mai mult pe Stackoverflow?</a></li>
+  <li><a href="https://www.theverge.com/2021/4/20/22394106/discord-no-sale-microsoft">Discord a ales să stea independent</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow46.mp3" 
+                         length="53517805" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:55:00</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#45 👮 Nu uita să închizi ușa - </title>
+            <link>https://cowsay.show/2021/04/16/_45-_nu-uita-s_-_nchizi-u_a.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_45-_nu-uita-s_-_nchizi-u_a"/>
+            <comments>https://cowsay.show/2021/04/16/_45-_nu-uita-s_-_nchizi-u_a.html#disqus_thread</comments>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/04/16/_45-_nu-uita-s_-_nchizi-u_a.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.cnbc.com/2021/04/12/intel-stock-dropping-after-nvidia-announces-server-chip-.html">Nvidia începe să facă server ARM CPU și stocurile Intel încep să cadă</a></li>
+  <li><a href="https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4">Iar Intel caută clienți noi pe piața auto, dar aparent nu ajută</a></li>
+  <li><a href="https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf">M1 va lucra pe Linux, începând cu 5.13 (July)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Z2MyXuHstIs">Surface Laptop 4, faaaancy!</a></li>
+  <li><a href="https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html">Microsoft cumpără Nuance (de la care Apple au luat Siri) cu $20B</a></li>
+  <li><a href="https://www.theguardian.com/technology/2021/apr/14/fbi-hacks-vulnerable-united-states-computers-to-fix-hack-malicious-malware-microsoft-exchange-software">FBI v ahackani computere hackanite ca să închidă vulnerabilitățile. Statele au dat dabro</a></li>
+  <li><a href="https://www.bbc.co.uk/news/technology-56745730">EU aparent intenționează să limiteze aplicarea ML în industrie</a></li>
+  <li><a href="https://www.theregister.com/2021/04/07/ibm_cobol_x86_linux/">Necrofilie ep2: IBM oferă serviciu de cloud Cobol</a></li>
+  <li><a href="https://arstechnica.com/science/2021/04/the-takeaway-is-that-we-dont-tend-to-take-things-away/">Studiu arată cum noi tindem să adăugăm elemente pentru a repara ceva, chiar când nu trebuie</a></li>
+  <li><a href="https://www.youtube.com/watch?v=j5v8D-alAKE">Plus un video interesant la această temă filosofică</a></li>
+</ul>
+
+<h3 id="rubrica-recomandări">Rubrica recomandări</h3>
+
+<ul>
+  <li><a href="https://raycast.com">Vanea zice că Raycast e mai bun decât Alfred (doar pentru macOS)</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.cnbc.com/2021/04/12/intel-stock-dropping-after-nvidia-announces-server-chip-.html">Nvidia începe să facă server ARM CPU și stocurile Intel încep să cadă</a></li>
+  <li><a href="https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4">Iar Intel caută clienți noi pe piața auto, dar aparent nu ajută</a></li>
+  <li><a href="https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf">M1 va lucra pe Linux, începând cu 5.13 (July)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Z2MyXuHstIs">Surface Laptop 4, faaaancy!</a></li>
+  <li><a href="https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html">Microsoft cumpără Nuance (de la care Apple au luat Siri) cu $20B</a></li>
+  <li><a href="https://www.theguardian.com/technology/2021/apr/14/fbi-hacks-vulnerable-united-states-computers-to-fix-hack-malicious-malware-microsoft-exchange-software">FBI v ahackani computere hackanite ca să închidă vulnerabilitățile. Statele au dat dabro</a></li>
+  <li><a href="https://www.bbc.co.uk/news/technology-56745730">EU aparent intenționează să limiteze aplicarea ML în industrie</a></li>
+  <li><a href="https://www.theregister.com/2021/04/07/ibm_cobol_x86_linux/">Necrofilie ep2: IBM oferă serviciu de cloud Cobol</a></li>
+  <li><a href="https://arstechnica.com/science/2021/04/the-takeaway-is-that-we-dont-tend-to-take-things-away/">Studiu arată cum noi tindem să adăugăm elemente pentru a repara ceva, chiar când nu trebuie</a></li>
+  <li><a href="https://www.youtube.com/watch?v=j5v8D-alAKE">Plus un video interesant la această temă filosofică</a></li>
+</ul>
+
+<h3 id="rubrica-recomandări">Rubrica recomandări</h3>
+
+<ul>
+  <li><a href="https://raycast.com">Vanea zice că Raycast e mai bun decât Alfred (doar pentru macOS)</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow45.mp3" 
+                         length="60507565" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:02:00</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#44 💸 Câte un coin în fiecare dvor - </title>
+            <link>https://cowsay.show/2021/04/09/_44-_-c_te-un-coin-_n-fiecare-dvor.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_44-_-c_te-un-coin-_n-fiecare-dvor"/>
+            <comments>https://cowsay.show/2021/04/09/_44-_-c_te-un-coin-_n-fiecare-dvor.html#disqus_thread</comments>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/04/09/_44-_-c_te-un-coin-_n-fiecare-dvor.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.debian.org/vote/2021/vote_002">Debian votează ce să facă cu RMS</a></li>
+  <li><a href="https://arstechnica.com/cars/2021/04/waymo-ceo-john-krafcik-steps-down/">Waymo păresește CEO</a></li>
+  <li><a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Sfârșit de istorie de 10+ ani între Google și Oracle pentru Java API</a></li>
+  <li><a href="https://therecord.media/github-investigating-crypto-mining-campaign-abusing-its-server-infrastructure/">Cum să faci mining pidijeaba cu Github actions</a></li>
+  <li><a href="https://www.indiatoday.in/technology/news/story/leaked-phone-number-of-mark-zuckerberg-reveals-he-is-on-signal-1787396-2021-04-05">Numărul lui Zukerberg înregistrat în Signal</a></li>
+  <li><a href="https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/">Signal implementează crypto al său</a></li>
+  <li><a href="https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/">Dar nu toți sunt fericiți</a></li>
+  <li><a href="https://techcrunch.com/2021/04/07/facebook-tests-hotline-a-qa-product-thats-a-mashup-of-clubhouse-and-instagram-live/">Facebook copie Clubhouse</a></li>
+  <li><a href="https://www.theverge.com/2021/4/7/22372510/twitter-clubhouse-acquire-four-billion-spaces-audio">Twitter au vrut să cumpere dar tot copie Clubhouse</a></li>
+  <li><a href="https://twitter.com/dbg_nsk/status/1379782076149424128?s=19">Jetbrains tot copie Clubhouse, aproape :)</a></li>
+  <li><a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html">Rust - limbaj oficial pentru platforma Android</a></li>
+  <li><a href="https://www.tiobe.com/tiobe-index/?utm_source=ixbtcom">TIOBE April 2021: Objective-C moare, Rust oleac crește iar Fortrat reînvie</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.debian.org/vote/2021/vote_002">Debian votează ce să facă cu RMS</a></li>
+  <li><a href="https://arstechnica.com/cars/2021/04/waymo-ceo-john-krafcik-steps-down/">Waymo păresește CEO</a></li>
+  <li><a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">Sfârșit de istorie de 10+ ani între Google și Oracle pentru Java API</a></li>
+  <li><a href="https://therecord.media/github-investigating-crypto-mining-campaign-abusing-its-server-infrastructure/">Cum să faci mining pidijeaba cu Github actions</a></li>
+  <li><a href="https://www.indiatoday.in/technology/news/story/leaked-phone-number-of-mark-zuckerberg-reveals-he-is-on-signal-1787396-2021-04-05">Numărul lui Zukerberg înregistrat în Signal</a></li>
+  <li><a href="https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/">Signal implementează crypto al său</a></li>
+  <li><a href="https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/">Dar nu toți sunt fericiți</a></li>
+  <li><a href="https://techcrunch.com/2021/04/07/facebook-tests-hotline-a-qa-product-thats-a-mashup-of-clubhouse-and-instagram-live/">Facebook copie Clubhouse</a></li>
+  <li><a href="https://www.theverge.com/2021/4/7/22372510/twitter-clubhouse-acquire-four-billion-spaces-audio">Twitter au vrut să cumpere dar tot copie Clubhouse</a></li>
+  <li><a href="https://twitter.com/dbg_nsk/status/1379782076149424128?s=19">Jetbrains tot copie Clubhouse, aproape :)</a></li>
+  <li><a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html">Rust - limbaj oficial pentru platforma Android</a></li>
+  <li><a href="https://www.tiobe.com/tiobe-index/?utm_source=ixbtcom">TIOBE April 2021: Objective-C moare, Rust oleac crește iar Fortrat reînvie</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow44.mp3" 
+                         length="62916541" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:04:39</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#43 👍 Like, Podpiska, no Dislike - </title>
+            <link>https://cowsay.show/2021/04/02/_43-_-like_-podpiska_-no-dislike.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_43-_-like_-podpiska_-no-dislike"/>
+            <comments>https://cowsay.show/2021/04/02/_43-_-like_-podpiska_-no-dislike.html#disqus_thread</comments>
+            <pubDate>Fri, 02 Apr 2021 00:00:00 +0300</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/04/02/_43-_-like_-podpiska_-no-dislike.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/TeletubbiesHQ/status/1377259542640218113?s=20">Telepuziki Bitcoin</a></li>
+  <li><a href="https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/">WWDC online again</a></li>
+  <li><a href="https://rms-open-letter.github.io/">War on RMS</a></li>
+  <li><a href="https://www.axios.com/spotify-betty-labs-locker-room-52550d15-3c05-48ed-b924-a9404c31901b.html">Spotify cumpără o Clubhouse clonă</a></li>
+  <li><a href="https://twitter.com/YouTube/status/1376942486594150405">Youtube elimină numărul de dislike-uri</a></li>
+  <li><a href="https://www.theguardian.com/world/2021/mar/29/mafia-marc-feren-claude-biart-caught-youtube-cooking-video">Nu te face vlogger dacă ești deam gangster</a></li>
+  <li><a href="https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html">Google planifică întoarcere în oficii totalmente</a></li>
+  <li><a href="https://blog.elementary.io/ten-years/">ElementaryOS 10 ani!</a></li>
+  <li><a href="https://www.reuters.com/article/us-microsoft-army/microsoft-wins-21-9-billion-contract-with-u-s-army-to-supply-augmented-reality-headsets-idUSKBN2BN36B">Microsoft va vinde Hololens armatei</a></li>
+</ul>
+
+<h3 id="din-aftershow-care-nu-a-fost">Din aftershow (care nu a fost)</h3>
+
+<ul>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/">Android colectează de 20 ori mai multe date despre tine decât iOS</a></li>
+  <li><a href="https://www.washingtonpost.com/technology/2021/01/26/tech-unions-explainer/">Sindicate în tot big tech-ul</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://twitter.com/TeletubbiesHQ/status/1377259542640218113?s=20">Telepuziki Bitcoin</a></li>
+  <li><a href="https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/">WWDC online again</a></li>
+  <li><a href="https://rms-open-letter.github.io/">War on RMS</a></li>
+  <li><a href="https://www.axios.com/spotify-betty-labs-locker-room-52550d15-3c05-48ed-b924-a9404c31901b.html">Spotify cumpără o Clubhouse clonă</a></li>
+  <li><a href="https://twitter.com/YouTube/status/1376942486594150405">Youtube elimină numărul de dislike-uri</a></li>
+  <li><a href="https://www.theguardian.com/world/2021/mar/29/mafia-marc-feren-claude-biart-caught-youtube-cooking-video">Nu te face vlogger dacă ești deam gangster</a></li>
+  <li><a href="https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html">Google planifică întoarcere în oficii totalmente</a></li>
+  <li><a href="https://blog.elementary.io/ten-years/">ElementaryOS 10 ani!</a></li>
+  <li><a href="https://www.reuters.com/article/us-microsoft-army/microsoft-wins-21-9-billion-contract-with-u-s-army-to-supply-augmented-reality-headsets-idUSKBN2BN36B">Microsoft va vinde Hololens armatei</a></li>
+</ul>
+
+<h3 id="din-aftershow-care-nu-a-fost">Din aftershow (care nu a fost)</h3>
+
+<ul>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/">Android colectează de 20 ori mai multe date despre tine decât iOS</a></li>
+  <li><a href="https://www.washingtonpost.com/technology/2021/01/26/tech-unions-explainer/">Sindicate în tot big tech-ul</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow43.mp3" 
+                         length="57963997" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:59:39</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#42  🕊️ Blimp-urile speranțelor noastre - </title>
+            <link>https://cowsay.show/2021/03/26/_42-__-blimp-urile-speran_elor-noastre.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_42--__-blimp-urile-speran_elor-noastre"/>
+            <comments>https://cowsay.show/2021/03/26/_42-__-blimp-urile-speran_elor-noastre.html#disqus_thread</comments>
+            <pubDate>Fri, 26 Mar 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/03/26/_42-__-blimp-urile-speran_elor-noastre.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://esquire.ru/relaxation/250073-zhitel-tailanda-dumal-chto-kupil-v-internet-magazine-ayfon-no-emu-privezli-stol-v-vide-ayfona/?fbclid=IwAR1o5cFA87OdGeNWp5hV9Aqt84OD4ZbBgBXoD07f4dgTIYY7i329rTLozlg">Cumperi iPhone da-ți vine masă :)</a></li>
+  <li><a href="https://github.com/rails/rails/issues/41750">Ruby leftpad drama sau Când nu-l asculți pe Borodatâi</a></li>
+  <li><a href="https://streamable.com/nzthxn">Borodatâi se întoarce</a></li>
+  <li><a href="https://interestingengineering.com/ufo-russian-cargo-airship">Companie rusă planifică să lanseze cargo dirijabiluri</a></li>
+  <li><a href="https://www.protocol.com/slack-messaging-connect">Slack e Whatsapp pentru lucru?</a></li>
+  <li><a href="https://www.macrumors.com/2021/03/24/intel-ceo-apple-competitive-fun/">Intel caută căi din criza care încă nu i-a atins</a></li>
+  <li><a href="https://www.bbc.co.uk/news/business-56492358">NFT peste tot</a></li>
+  <li><a href="https://twitter.com/business/status/1374183042600820743?s=21">Microsoft vrea să cumpere Discord cu $10B</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://esquire.ru/relaxation/250073-zhitel-tailanda-dumal-chto-kupil-v-internet-magazine-ayfon-no-emu-privezli-stol-v-vide-ayfona/?fbclid=IwAR1o5cFA87OdGeNWp5hV9Aqt84OD4ZbBgBXoD07f4dgTIYY7i329rTLozlg">Cumperi iPhone da-ți vine masă :)</a></li>
+  <li><a href="https://github.com/rails/rails/issues/41750">Ruby leftpad drama sau Când nu-l asculți pe Borodatâi</a></li>
+  <li><a href="https://streamable.com/nzthxn">Borodatâi se întoarce</a></li>
+  <li><a href="https://interestingengineering.com/ufo-russian-cargo-airship">Companie rusă planifică să lanseze cargo dirijabiluri</a></li>
+  <li><a href="https://www.protocol.com/slack-messaging-connect">Slack e Whatsapp pentru lucru?</a></li>
+  <li><a href="https://www.macrumors.com/2021/03/24/intel-ceo-apple-competitive-fun/">Intel caută căi din criza care încă nu i-a atins</a></li>
+  <li><a href="https://www.bbc.co.uk/news/business-56492358">NFT peste tot</a></li>
+  <li><a href="https://twitter.com/business/status/1374183042600820743?s=21">Microsoft vrea să cumpere Discord cu $10B</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow42.mp3" 
+                         length="57673357" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:59:23</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#41 NFT 🍀 Neepiceski Fartovaya Temă - </title>
+            <link>https://cowsay.show/2021/03/19/_41-nft-_-neepiceski-fartovaya-tem_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_41-nft-_-neepiceski-fartovaya-tem_"/>
+            <comments>https://cowsay.show/2021/03/19/_41-nft-_-neepiceski-fartovaya-tem_.html#disqus_thread</comments>
+            <pubDate>Fri, 19 Mar 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/03/19/_41-nft-_-neepiceski-fartovaya-tem_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://tv8.md/2021/03/17/video-lansata-cu-mult-fast-de-primaria-capitalei-achitarea-electronica-in-troleibuze-nu-prea-i-a-incantat-pe-calatori/">Experiment de etciket-are în Chișinău</a></li>
+  <li><a href="https://blog.adobe.com/en/publish/2021/03/10/adobe-photoshop-ships-on-macs-with-apple-silicon-gains-speedier-selections-filters-and-performance-boosts.html#gs.w0dc3l">Adobe Photoshop pe Mac M1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rvDDC6ktCUg">Intel se află în universul propriu</a></li>
+  <li><a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html">Vulnerabilitatea Spectre de această dacă în web și nu numai pe Intel</a></li>
+  <li><a href="https://github.com/dani-garcia/bitwarden_rs">Bitwarden in Rust</a></li>
+  <li><a href="https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/">Wikimedia Enterprise API</a></li>
+  <li><a href="https://github.com/bridgetkromhout/devops-against-humanity">Devops against Humanity</a></li>
+  <li><a href="https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/">Vitalik vs Miners</a></li>
+  <li><a href="https://www.theguardian.com/commentisfree/2021/mar/17/cryptocurrency--at-digital-only-artwork-nfts-collecting">Un JPEG pentru $70 milioane</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://tv8.md/2021/03/17/video-lansata-cu-mult-fast-de-primaria-capitalei-achitarea-electronica-in-troleibuze-nu-prea-i-a-incantat-pe-calatori/">Experiment de etciket-are în Chișinău</a></li>
+  <li><a href="https://blog.adobe.com/en/publish/2021/03/10/adobe-photoshop-ships-on-macs-with-apple-silicon-gains-speedier-selections-filters-and-performance-boosts.html#gs.w0dc3l">Adobe Photoshop pe Mac M1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rvDDC6ktCUg">Intel se află în universul propriu</a></li>
+  <li><a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html">Vulnerabilitatea Spectre de această dacă în web și nu numai pe Intel</a></li>
+  <li><a href="https://github.com/dani-garcia/bitwarden_rs">Bitwarden in Rust</a></li>
+  <li><a href="https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/">Wikimedia Enterprise API</a></li>
+  <li><a href="https://github.com/bridgetkromhout/devops-against-humanity">Devops against Humanity</a></li>
+  <li><a href="https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/">Vitalik vs Miners</a></li>
+  <li><a href="https://www.theguardian.com/commentisfree/2021/mar/17/cryptocurrency--at-digital-only-artwork-nfts-collecting">Un JPEG pentru $70 milioane</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow41.mp3" 
+                         length="58664989" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:00:41</itunes:duration>
+            </item><item>
+            <title>#40 Ian vin mai aproape să-ți văd orientarea politică ❤️ - </title>
+            <link>https://cowsay.show/2021/03/12/_40-Ian-vin-mai-aproape.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_40-Ian vin mai aproape"/>
+            <comments>https://cowsay.show/2021/03/12/_40-Ian-vin-mai-aproape.html#disqus_thread</comments>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/03/12/_40-Ian-vin-mai-aproape.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<h3 id="news">News</h3>
+
+<ul>
+  <li><a href="https://ntc.party/t/twitter/907">Rusia <del>blochează</del> face mai lent Twitter-ul, și multe alte site-uri</a></li>
+  <li><a href="https://ain.ua/2021/03/10/iz-za-sgorevshego-vo-francii-data-centra-vo-lvovskix-avtobusax-perestali-rabotat-gps-trekery/">În Lvov troleele merg fără GPS pentru că în Strasbourg a ars un datacentru OVH</a></li>
+  <li><a href="https://www.eejournal.com/article/wait-what-mips-becomes-risc-v/">MIPS moare, RISC-V trăiește</a></li>
+  <li><a href="https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils">Rust pentru coreutils e bun!</a></li>
+  <li><a href="https://tinyprojects.dev/projects/mailoji">Emoji email? Zaprosta!</a></li>
+</ul>
+
+<h3 id="subjects">Subjects</h3>
+
+<ul>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/tens-of-thousands-of-us-organizations-hit-in-ongoing-microsoft-exchange-hack/">Microsoft hacked</a></li>
+  <li><a href="https://krebsonsecurity.com/2021/03/three-top-russian-cybercrime-forums-hacked/">Russian hackers sites hacked</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/">One more Pro-Trump site hacked</a></li>
+  <li><a href="https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt">Cum se numărau rândurile de cod în Apple în 1982</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-020-79310-1">Ian vin mai aproape să-ți văd orientarea politică</a></li>
+</ul>
+
+<h3 id="aftershow-clubhouse">Aftershow (Clubhouse)</h3>
+
+<ul>
+  <li><a href="https://apps.apple.com/us/app/davids-disposable/id1491684197">Dispo is a thing?</a></li>
+  <li><a href="https://twitter.com/_MariaBurnett/status/1369330209036632068">30 ani în închisoare, cum e să vii în lumea digitalizată</a></li>
+  <li><a href="https://www.uni-goettingen.de/en/3240.html?id=6192">Încă o încercare de a merge mai repede ca lumina</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<h3 id="news">News</h3>
+
+<ul>
+  <li><a href="https://ntc.party/t/twitter/907">Rusia <del>blochează</del> face mai lent Twitter-ul, și multe alte site-uri</a></li>
+  <li><a href="https://ain.ua/2021/03/10/iz-za-sgorevshego-vo-francii-data-centra-vo-lvovskix-avtobusax-perestali-rabotat-gps-trekery/">În Lvov troleele merg fără GPS pentru că în Strasbourg a ars un datacentru OVH</a></li>
+  <li><a href="https://www.eejournal.com/article/wait-what-mips-becomes-risc-v/">MIPS moare, RISC-V trăiește</a></li>
+  <li><a href="https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils">Rust pentru coreutils e bun!</a></li>
+  <li><a href="https://tinyprojects.dev/projects/mailoji">Emoji email? Zaprosta!</a></li>
+</ul>
+
+<h3 id="subjects">Subjects</h3>
+
+<ul>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/tens-of-thousands-of-us-organizations-hit-in-ongoing-microsoft-exchange-hack/">Microsoft hacked</a></li>
+  <li><a href="https://krebsonsecurity.com/2021/03/three-top-russian-cybercrime-forums-hacked/">Russian hackers sites hacked</a></li>
+  <li><a href="https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/">One more Pro-Trump site hacked</a></li>
+  <li><a href="https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt">Cum se numărau rândurile de cod în Apple în 1982</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-020-79310-1">Ian vin mai aproape să-ți văd orientarea politică</a></li>
+</ul>
+
+<h3 id="aftershow-clubhouse">Aftershow (Clubhouse)</h3>
+
+<ul>
+  <li><a href="https://apps.apple.com/us/app/davids-disposable/id1491684197">Dispo is a thing?</a></li>
+  <li><a href="https://twitter.com/_MariaBurnett/status/1369330209036632068">30 ani în închisoare, cum e să vii în lumea digitalizată</a></li>
+  <li><a href="https://www.uni-goettingen.de/en/3240.html?id=6192">Încă o încercare de a merge mai repede ca lumina</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow40.mp3" 
+                         length="55317517" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:56:30</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#39 🔑 Parolele tale pot fi folosite în reclama noastră - </title>
+            <link>https://cowsay.show/2021/03/05/_39-_-parolele-tale-pot-fi-folosite-_n-reclama-noastr_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_39-_-parolele-tale-pot-fi-folosite-_n-reclama-noastr_"/>
+            <comments>https://cowsay.show/2021/03/05/_39-_-parolele-tale-pot-fi-folosite-_n-reclama-noastr_.html#disqus_thread</comments>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/03/05/_39-_-parolele-tale-pot-fi-folosite-_n-reclama-noastr_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/hackintosh/comments/hrlf8x/the_secret_diy_apple_5k_display_usbc_hdmi/">Apple 5k display cu £530</a></li>
+  <li><a href="https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber">Ajutați oamenii să facă reverse la B2</a></li>
+  <li><a href="https://docs.github.com/en/github/site-policy/github-deceased-user-policy">Ce să faci când utilizatorul moare</a></li>
+  <li><a href="https://www.cnbc.com/2021/02/25/relativitys-reusable-terran-rocket-competitor-to-spacexs-falcon-9.html">Rachetă 3d printată va zbura</a></li>
+  <li><a href="https://reports.exodus-privacy.eu.org/en/reports/165465/">7 trackere în LastPass pe Android</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/hackintosh/comments/hrlf8x/the_secret_diy_apple_5k_display_usbc_hdmi/">Apple 5k display cu £530</a></li>
+  <li><a href="https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber">Ajutați oamenii să facă reverse la B2</a></li>
+  <li><a href="https://docs.github.com/en/github/site-policy/github-deceased-user-policy">Ce să faci când utilizatorul moare</a></li>
+  <li><a href="https://www.cnbc.com/2021/02/25/relativitys-reusable-terran-rocket-competitor-to-spacexs-falcon-9.html">Rachetă 3d printată va zbura</a></li>
+  <li><a href="https://reports.exodus-privacy.eu.org/en/reports/165465/">7 trackere în LastPass pe Android</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow39.mp3" 
+                         length="63337885" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:04:39</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#38 Asta era tema lui Vanea 🔄  - </title>
+            <link>https://cowsay.show/2021/02/26/_38-asta-era-tema-lui-vanea-_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_38-asta-era-tema-lui-vanea-_"/>
+            <comments>https://cowsay.show/2021/02/26/_38-asta-era-tema-lui-vanea-_.html#disqus_thread</comments>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/02/26/_38-asta-era-tema-lui-vanea-_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/">Biserica Inteligenței Artificiale se închide</a></li>
+  <li><a href="https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release">În Arizona oamenii stau în închisoare mai mult din cauza unui bug</a></li>
+  <li><a href="https://variety.com/2021/digital/news/youtube-supervised-accounts-kid-controls-1234913968/">Youtube penru adolescenți (adica părinții lor)</a></li>
+  <li><a href="https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars">Linux pe Marte</a></li>
+  <li><a href="https://arstechnica.com/gaming/2021/02/valve-gets-dragged-into-apple-and-epics-legal-fight-over-fortnite/">Apple vrea să folosească Valve în lupca cu Epic</a></li>
+  <li><a href="https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/">Firefox acum e mai securizat</a></li>
+  <li><a href="https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/">Cum a fost portat Firefox pe M1</a></li>
+  <li><a href="https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f">Cum Discrod a trecut de pe Go pe Rust</a></li>
+  <li><a href="https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/">Greșelile unui manager începător</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/">Biserica Inteligenței Artificiale se închide</a></li>
+  <li><a href="https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release">În Arizona oamenii stau în închisoare mai mult din cauza unui bug</a></li>
+  <li><a href="https://variety.com/2021/digital/news/youtube-supervised-accounts-kid-controls-1234913968/">Youtube penru adolescenți (adica părinții lor)</a></li>
+  <li><a href="https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars">Linux pe Marte</a></li>
+  <li><a href="https://arstechnica.com/gaming/2021/02/valve-gets-dragged-into-apple-and-epics-legal-fight-over-fortnite/">Apple vrea să folosească Valve în lupca cu Epic</a></li>
+  <li><a href="https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/">Firefox acum e mai securizat</a></li>
+  <li><a href="https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/">Cum a fost portat Firefox pe M1</a></li>
+  <li><a href="https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f">Cum Discrod a trecut de pe Go pe Rust</a></li>
+  <li><a href="https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/">Greșelile unui manager începător</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow38.mp3" 
+                         length="65918605" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:06:48</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#37 ♣️🏠 Vanea, skaji Clubhouse - </title>
+            <link>https://cowsay.show/2021/02/19/_37-vanea_-skaji-clubhouse.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_37-vanea_-skaji-clubhouse"/>
+            <comments>https://cowsay.show/2021/02/19/_37-vanea_-skaji-clubhouse.html#disqus_thread</comments>
+            <pubDate>Fri, 19 Feb 2021 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/02/19/_37-vanea_-skaji-clubhouse.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://kotlinlang.org/docs/kotlin-foundation.html">Kotlin Foundation</a></li>
+  <li><a href="http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought">Cum a fost Windows refund day</a></li>
+  <li><a href="https://3dprintingindustry.com/news/ending-animal-testing-stuttgart-research-on-3d-printed-soft-tissue-substitute-184549/">3d printarea salvează animale</a></li>
+  <li><a href="https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed">Ce să faci dacă nu vrei să fii filmat live</a></li>
+  <li><a href="https://www.tomshardware.com/news/intel-fires-back-at-apple-m1-processors-with-benchmarks">Intel se pozorăște</a></li>
+  <li><a href="https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/amp/?__twitter_impression=true">Facebook contra Australia</a></li>
+  <li><a href="https://www.mastercard.com/news/perspectives/2021/why-mastercard-is-bringing-crypto-onto-our-network/?fbclid=IwAR0aXGEKwFabQO3S5ooXJRGtOjg6IcEAZKx_kb34tTxJFKmDhy8HCjbH4HU">Mastercard se gătește să îmbrațișeze crypto</a></li>
+  <li><a href="https://github.com/stypr/clubhouse-py">Intrați pe Clubhouse, dacă nu aveți iOS ap iaca utilită de consolă ;P</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://kotlinlang.org/docs/kotlin-foundation.html">Kotlin Foundation</a></li>
+  <li><a href="http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought">Cum a fost Windows refund day</a></li>
+  <li><a href="https://3dprintingindustry.com/news/ending-animal-testing-stuttgart-research-on-3d-printed-soft-tissue-substitute-184549/">3d printarea salvează animale</a></li>
+  <li><a href="https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed">Ce să faci dacă nu vrei să fii filmat live</a></li>
+  <li><a href="https://www.tomshardware.com/news/intel-fires-back-at-apple-m1-processors-with-benchmarks">Intel se pozorăște</a></li>
+  <li><a href="https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/amp/?__twitter_impression=true">Facebook contra Australia</a></li>
+  <li><a href="https://www.mastercard.com/news/perspectives/2021/why-mastercard-is-bringing-crypto-onto-our-network/?fbclid=IwAR0aXGEKwFabQO3S5ooXJRGtOjg6IcEAZKx_kb34tTxJFKmDhy8HCjbH4HU">Mastercard se gătește să îmbrațișeze crypto</a></li>
+  <li><a href="https://github.com/stypr/clubhouse-py">Intrați pe Clubhouse, dacă nu aveți iOS ap iaca utilită de consolă ;P</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow37.mp3" 
+                         length="53050626" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:02:29</itunes:duration>
+            </item></channel>
+</rss>
