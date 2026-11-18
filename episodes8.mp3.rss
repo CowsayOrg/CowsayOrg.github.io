@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Wed, 31 Dec 2025 12:19:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:24:14 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -48,7 +48,7 @@
             <link>https://cowsay.show/2020/08/21/_16-epic-battle_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_16-epic-battle_"/>
             <comments>https://cowsay.show/2020/08/21/_16-epic-battle_.html#disqus_thread</comments>
-            <pubDate>Fri, 21 Aug 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 21 Aug 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/08/21/_16-epic-battle_.html</guid>
             <description><![CDATA[<!---
@@ -89,7 +89,7 @@ It is only necessary for hosting remotely.
   <li>Savanții hărțuiți de hackeri în suma de 118 BTC- https://www.bloomberg.com/news/features/2020-08-19/ucsf-hack-shows-evolving-risks-of-ransomware-in-the-covid-era</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow16.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow16.mp3" 
                          length="68055555" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -108,7 +108,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/08/14/_15-tiktok-gata_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_15-tiktok-gata_"/>
             <comments>https://cowsay.show/2020/08/14/_15-tiktok-gata_.html#disqus_thread</comments>
-            <pubDate>Fri, 14 Aug 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/08/14/_15-tiktok-gata_.html</guid>
             <description><![CDATA[<!---
@@ -151,7 +151,7 @@ It is only necessary for hosting remotely.
   <li>Câți colțunași ți-o mai rămas? - https://waitbutwhy.com/2015/12/the-tail-end.html</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow15.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow15.mp3" 
                          length="54422440" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -170,7 +170,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_14-alibaba-inteligence"/>
             <comments>https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html#disqus_thread</comments>
-            <pubDate>Fri, 07 Aug 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 07 Aug 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html</guid>
             <description><![CDATA[<!---
@@ -213,7 +213,7 @@ It is only necessary for hosting remotely.
   <li>Cum e să lucrezi cu Bezos - https://twitter.com/drose_999/status/1287944667414196225</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow14.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow14.mp3" 
                          length="58141877" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -232,7 +232,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_13-antitirust-them-all_"/>
             <comments>https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html#disqus_thread</comments>
-            <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 31 Jul 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html</guid>
             <description><![CDATA[<!---
@@ -279,7 +279,7 @@ It is only necessary for hosting remotely.
   <li>No tech debt, it’s unhedged call option - https://www.higherorderlogic.com/2010/07/23/bad-code-isnt-technical-debt-its-an-unhedged-call-option/</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow13.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow13.mp3" 
                          length="94124447" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -298,7 +298,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/07/24/_12-blind-ai.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_12-blind-ai"/>
             <comments>https://cowsay.show/2020/07/24/_12-blind-ai.html#disqus_thread</comments>
-            <pubDate>Fri, 24 Jul 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 24 Jul 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/07/24/_12-blind-ai.html</guid>
             <description><![CDATA[<!---
@@ -345,7 +345,7 @@ It is only necessary for hosting remotely.
   <li>Srie cod nu ca să fie ușor de extins ci ușor de șters - https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow12.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow12.mp3" 
                          length="57185739" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -364,7 +364,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/07/17/_11-money.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_11-money"/>
             <comments>https://cowsay.show/2020/07/17/_11-money.html#disqus_thread</comments>
-            <pubDate>Fri, 17 Jul 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/07/17/_11-money.html</guid>
             <description><![CDATA[<!---
@@ -407,7 +407,7 @@ It is only necessary for hosting remotely.
 </ul>
 
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow11.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow11.mp3" 
                          length="66488434" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -426,7 +426,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_10-microsoft-supper-together"/>
             <comments>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html#disqus_thread</comments>
-            <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
+            <pubDate>Sat, 11 Jul 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</guid>
             <description><![CDATA[<!---
@@ -471,7 +471,7 @@ It is only necessary for hosting remotely.
 </ul>
 
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow10.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow10.mp3" 
                          length="40992162" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -490,7 +490,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/07/09/_9-no-code_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_9-no-code_"/>
             <comments>https://cowsay.show/2020/07/09/_9-no-code_.html#disqus_thread</comments>
-            <pubDate>Thu, 09 Jul 2020 00:00:00 +0200</pubDate>
+            <pubDate>Thu, 09 Jul 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/07/09/_9-no-code_.html</guid>
             <description><![CDATA[<!---
@@ -523,7 +523,7 @@ It is only necessary for hosting remotely.
   <li>Apple Silicon dev kit.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow9.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow9.mp3" 
                          length="62840476" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -542,7 +542,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/06/25/_8-misha.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_8-misha"/>
             <comments>https://cowsay.show/2020/06/25/_8-misha.html#disqus_thread</comments>
-            <pubDate>Thu, 25 Jun 2020 00:00:00 +0200</pubDate>
+            <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/06/25/_8-misha.html</guid>
             <description><![CDATA[<!---
@@ -567,7 +567,7 @@ It is only necessary for hosting remotely.
 
 <p>About Agile and how we endure it.</p>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow8.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow8.mp3" 
                          length="45471722" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -586,7 +586,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_7-hey_-hello_-__"/>
             <comments>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html#disqus_thread</comments>
-            <pubDate>Thu, 18 Jun 2020 00:00:00 +0200</pubDate>
+            <pubDate>Thu, 18 Jun 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</guid>
             <description><![CDATA[<!---
@@ -617,7 +617,7 @@ It is only necessary for hosting remotely.
   <li>Basecamp and other on Apple for in-apps.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow7.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow7.mp3" 
                          length="68778786" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -636,7 +636,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_6-apple-_-arm-_-__"/>
             <comments>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html#disqus_thread</comments>
-            <pubDate>Wed, 17 Jun 2020 00:00:00 +0200</pubDate>
+            <pubDate>Wed, 17 Jun 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</guid>
             <description><![CDATA[<!---
@@ -667,7 +667,7 @@ It is only necessary for hosting remotely.
   <li>Ei restul deja nu-i așa interesant :D</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow6.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow6.mp3" 
                          length="68443908" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -686,7 +686,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_5-revolut_-facebook-_-trump"/>
             <comments>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html#disqus_thread</comments>
-            <pubDate>Thu, 04 Jun 2020 00:00:00 +0200</pubDate>
+            <pubDate>Thu, 04 Jun 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</guid>
             <description><![CDATA[<!---
@@ -721,7 +721,7 @@ It is only necessary for hosting remotely.
 </ul>
 
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow5.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow5.mp3" 
                          length="35197594" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -740,7 +740,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/05/29/_4-stackoverflow20.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_4-stackoverflow20"/>
             <comments>https://cowsay.show/2020/05/29/_4-stackoverflow20.html#disqus_thread</comments>
-            <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 29 May 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/05/29/_4-stackoverflow20.html</guid>
             <description><![CDATA[<!---
@@ -775,7 +775,7 @@ It is only necessary for hosting remotely.
   <li>Și altele ;)</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow4.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow4.mp3" 
                          length="55141580" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -794,7 +794,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_3-erlang-erlang-erlang_"/>
             <comments>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html#disqus_thread</comments>
-            <pubDate>Fri, 08 May 2020 00:00:00 +0200</pubDate>
+            <pubDate>Fri, 08 May 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</guid>
             <description><![CDATA[<!---
@@ -819,7 +819,7 @@ It is only necessary for hosting remotely.
 
 <p>Anatolie Golovco on Elixir/Erlang</p>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow3.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow3.mp3" 
                          length="36266144" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -838,7 +838,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_2-pandemic-it-world"/>
             <comments>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html#disqus_thread</comments>
-            <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+            <pubDate>Thu, 07 May 2020 00:00:00 -0700</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</guid>
             <description><![CDATA[<!---
@@ -869,7 +869,7 @@ It is only necessary for hosting remotely.
   <li>Business during Pandemic.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow2.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow2.mp3" 
                          length="66582374" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
@@ -888,7 +888,7 @@ It is only necessary for hosting remotely.
             <link>https://cowsay.show/2020/02/01/podcast-_1.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/podcast-_1"/>
             <comments>https://cowsay.show/2020/02/01/podcast-_1.html#disqus_thread</comments>
-            <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 -0800</pubDate>
             
             <guid isPermaLink="false">https://cowsay.show/2020/02/01/podcast-_1.html</guid>
             <description><![CDATA[<!---
@@ -921,7 +921,7 @@ It is only necessary for hosting remotely.
   <li>Apple don’t want you to create competitors while working for them.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="https://cowsay.blob.core.windows.net/cowsay-episodes/cow1.mp3" 
+            <enclosure url="https://episodes.cowsay.show/cow1.mp3" 
                          length="69205379" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
