@@ -1,0 +1,497 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Cowsay Show</title>
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss9" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
+    
+    <atom:link href="https://cowsay.show/episodes8.mp3.rss" rel="prev" type="application/rss+xml" />
+
+    
+    <description>Podcast Moldovenesc depsre IT, business și oameni
+</description>
+    <lastBuildDate>Thu, 19 Nov 2026 13:06:09 -0700</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>Podcast Moldovenesc depsre IT, business și oameni
+</itunes:summary>
+    <itunes:author>Cowsay Crew ©</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:owner>
+      <itunes:name>Cowsay Crew ©</itunes:name>
+      <itunes:email>vlad.drahnea@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>vlad.drahnea@gmail.com (Cowsay Crew ©)</managingEditor>
+    <copyright>All Rights Reserved © Vlad Drahnea 2023</copyright>
+    <itunes:subtitle>Despre IT</itunes:subtitle>
+    <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
+    <image>
+      <title>Cowsay Show</title>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>#9 no code? - </title>
+            <link>https://cowsay.show/2020/07/09/_9-no-code_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_9-no-code_"/>
+            <comments>https://cowsay.show/2020/07/09/_9-no-code_.html#disqus_thread</comments>
+            <pubDate>Thu, 09 Jul 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/07/09/_9-no-code_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Despre  no/less code cu Vlad Larin din Zeroqode.</li>
+  <li>Elicoptere moldovenești.</li>
+  <li>Apple Silicon dev kit.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Despre  no/less code cu Vlad Larin din Zeroqode.</li>
+  <li>Elicoptere moldovenești.</li>
+  <li>Apple Silicon dev kit.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow9.mp3" 
+                         length="62840476" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>1:16:24</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov9.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov9.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#8 Misha - </title>
+            <link>https://cowsay.show/2020/06/25/_8-misha.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_8-misha"/>
+            <comments>https://cowsay.show/2020/06/25/_8-misha.html#disqus_thread</comments>
+            <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/06/25/_8-misha.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>About Agile and how we endure it.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>About Agile and how we endure it.</p>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow8.mp3" 
+                         length="45471722" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:58:17</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov8.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov8.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#7 Hey, hello! :) - </title>
+            <link>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_7-hey_-hello_-__"/>
+            <comments>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html#disqus_thread</comments>
+            <pubDate>Thu, 18 Jun 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>NoteHey from Basecamp.</li>
+  <li>Basecamp and other on Apple for in-apps.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>NoteHey from Basecamp.</li>
+  <li>Basecamp and other on Apple for in-apps.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow7.mp3" 
+                         length="68778786" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:56:14</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov7.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov7.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#6 Apple + ARM = ❤️ - </title>
+            <link>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_6-apple-_-arm-_-__"/>
+            <comments>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html#disqus_thread</comments>
+            <pubDate>Wed, 17 Jun 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Apple chiar trece pe ARM procesoare?</li>
+  <li>Ei restul deja nu-i așa interesant :D</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Apple chiar trece pe ARM procesoare?</li>
+  <li>Ei restul deja nu-i așa interesant :D</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow6.mp3" 
+                         length="68443908" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:54;47</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov6.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov6.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#5 Revolut, Facebook & Trump - </title>
+            <link>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_5-revolut_-facebook-_-trump"/>
+            <comments>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html#disqus_thread</comments>
+            <pubDate>Thu, 04 Jun 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Facebook vs Trump</li>
+  <li>Revolut new startup evil?</li>
+  <li>How does your company manage pandemic?</li>
+</ul>
+
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Facebook vs Trump</li>
+  <li>Revolut new startup evil?</li>
+  <li>How does your company manage pandemic?</li>
+</ul>
+
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow5.mp3" 
+                         length="35197594" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:44:38</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov5.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov5.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#4 Stackoverflow20 - </title>
+            <link>https://cowsay.show/2020/05/29/_4-stackoverflow20.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_4-stackoverflow20"/>
+            <comments>https://cowsay.show/2020/05/29/_4-stackoverflow20.html#disqus_thread</comments>
+            <pubDate>Fri, 29 May 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/05/29/_4-stackoverflow20.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Despre rezultatele chestionarului de pe Stackoverflow 2020.</li>
+  <li>Microsoft a construit (furat) un package manager pentru Windows.</li>
+  <li>Linus Torvalds trece pe procesor AMD.</li>
+  <li>Și altele ;)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Despre rezultatele chestionarului de pe Stackoverflow 2020.</li>
+  <li>Microsoft a construit (furat) un package manager pentru Windows.</li>
+  <li>Linus Torvalds trece pe procesor AMD.</li>
+  <li>Și altele ;)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow4.mp3" 
+                         length="55141580" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>1:10:54</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov4.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov4.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#3 Erlang-Erlang-Erlang! - </title>
+            <link>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_3-erlang-erlang-erlang_"/>
+            <comments>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html#disqus_thread</comments>
+            <pubDate>Fri, 08 May 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>Anatolie Golovco on Elixir/Erlang</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<p>Anatolie Golovco on Elixir/Erlang</p>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow3.mp3" 
+                         length="36266144" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:44:06</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov3.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov3.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>#2 Pandemic IT World - </title>
+            <link>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_2-pandemic-it-world"/>
+            <comments>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html#disqus_thread</comments>
+            <pubDate>Thu, 07 May 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Remote work during Pandemic.</li>
+  <li>Business during Pandemic.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Remote work during Pandemic.</li>
+  <li>Business during Pandemic.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow2.mp3" 
+                         length="66582374" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>1:25:15</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov2.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov2.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
+            <title>Podcast #1 - </title>
+            <link>https://cowsay.show/2020/02/01/podcast-_1.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/podcast-_1"/>
+            <comments>https://cowsay.show/2020/02/01/podcast-_1.html#disqus_thread</comments>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 -0800</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/02/01/podcast-_1.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Private data alternatives to Facebook and Google.</li>
+  <li>RISK is a thing, again.</li>
+  <li>Apple don’t want you to create competitors while working for them.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Private data alternatives to Facebook and Google.</li>
+  <li>RISK is a thing, again.</li>
+  <li>Apple don’t want you to create competitors while working for them.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow1.mp3" 
+                         length="69205379" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>1:12:02</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item></channel>
+</rss>
