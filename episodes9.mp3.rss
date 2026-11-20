@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:06:09 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,70 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#10 Microsoft Supper Together - </title>
+            <link>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_10-microsoft-supper-together"/>
+            <comments>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html#disqus_thread</comments>
+            <pubDate>Sat, 11 Jul 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>3:11 Twitter cu bani?</li>
+  <li>7:28 Flutter vine pe linux, dar nu și pe Linux Mint</li>
+  <li>13:09 Microsoft Teams Together</li>
+  <li>18:31 Estonia Nomad Visa</li>
+  <li>21:54 Emailul nu ajunge mai departe de 500 miles</li>
+  <li>33:21 Dezvoltă-ți propriul 130nm cip gratuit</li>
+  <li>40:27 Wirecard AG unul din clienții căruia este Payoneer declară insolvabilitate</li>
+  <li>44:41 Noul design Stripe</li>
+</ul>
+
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>3:11 Twitter cu bani?</li>
+  <li>7:28 Flutter vine pe linux, dar nu și pe Linux Mint</li>
+  <li>13:09 Microsoft Teams Together</li>
+  <li>18:31 Estonia Nomad Visa</li>
+  <li>21:54 Emailul nu ajunge mai departe de 500 miles</li>
+  <li>33:21 Dezvoltă-ți propriul 130nm cip gratuit</li>
+  <li>40:27 Wirecard AG unul din clienții căruia este Payoneer declară insolvabilitate</li>
+  <li>44:41 Noul design Stripe</li>
+</ul>
+
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow10.mp3" 
+                         length="40992162" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:58:18</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov10.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov10.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
             <title>#9 no code? - </title>
             <link>https://cowsay.show/2020/07/09/_9-no-code_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_9-no-code_"/>

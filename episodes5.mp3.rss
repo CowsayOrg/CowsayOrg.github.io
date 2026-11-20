@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:06:09 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,77 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#89 ⚔️ Incertitudini și Senzații în AI - </title>
+            <link>https://cowsay.show/2023/05/11/89.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/89"/>
+            <comments>https://cowsay.show/2023/05/11/89.html#disqus_thread</comments>
+            <pubDate>Thu, 11 May 2023 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/05/11/89.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/">Intel, după un an nereușit (-30%) dă afară oameni și plătește $1.5B dividende</a></li>
+  <li><a href="https://twitter.com/tomwarren/status/1656331173390327811">Condițiile “macroeconomice” nu vor permite mărirea salariilor la Microsoft</a></li>
+  <li><a href="https://www.tiktok.com/@verge/video/7231610749796437294">Google I/O 2023</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Acum vei putea nu doar fura o trotinetă în GTA, dar și procura una reală direct din joc</a></li>
+  <li><a href="https://openai.com/research/language-models-can-explain-neurons-in-language-models?fbclid=IwAR3S0EvsuMmZs1KnsK0rWCmwX9bHHyzBuR-9G3U_OaN9Wx70rarQxiPb-3A">GPT-4 încearcă să explice la ce se gândește GPT-2. Fără mair succese, deocamdată</a></li>
+  <li><a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">Războiul AI abia începe și nimeni nu are vreun avantaj evident.</a></li>
+  <li><a href="https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage?fbclid=IwAR2LDgnViTLrB4GOqDMj6fCv8HB708XsqBuyNSWLT1MPMaSAs6rq7jcGSxs">Emergent Properties my ass</a></li>
+  <li><a href="https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/">Disruptive Properties prin exemplu StackOverflow</a></li>
+  <li><a href="https://twitter.com/lacker/status/1655639904368615424">ChatGPT a găsit un bug în compilatorul Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/">Intel, după un an nereușit (-30%) dă afară oameni și plătește $1.5B dividende</a></li>
+  <li><a href="https://twitter.com/tomwarren/status/1656331173390327811">Condițiile “macroeconomice” nu vor permite mărirea salariilor la Microsoft</a></li>
+  <li><a href="https://www.tiktok.com/@verge/video/7231610749796437294">Google I/O 2023</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Acum vei putea nu doar fura o trotinetă în GTA, dar și procura una reală direct din joc</a></li>
+  <li><a href="https://openai.com/research/language-models-can-explain-neurons-in-language-models?fbclid=IwAR3S0EvsuMmZs1KnsK0rWCmwX9bHHyzBuR-9G3U_OaN9Wx70rarQxiPb-3A">GPT-4 încearcă să explice la ce se gândește GPT-2. Fără mair succese, deocamdată</a></li>
+  <li><a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">Războiul AI abia începe și nimeni nu are vreun avantaj evident.</a></li>
+  <li><a href="https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage?fbclid=IwAR2LDgnViTLrB4GOqDMj6fCv8HB708XsqBuyNSWLT1MPMaSAs6rq7jcGSxs">Emergent Properties my ass</a></li>
+  <li><a href="https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/">Disruptive Properties prin exemplu StackOverflow</a></li>
+  <li><a href="https://twitter.com/lacker/status/1655639904368615424">ChatGPT a găsit un bug în compilatorul Rust</a></li>
+</ul>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow89.mp3" 
+                         length="94092813" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:11:48</itunes:duration>
+            </item><item>
             <title>#88 ⚙️ + 🪟 = 🫶 - </title>
             <link>https://cowsay.show/2023/05/04/88.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/88"/>
@@ -1280,64 +1351,5 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:47:21</itunes:duration>
-            </item><item>
-            <title>#69 e-vot 🗳️ în Moldova? - </title>
-            <link>https://cowsay.show/2022/07/04/_69.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_69"/>
-            <comments>https://cowsay.show/2022/07/04/_69.html#disqus_thread</comments>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 -0700</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2022/07/04/_69.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="astăzi-avem-doar-o-temă-în-discuție-e-votul-în-moldova">Astăzi avem doar o temă în discuție: e-votul în Moldova</h2>
-
-<p>Și oaspeții noștri Vitalie Eșanu și Dumitru Alaiba, ne vor ajuta să înțelegem cât de aplicabil, necesar și viabil este votarea electronică pentru Moldova.</p>
-
-<ul>
-  <li>CEC a <a href="https://a.cec.md/ro/conceptul-sistemului-de-vot-prin-internet-e-votare-a-2781_102036.html?fbclid=IwAR3KuJxP5u8KxKqW5O1xbKmmOVGhPcG1ZeDQQCLoWKZLp2TdQ2oZwJKsrIk">anunțat că decizia de a adopta e-votul a fost adoptată</a></li>
-</ul>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
-<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="astăzi-avem-doar-o-temă-în-discuție-e-votul-în-moldova">Astăzi avem doar o temă în discuție: e-votul în Moldova</h2>
-
-<p>Și oaspeții noștri Vitalie Eșanu și Dumitru Alaiba, ne vor ajuta să înțelegem cât de aplicabil, necesar și viabil este votarea electronică pentru Moldova.</p>
-
-<ul>
-  <li>CEC a <a href="https://a.cec.md/ro/conceptul-sistemului-de-vot-prin-internet-e-votare-a-2781_102036.html?fbclid=IwAR3KuJxP5u8KxKqW5O1xbKmmOVGhPcG1ZeDQQCLoWKZLp2TdQ2oZwJKsrIk">anunțat că decizia de a adopta e-votul a fost adoptată</a></li>
-</ul>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
-<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow69.mp3" 
-                         length="52848397" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>55:06</itunes:duration>
             </item></channel>
 </rss>
