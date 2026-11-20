@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:15:00 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,93 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#90 🧵 Să nu pierdem firele - </title>
+            <link>https://cowsay.show/2023/07/06/90.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/90"/>
+            <comments>https://cowsay.show/2023/07/06/90.html#disqus_thread</comments>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2023/07/06/90.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<p>N-am fost de un pic mai mult de-o lună dar de parcă o veșnicie. Good to be back 🤗.</p>
+
+<h2 id="temele-săptămânii">Temele săptămânii</h2>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO! Jucăm acest sezon</a></li>
+  <li><a href="https://www.apple.com/apple-vision-pro/">WWDC23 nu se termină până noi nu l-am discutat 🤪 (Vision Pro, marosuri în Swift)</a></li>
+  <li><a href="https://help.twitter.com/en/rules-and-policies/twitter-limits#:~:text=Direct%20Messages%20(daily)%3A%20The,Retweets%20are%20counted%20as%20Tweets.">Twitter bagă taloane</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Meta lansează Threads, alternativa Twitter, într-un moment potrivit</a></li>
+  <li><a href="https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon">Rețelele de socializare vor dispărea?</a></li>
+  <li><a href="https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAADJr_Wk5Ib9ty_uSn5NwwYRIcTYLkJM4mGfhbSoXTTre1SF4KYvuEfjc0eI0Ty5NlRcWdP8svF-bSi6KfnC8Sls5WSxcCyt_xIWBqaVApU1v5bKXThsQXJuWfyzg1ORPELLUNp1EkJKJntpFCdm3elbGNIS24UUIcTaY9nXZHo7z">OpenAI antrenează model care să controleze alte modele</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Valve interzice publicarea jocurilor care conțin content generat din modele antrenate pe content protejat prin copyright</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Vibrator + ChatGPT = 💓</a></li>
+</ul>
+
+<h2 id="temele-ascultătorilor">Temele ascultătorilor</h2>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. <a href="https://discord.gg/GAYUppJUVX">Iată aici</a>)</p>
+
+<ul>
+  <li><a href="https://hackaday.com/2023/07/02/computer-speed-gains-erased-by-modern-software/">(cpv): Cât memorie operativă nu le dai, tot cer mai mult</a></li>
+</ul>
+
+<h2 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h2>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h2 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h2>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<p>N-am fost de un pic mai mult de-o lună dar de parcă o veșnicie. Good to be back 🤗.</p>
+
+<h2 id="temele-săptămânii">Temele săptămânii</h2>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO! Jucăm acest sezon</a></li>
+  <li><a href="https://www.apple.com/apple-vision-pro/">WWDC23 nu se termină până noi nu l-am discutat 🤪 (Vision Pro, marosuri în Swift)</a></li>
+  <li><a href="https://help.twitter.com/en/rules-and-policies/twitter-limits#:~:text=Direct%20Messages%20(daily)%3A%20The,Retweets%20are%20counted%20as%20Tweets.">Twitter bagă taloane</a></li>
+  <li><a href="https://www.aboutamazon.com/news/retail/amazon-anywhere-launches-augmented-reality-shopping?fbclid=IwAR2AAIZW2dx5GmrBtlox7CIAen8Xhqvf6IIRZ97ITHp_E6jq54d9dSQoB38">Meta lansează Threads, alternativa Twitter, într-un moment potrivit</a></li>
+  <li><a href="https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon">Rețelele de socializare vor dispărea?</a></li>
+  <li><a href="https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAADJr_Wk5Ib9ty_uSn5NwwYRIcTYLkJM4mGfhbSoXTTre1SF4KYvuEfjc0eI0Ty5NlRcWdP8svF-bSi6KfnC8Sls5WSxcCyt_xIWBqaVApU1v5bKXThsQXJuWfyzg1ORPELLUNp1EkJKJntpFCdm3elbGNIS24UUIcTaY9nXZHo7z">OpenAI antrenează model care să controleze alte modele</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Valve interzice publicarea jocurilor care conțin content generat din modele antrenate pe content protejat prin copyright</a></li>
+  <li><a href="https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/">Vibrator + ChatGPT = 💓</a></li>
+</ul>
+
+<h2 id="temele-ascultătorilor">Temele ascultătorilor</h2>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. <a href="https://discord.gg/GAYUppJUVX">Iată aici</a>)</p>
+
+<ul>
+  <li><a href="https://hackaday.com/2023/07/02/computer-speed-gains-erased-by-modern-software/">(cpv): Cât memorie operativă nu le dai, tot cer mai mult</a></li>
+</ul>
+
+<h2 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h2>
+<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h2 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h2>
+<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow90.mp3" 
+                         length="66539428" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:42</itunes:duration>
+            </item><item>
             <title>#89 ⚔️ Incertitudini și Senzații în AI - </title>
             <link>https://cowsay.show/2023/05/11/89.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/89"/>
@@ -1304,52 +1391,5 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:08:43</itunes:duration>
-            </item><item>
-            <title>#70 Criza 👷 Recrutării - </title>
-            <link>https://cowsay.show/2022/08/02/70.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/70"/>
-            <comments>https://cowsay.show/2022/08/02/70.html#disqus_thread</comments>
-            <pubDate>Tue, 02 Aug 2022 00:00:00 -0700</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2022/08/02/70.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="împreună-cu-lia-plămădeală-de-la-orange-franța-încercăm-să-înțelegem-ce-se-întâmplă-pe-piața-de-angajare-și-ce-fac-companiile-pentru-a-rămâne-competitive">Împreună cu Lia Plămădeală de la Orange, Franța încercăm să înțelegem ce se întâmplă pe piața de angajare și ce fac companiile pentru a rămâne competitive</h2>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
-<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="împreună-cu-lia-plămădeală-de-la-orange-franța-încercăm-să-înțelegem-ce-se-întâmplă-pe-piața-de-angajare-și-ce-fac-companiile-pentru-a-rămâne-competitive">Împreună cu Lia Plămădeală de la Orange, Franța încercăm să înțelegem ce se întâmplă pe piața de angajare și ce fac companiile pentru a rămâne competitive</h2>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o <a href="https://cowsay.show/standwithukraine">pagină specială</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="acum-avem-și-noi-onlyfans-patreon">Acum avem și noi <del>Onlyfans</del> Patreon</h3>
-<p><a href="https://www.patreon.com/cowsay?fan_landing=true">Aici</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow70.mp3" 
-                         length="44935390" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:47:21</itunes:duration>
             </item></channel>
 </rss>

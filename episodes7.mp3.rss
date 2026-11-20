@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:15:00 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,70 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#51 💔 Salesforce, a-ta-ta! - </title>
+            <link>https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_51-_-salesforce_-a-ta-ta"/>
+            <comments>https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html#disqus_thread</comments>
+            <pubDate>Fri, 28 May 2021 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/28/_51-_-salesforce_-a-ta-ta.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/t/terms">Youtube acum va arăta reclamă peste tot</a></li>
+  <li><a href="https://twitter.com/elonmusk/status/1396914548167233537?s=19">Musk iar a zis ceva</a></li>
+  <li><a href="https://twitter.com/ccgus/status/1395145361136644098">Un GIF anomalic, sau nu GIF?</a></li>
+  <li><a href="https://www.theregister.com/2021/05/19/salesforce_root_cause/">Țapul de la Salesforce</a></li>
+  <li><a href="https://twitter.com/GrahamJCampbell/status/1396819482732023814">Zile grele de open source maintainer</a></li>
+  <li><a href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html">Importanța proiecteleor fără folos</a></li>
+  <li><a href="https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/">Microsoft Build a trecut nu degeaba</a></li>
+  <li><a href="https://www.wsj.com/articles/tiktok-founder-is-latest-china-tech-boss-to-step-down-amid-government-crackdown-11621524874">În 🇨🇳 să faci business nu e sursă doar de venit</a></li>
+  <li><a href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/">Google Fuchsia o venit</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/t/terms">Youtube acum va arăta reclamă peste tot</a></li>
+  <li><a href="https://twitter.com/elonmusk/status/1396914548167233537?s=19">Musk iar a zis ceva</a></li>
+  <li><a href="https://twitter.com/ccgus/status/1395145361136644098">Un GIF anomalic, sau nu GIF?</a></li>
+  <li><a href="https://www.theregister.com/2021/05/19/salesforce_root_cause/">Țapul de la Salesforce</a></li>
+  <li><a href="https://twitter.com/GrahamJCampbell/status/1396819482732023814">Zile grele de open source maintainer</a></li>
+  <li><a href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html">Importanța proiecteleor fără folos</a></li>
+  <li><a href="https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/">Microsoft Build a trecut nu degeaba</a></li>
+  <li><a href="https://www.wsj.com/articles/tiktok-founder-is-latest-china-tech-boss-to-step-down-amid-government-crackdown-11621524874">În 🇨🇳 să faci business nu e sursă doar de venit</a></li>
+  <li><a href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/">Google Fuchsia o venit</a></li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow51.mp3" 
+                         length="65168125" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:31</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
             <title>#50 💡 Hai să reinventăm X - </title>
             <link>https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_50-_-hai-s_-reinvent_m-x"/>
@@ -1296,82 +1360,6 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>01:03:40</itunes:duration>
-            <itunes:image href="https://cowsay.show/img/covers/default.png" />
-              <image>
-                <title></title>
-                <url>https://cowsay.show/img/covers/default.png</url>
-                <link>https://cowsay.show</link>
-              </image></item><item>
-            <title>#31 Găsiți-mă pe VSinder (Dark Mode On 🌘) - </title>
-            <link>https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__"/>
-            <comments>https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html#disqus_thread</comments>
-            <pubDate>Mon, 14 Dec 2020 00:00:00 -0800</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Facebook lucrează cu dificultăți de pe 3 decembrie - https://developers.facebook.com/status/dashboard/</li>
-  <li>Octoverse - https://octoverse.github.com/</li>
-  <li>Github Dark Mode - https://github.com/settings/appearance</li>
-  <li>VSinder - https://twitter.com/benawad/status/1336691028473090050</li>
-  <li>Hyundai buys Boston Dynamics - https://www.kedglobal.com/newsView/ked202012080011</li>
-  <li>Apple Airpods Max - https://www.apple.com/airpods-max/</li>
-  <li>Googel cere ajutor cu Fucshia - https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html</li>
-  <li>Statul American dă în judecată Facebook pentru al face să vândă Instagram și Whatsapp - https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization</li>
-  <li>Google nu iubește când AI-u lor e criticat - https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/</li>
-</ul>
-
-<p>Backlog:</p>
-<ul>
-  <li>Kafca is not a DB - https://materialize.com/kafka-is-not-a-database/</li>
-  <li>Linked list good taste - https://github.com/mkirchner/linked-list-good-taste</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Facebook lucrează cu dificultăți de pe 3 decembrie - https://developers.facebook.com/status/dashboard/</li>
-  <li>Octoverse - https://octoverse.github.com/</li>
-  <li>Github Dark Mode - https://github.com/settings/appearance</li>
-  <li>VSinder - https://twitter.com/benawad/status/1336691028473090050</li>
-  <li>Hyundai buys Boston Dynamics - https://www.kedglobal.com/newsView/ked202012080011</li>
-  <li>Apple Airpods Max - https://www.apple.com/airpods-max/</li>
-  <li>Googel cere ajutor cu Fucshia - https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html</li>
-  <li>Statul American dă în judecată Facebook pentru al face să vândă Instagram și Whatsapp - https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization</li>
-  <li>Google nu iubește când AI-u lor e criticat - https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/</li>
-</ul>
-
-<p>Backlog:</p>
-<ul>
-  <li>Kafca is not a DB - https://materialize.com/kafka-is-not-a-database/</li>
-  <li>Linked list good taste - https://github.com/mkirchner/linked-list-good-taste</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow31.mp3" 
-                         length="57119929" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>01:19:33</itunes:duration>
             <itunes:image href="https://cowsay.show/img/covers/default.png" />
               <image>
                 <title></title>

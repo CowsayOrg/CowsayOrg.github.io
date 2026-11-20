@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:15:00 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,68 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#11 Money - </title>
+            <link>https://cowsay.show/2020/07/17/_11-money.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_11-money"/>
+            <comments>https://cowsay.show/2020/07/17/_11-money.html#disqus_thread</comments>
+            <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/07/17/_11-money.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>1:09 Mai multe account-uri mari Twitter au fost sparte. (https://www.theverge.com/2020/7/15/21326200/elon-musk-bill-gates-twitter-hack-bitcoin-scam-compromised)</li>
+  <li>4:54 Spotify oficial în Moldova. (https://www.spotify.com/md-en/premium/?checkout=false)</li>
+  <li>7:44 Polonia include jocul This War of Mine în programul școlar. (https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)</li>
+  <li>12:26 iOS Facebook SDK bug. Tinder nu se pornea :// (https://github.com/facebook/facebook-ios-sdk/issues/1427)</li>
+  <li>16:21 Rust în Linux Kernel. (https://lkml.org/lkml/2020/7/10/1261)</li>
+  <li>24:47 Amazon cumpără Zoox, în stil special :) (https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8)</li>
+  <li>32:21 De ce programatorii primesc așa bani mari?</li>
+</ul>
+
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>1:09 Mai multe account-uri mari Twitter au fost sparte. (https://www.theverge.com/2020/7/15/21326200/elon-musk-bill-gates-twitter-hack-bitcoin-scam-compromised)</li>
+  <li>4:54 Spotify oficial în Moldova. (https://www.spotify.com/md-en/premium/?checkout=false)</li>
+  <li>7:44 Polonia include jocul This War of Mine în programul școlar. (https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)</li>
+  <li>12:26 iOS Facebook SDK bug. Tinder nu se pornea :// (https://github.com/facebook/facebook-ios-sdk/issues/1427)</li>
+  <li>16:21 Rust în Linux Kernel. (https://lkml.org/lkml/2020/7/10/1261)</li>
+  <li>24:47 Amazon cumpără Zoox, în stil special :) (https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8)</li>
+  <li>32:21 De ce programatorii primesc așa bani mari?</li>
+</ul>
+
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow11.mp3" 
+                         length="66488434" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>00:57:56</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/cov11.jpg" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/cov11.jpg</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
             <title>#10 Microsoft Supper Together - </title>
             <link>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_10-microsoft-supper-together"/>

@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:15:00 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,82 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#31 Găsiți-mă pe VSinder (Dark Mode On 🌘) - </title>
+            <link>https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__"/>
+            <comments>https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html#disqus_thread</comments>
+            <pubDate>Mon, 14 Dec 2020 00:00:00 -0800</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2020/12/14/_31-g_si_i-m_-pe-vsinder-_dark-mode-on-__.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Facebook lucrează cu dificultăți de pe 3 decembrie - https://developers.facebook.com/status/dashboard/</li>
+  <li>Octoverse - https://octoverse.github.com/</li>
+  <li>Github Dark Mode - https://github.com/settings/appearance</li>
+  <li>VSinder - https://twitter.com/benawad/status/1336691028473090050</li>
+  <li>Hyundai buys Boston Dynamics - https://www.kedglobal.com/newsView/ked202012080011</li>
+  <li>Apple Airpods Max - https://www.apple.com/airpods-max/</li>
+  <li>Googel cere ajutor cu Fucshia - https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html</li>
+  <li>Statul American dă în judecată Facebook pentru al face să vândă Instagram și Whatsapp - https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization</li>
+  <li>Google nu iubește când AI-u lor e criticat - https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/</li>
+</ul>
+
+<p>Backlog:</p>
+<ul>
+  <li>Kafca is not a DB - https://materialize.com/kafka-is-not-a-database/</li>
+  <li>Linked list good taste - https://github.com/mkirchner/linked-list-good-taste</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Facebook lucrează cu dificultăți de pe 3 decembrie - https://developers.facebook.com/status/dashboard/</li>
+  <li>Octoverse - https://octoverse.github.com/</li>
+  <li>Github Dark Mode - https://github.com/settings/appearance</li>
+  <li>VSinder - https://twitter.com/benawad/status/1336691028473090050</li>
+  <li>Hyundai buys Boston Dynamics - https://www.kedglobal.com/newsView/ked202012080011</li>
+  <li>Apple Airpods Max - https://www.apple.com/airpods-max/</li>
+  <li>Googel cere ajutor cu Fucshia - https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html</li>
+  <li>Statul American dă în judecată Facebook pentru al face să vândă Instagram și Whatsapp - https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization</li>
+  <li>Google nu iubește când AI-u lor e criticat - https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/</li>
+</ul>
+
+<p>Backlog:</p>
+<ul>
+  <li>Kafca is not a DB - https://materialize.com/kafka-is-not-a-database/</li>
+  <li>Linked list good taste - https://github.com/mkirchner/linked-list-good-taste</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow31.mp3" 
+                         length="57119929" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:19:33</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
             <title>#30 🔥 RISC - </title>
             <link>https://cowsay.show/2020/12/07/_30-_-risc.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_30-_-risc"/>
@@ -1153,68 +1229,6 @@ It is only necessary for hosting remotely.
               <image>
                 <title></title>
                 <url>https://cowsay.show/img/covers/cov12.jpg</url>
-                <link>https://cowsay.show</link>
-              </image></item><item>
-            <title>#11 Money - </title>
-            <link>https://cowsay.show/2020/07/17/_11-money.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_11-money"/>
-            <comments>https://cowsay.show/2020/07/17/_11-money.html#disqus_thread</comments>
-            <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2020/07/17/_11-money.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>1:09 Mai multe account-uri mari Twitter au fost sparte. (https://www.theverge.com/2020/7/15/21326200/elon-musk-bill-gates-twitter-hack-bitcoin-scam-compromised)</li>
-  <li>4:54 Spotify oficial în Moldova. (https://www.spotify.com/md-en/premium/?checkout=false)</li>
-  <li>7:44 Polonia include jocul This War of Mine în programul școlar. (https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)</li>
-  <li>12:26 iOS Facebook SDK bug. Tinder nu se pornea :// (https://github.com/facebook/facebook-ios-sdk/issues/1427)</li>
-  <li>16:21 Rust în Linux Kernel. (https://lkml.org/lkml/2020/7/10/1261)</li>
-  <li>24:47 Amazon cumpără Zoox, în stil special :) (https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8)</li>
-  <li>32:21 De ce programatorii primesc așa bani mari?</li>
-</ul>
-
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>1:09 Mai multe account-uri mari Twitter au fost sparte. (https://www.theverge.com/2020/7/15/21326200/elon-musk-bill-gates-twitter-hack-bitcoin-scam-compromised)</li>
-  <li>4:54 Spotify oficial în Moldova. (https://www.spotify.com/md-en/premium/?checkout=false)</li>
-  <li>7:44 Polonia include jocul This War of Mine în programul școlar. (https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/)</li>
-  <li>12:26 iOS Facebook SDK bug. Tinder nu se pornea :// (https://github.com/facebook/facebook-ios-sdk/issues/1427)</li>
-  <li>16:21 Rust în Linux Kernel. (https://lkml.org/lkml/2020/7/10/1261)</li>
-  <li>24:47 Amazon cumpără Zoox, în stil special :) (https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8)</li>
-  <li>32:21 De ce programatorii primesc așa bani mari?</li>
-</ul>
-
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow11.mp3" 
-                         length="66488434" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>00:57:56</itunes:duration>
-            <itunes:image href="https://cowsay.show/img/covers/cov11.jpg" />
-              <image>
-                <title></title>
-                <url>https://cowsay.show/img/covers/cov11.jpg</url>
                 <link>https://cowsay.show</link>
               </image></item></channel>
 </rss>
