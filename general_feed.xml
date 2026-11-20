@@ -4,7 +4,7 @@
   <title>Cowsay Show</title>
   <link href="https://cowsay.show/general_feed.xml" rel="self"/>
   <link href="https://cowsay.show"/>
-  <updated>2026-11-20T15:15:00-07:00</updated>
+  <updated>2026-11-20T15:25:52-07:00</updated>
   <id>https://cowsay.show/</id>
   <author>
     <name>Cowsay Crew ©</name>
@@ -370,7 +370,7 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
       <updated>2026-07-28T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/07/28/167</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow167.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 167: Open Source din nou important&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/28/167.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:01:08.120 &quot;,&quot;title&quot;:&quot;Studiul Stanford: layoff-urile nu sunt cauzate de AI&quot;},{&quot;start&quot;:&quot;00:10:10.640 &quot;,&quot;title&quot;:&quot;Agentul OpenAI care a atacat infrastructura Hugging Face&quot;},{&quot;start&quot;:&quot;00:21:40.586 &quot;,&quot;title&quot;:&quot;AI Kill Switch Act&quot;},{&quot;start&quot;:&quot;00:36:28.276 &quot;,&quot;title&quot;:&quot;Open Weight AI is having its Kubernetes moment&quot;},{&quot;start&quot;:&quot;00:47:15.000 &quot;,&quot;title&quot;:&quot;Scrisoarea deschisă pentru modele open weight și poziția Anthropic&quot;},{&quot;start&quot;:&quot;00:56:11.744 &quot;,&quot;title&quot;:&quot;Factura AWS de 2,5 miliarde de dolari&quot;},{&quot;start&quot;:&quot;00:58:17.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow167.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 167: Open Source din nou important&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/28/167.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:01:08.120 &quot;,&quot;title&quot;:&quot;Stanford: AI nu fură încă joburile&quot;},{&quot;start&quot;:&quot;00:10:10.640 &quot;,&quot;title&quot;:&quot;Agentul OpenAI a spart Hugging Face&quot;},{&quot;start&quot;:&quot;00:21:40.586 &quot;,&quot;title&quot;:&quot;AI Kill Switch Act în SUA&quot;},{&quot;start&quot;:&quot;00:32:18.924 &quot;,&quot;title&quot;:&quot;Alignment versus cuști mai groase pentru agenți&quot;},{&quot;start&quot;:&quot;00:36:28.276 &quot;,&quot;title&quot;:&quot;Momentul Kubernetes al modelelor open weight&quot;},{&quot;start&quot;:&quot;00:47:15.000 &quot;,&quot;title&quot;:&quot;Scrisoarea deschisă pentru modele open weight&quot;},{&quot;start&quot;:&quot;00:56:11.744 &quot;,&quot;title&quot;:&quot;Factura AWS de 2,5 miliarde de dolari&quot;},{&quot;start&quot;:&quot;00:58:17.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -386,12 +386,13 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
 
 &lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Studiul Stanford: layoff-urile nu sunt cauzate de AI&lt;/li&gt;
-  &lt;li&gt;Agentul OpenAI care a atacat infrastructura Hugging Face&lt;/li&gt;
-  &lt;li&gt;AI Kill Switch Act&lt;/li&gt;
-  &lt;li&gt;Open Weight AI is having its Kubernetes moment&lt;/li&gt;
-  &lt;li&gt;Scrisoarea deschisă pentru modele open weight și poziția Anthropic&lt;/li&gt;
-  &lt;li&gt;Factura AWS de 2,5 miliarde de dolari&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality&quot;&gt;Stanford: AI nu fură încă joburile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openai.com/index/hugging-face-model-evaluation-security-incident/&quot;&gt;Agentul OpenAI a spart Hugging Face&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/cx2vqj2e9x8o&quot;&gt;AI Kill Switch Act în SUA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/&quot;&gt;Alignment versus cuști mai groase pentru agenți&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/&quot;&gt;Momentul Kubernetes al modelelor open weight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf&quot;&gt;Scrisoarea deschisă pentru modele open weight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/&quot;&gt;Factura AWS de 2,5 miliarde de dolari&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
