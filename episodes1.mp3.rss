@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Fri, 20 Nov 2026 15:15:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:25:52 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -600,12 +600,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
-  <li>Studiul Stanford: layoff-urile nu sunt cauzate de AI</li>
-  <li>Agentul OpenAI care a atacat infrastructura Hugging Face</li>
-  <li>AI Kill Switch Act</li>
-  <li>Open Weight AI is having its Kubernetes moment</li>
-  <li>Scrisoarea deschisă pentru modele open weight și poziția Anthropic</li>
-  <li>Factura AWS de 2,5 miliarde de dolari</li>
+  <li><a href="https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality">Stanford: AI nu fură încă joburile</a></li>
+  <li><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/">Agentul OpenAI a spart Hugging Face</a></li>
+  <li><a href="https://www.bbc.com/news/articles/cx2vqj2e9x8o">AI Kill Switch Act în SUA</a></li>
+  <li><a href="https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/">Alignment versus cuști mai groase pentru agenți</a></li>
+  <li><a href="https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/">Momentul Kubernetes al modelelor open weight</a></li>
+  <li><a href="https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf">Scrisoarea deschisă pentru modele open weight</a></li>
+  <li><a href="https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/">Factura AWS de 2,5 miliarde de dolari</a></li>
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
@@ -629,12 +630,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
-  <li>Studiul Stanford: layoff-urile nu sunt cauzate de AI</li>
-  <li>Agentul OpenAI care a atacat infrastructura Hugging Face</li>
-  <li>AI Kill Switch Act</li>
-  <li>Open Weight AI is having its Kubernetes moment</li>
-  <li>Scrisoarea deschisă pentru modele open weight și poziția Anthropic</li>
-  <li>Factura AWS de 2,5 miliarde de dolari</li>
+  <li><a href="https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality">Stanford: AI nu fură încă joburile</a></li>
+  <li><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/">Agentul OpenAI a spart Hugging Face</a></li>
+  <li><a href="https://www.bbc.com/news/articles/cx2vqj2e9x8o">AI Kill Switch Act în SUA</a></li>
+  <li><a href="https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/">Alignment versus cuști mai groase pentru agenți</a></li>
+  <li><a href="https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/">Momentul Kubernetes al modelelor open weight</a></li>
+  <li><a href="https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf">Scrisoarea deschisă pentru modele open weight</a></li>
+  <li><a href="https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/">Factura AWS de 2,5 miliarde de dolari</a></li>
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
@@ -656,11 +658,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:58:36</itunes:duration>
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
-              <psc:chapter start="00:01:08.120" title="Studiul Stanford: layoff-urile nu sunt cauzate de AI" />
-              <psc:chapter start="00:10:10.640" title="Agentul OpenAI care a atacat infrastructura Hugging Face" />
-              <psc:chapter start="00:21:40.586" title="AI Kill Switch Act" />
-              <psc:chapter start="00:36:28.276" title="Open Weight AI is having its Kubernetes moment" />
-              <psc:chapter start="00:47:15.000" title="Scrisoarea deschisă pentru modele open weight și poziția Anthropic" />
+              <psc:chapter start="00:01:08.120" title="Stanford: AI nu fură încă joburile" />
+              <psc:chapter start="00:10:10.640" title="Agentul OpenAI a spart Hugging Face" />
+              <psc:chapter start="00:21:40.586" title="AI Kill Switch Act în SUA" />
+              <psc:chapter start="00:32:18.924" title="Alignment versus cuști mai groase pentru agenți" />
+              <psc:chapter start="00:36:28.276" title="Momentul Kubernetes al modelelor open weight" />
+              <psc:chapter start="00:47:15.000" title="Scrisoarea deschisă pentru modele open weight" />
               <psc:chapter start="00:56:11.744" title="Factura AWS de 2,5 miliarde de dolari" />
               <psc:chapter start="00:58:17.000" title="Outro" />
               
