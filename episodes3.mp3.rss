@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:06:09 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,81 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>Live #129: Jean Claude van Actions!; Pokemonnet; AI faking alignment (what?... nooah waaay) - </title>
+            <link>https://cowsay.show/2025/01/02/129.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/129"/>
+            <comments>https://cowsay.show/2025/01/02/129.html#disqus_thread</comments>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 -0800</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2025/01/02/129.html</guid>
+            <description><![CDATA[
+
+<h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model">Pokemon NET</a></li>
+  <li><a href="https://x.com/tsarnick/status/1873511222592893040;https://futurism.com/the-byte/facebook-planning-ai-powered-users">You will soon be interacting with more AIs than people</a></li>
+  <li><a href="https://www.theregister.com/2024/12/10/ai_slop_bug_reports/">AI reported bugs in Open Source projects</a></li>
+  <li><a href="https://www.anthropic.com/research/alignment-faking">AI is faking alignment</a></li>
+  <li><a href="https://x.com/lawrencecchen/status/1874160869921509536?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">Jean Claud van Action</a></li>
+  <li>Zipcar outage is fun</li>
+  <li><a href="https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/">Exposed location of 800K VW electric vehicles</a></li>
+  <li><a href="https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger">Intel has ejected its CEO. There are many possible reasons why.</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
+
+<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
+Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+
+<h3 id="temele-săptămânii">Temele săptămânii</h3>
+<ul>
+  <li><a href="https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model">Pokemon NET</a></li>
+  <li><a href="https://x.com/tsarnick/status/1873511222592893040;https://futurism.com/the-byte/facebook-planning-ai-powered-users">You will soon be interacting with more AIs than people</a></li>
+  <li><a href="https://www.theregister.com/2024/12/10/ai_slop_bug_reports/">AI reported bugs in Open Source projects</a></li>
+  <li><a href="https://www.anthropic.com/research/alignment-faking">AI is faking alignment</a></li>
+  <li><a href="https://x.com/lawrencecchen/status/1874160869921509536?s=12&amp;t=2CnOJYyAmisuV5rtdbxaLA">Jean Claud van Action</a></li>
+  <li>Zipcar outage is fun</li>
+  <li><a href="https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/">Exposed location of 800K VW electric vehicles</a></li>
+  <li><a href="https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger">Intel has ejected its CEO. There are many possible reasons why.</a></li>
+</ul>
+
+<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+
+<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+
+<h3 id="patreon">Patreon</h3>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow129.mp3" 
+                         length="62479725" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:03:23</itunes:duration>
+            </item><item>
             <title>Live #128: AGI după colț? Copilot gratuit; pISSStream - </title>
             <link>https://cowsay.show/2024/12/26/128.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/128"/>
@@ -1636,96 +1711,5 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:02:20</itunes:duration>
-            </item><item>
-            <title>#109 🔌 Valorile Adăugate - </title>
-            <link>https://cowsay.show/2024/03/13/109.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/109"/>
-            <comments>https://cowsay.show/2024/03/13/109.html#disqus_thread</comments>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 -0700</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2024/03/13/109.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
-
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
-
-<h3 id="temele-săptămânii">Temele săptămânii</h3>
-<ul>
-  <li><a href="https://www.facebook.com/abdulla00/posts/pfbid02Z9yHFAj6SUfb6qTjdtZdZmZVFLb86L9SPyYk7ycWiHNDVh2EXrphrxN25CTY3qaQl?__cft__[0]=AZUA0DBt9eNErWzrQENHZ5vc-MSgzh4Qorx7SzIFPSv74tcLaX07wKlwAQ3P_7ITd5wnJLH1P3pdQAkeybMEF4XkhxY2lmiaH-1B1jldlVjuXphnAIswAxFd3eMKIezGxtxEpOvY8tloGa3FDf9xrI0rP1sVQ72ys3A1L4_JafK-4w&amp;__tn__=%2CO%2CP-R">Blindajul prietenului meu Serhii, pentru care am colectat fonduri în episodul #106 a fost destrus de un tanc iar el rănit ușor.</a> Ei tot mai necesită fonduri pentru drone, utilaj și transport. Aici puteți face transfer direct pe card: 4731 2196 5986 6341, Serhii Abdurashidov.</li>
-  <li>Stocurile Endava un “pic” au căzut.</li>
-  <li><a href="https://mia.bnm.md/">MIA plăți instant</a></li>
-  <li><a href="https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban">AirBnB banează camerele de securitate chiar și după ușă</a></li>
-  <li><a href="https://twitter.com/cognition_labs/status/1767548763134964000">Cognition Devin - AI SWE</a></li>
-  <li><a href="https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage">Midjourney banează angajații StabilityAI de la scrapping</a></li>
-  <li><a href="https://twitter.com/ILiedAboutCake/status/1766509947016139163">Amazon AI reviews</a></li>
-  <li><a href="https://news.sky.com/story/woman-chats-to-dead-mother-using-ai-with-spooky-results-13089899">Serviciu de a vorbi cu morții, dar prin tehnologie</a></li>
-  <li><a href="https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban">TikTok ban, din nou</a></li>
-  <li><a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">În europa acum măcar și din pod poi instala o aplicație pe iphone</a></li>
-  <li><a href="https://arstechnica.com/gadgets/2024/03/most-mobile-subscription-apps-generate-under-1000-month-study-of-30k-apps-finds/">Caatare nu așa mulți dezvoltatori fac bani pe aplicații</a></li>
-</ul>
-
-<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
-
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
-
-<h3 id="temele-săptămânii">Temele săptămânii</h3>
-<ul>
-  <li><a href="https://www.facebook.com/abdulla00/posts/pfbid02Z9yHFAj6SUfb6qTjdtZdZmZVFLb86L9SPyYk7ycWiHNDVh2EXrphrxN25CTY3qaQl?__cft__[0]=AZUA0DBt9eNErWzrQENHZ5vc-MSgzh4Qorx7SzIFPSv74tcLaX07wKlwAQ3P_7ITd5wnJLH1P3pdQAkeybMEF4XkhxY2lmiaH-1B1jldlVjuXphnAIswAxFd3eMKIezGxtxEpOvY8tloGa3FDf9xrI0rP1sVQ72ys3A1L4_JafK-4w&amp;__tn__=%2CO%2CP-R">Blindajul prietenului meu Serhii, pentru care am colectat fonduri în episodul #106 a fost destrus de un tanc iar el rănit ușor.</a> Ei tot mai necesită fonduri pentru drone, utilaj și transport. Aici puteți face transfer direct pe card: 4731 2196 5986 6341, Serhii Abdurashidov.</li>
-  <li>Stocurile Endava un “pic” au căzut.</li>
-  <li><a href="https://mia.bnm.md/">MIA plăți instant</a></li>
-  <li><a href="https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban">AirBnB banează camerele de securitate chiar și după ușă</a></li>
-  <li><a href="https://twitter.com/cognition_labs/status/1767548763134964000">Cognition Devin - AI SWE</a></li>
-  <li><a href="https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage">Midjourney banează angajații StabilityAI de la scrapping</a></li>
-  <li><a href="https://twitter.com/ILiedAboutCake/status/1766509947016139163">Amazon AI reviews</a></li>
-  <li><a href="https://news.sky.com/story/woman-chats-to-dead-mother-using-ai-with-spooky-results-13089899">Serviciu de a vorbi cu morții, dar prin tehnologie</a></li>
-  <li><a href="https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban">TikTok ban, din nou</a></li>
-  <li><a href="https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/">În europa acum măcar și din pod poi instala o aplicație pe iphone</a></li>
-  <li><a href="https://arstechnica.com/gadgets/2024/03/most-mobile-subscription-apps-generate-under-1000-month-study-of-30k-apps-finds/">Caatare nu așa mulți dezvoltatori fac bani pe aplicații</a></li>
-</ul>
-
-<h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
-
-<h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
-
-<h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow109.mp3" 
-                         length="67160357" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>1:03:30</itunes:duration>
             </item></channel>
 </rss>

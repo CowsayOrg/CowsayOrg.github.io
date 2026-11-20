@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:06:09 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:44:54 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -44,6 +44,90 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>#50 💡 Hai să reinventăm X - </title>
+            <link>https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_50-_-hai-s_-reinvent_m-x"/>
+            <comments>https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html#disqus_thread</comments>
+            <pubDate>Fri, 21 May 2021 00:00:00 -0700</pubDate>
+            
+            <guid isPermaLink="false">https://cowsay.show/2021/05/21/_50-_-hai-s_-reinvent_m-x.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>DHH iar bucură cu aberații</li>
+</ul>
+
+<h3 id="google-io">Google I/O</h3>
+<ul>
+  <li><a href="https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html">Make RSS great again</a></li>
+  <li><a href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html">Gogole Workspace</a></li>
+  <li><a href="https://www.pocket-lint.com/phones/news/google/155445-android-12-release-date-features-news">Android 12</a></li>
+  <li><a href="https://www.pocket-lint.com/gadgets/news/156470-what-is-ultra-wideband-and-what-does-uwb-do">Revolu’ie care n-am observat-o (UWB)</a></li>
+  <li><a href="https://blog.google/technology/research/project-starline/">Googel face ceva pentru super remote</a></li>
+</ul>
+
+<h3 id="mai-departe">Mai departe</h3>
+<ul>
+  <li><a href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/">Firefox jails, sau cum Mozilla sporește securitatea</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-05-10/white-house-creates-task-force-to-deal-with-pipeline-breach?sref=vuYGislZ">Istoria despre cum hackerii ruși(posibil nu) au făcut ca americanii să care benzină în pungi de plastic</a></li>
+  <li><a href="https://www.macrumors.com/2021/05/14/macbook-pro-leaks-confirm-returning-ports/">Apple m40</a></li>
+</ul>
+
+<h3 id="mai-multe-în-aftershownu-se-publică-la-care-puteți-participa-alăturânduvă-la-comunitatea-cowsay-pe-discord">Mai multe în aftershow(nu se publică), la care puteți participa alăturânduvă la comunitatea Cowsay pe <a href="https://discord.com/invite/UaNer3K">Discord</a></h3>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>DHH iar bucură cu aberații</li>
+</ul>
+
+<h3 id="google-io">Google I/O</h3>
+<ul>
+  <li><a href="https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html">Make RSS great again</a></li>
+  <li><a href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html">Gogole Workspace</a></li>
+  <li><a href="https://www.pocket-lint.com/phones/news/google/155445-android-12-release-date-features-news">Android 12</a></li>
+  <li><a href="https://www.pocket-lint.com/gadgets/news/156470-what-is-ultra-wideband-and-what-does-uwb-do">Revolu’ie care n-am observat-o (UWB)</a></li>
+  <li><a href="https://blog.google/technology/research/project-starline/">Googel face ceva pentru super remote</a></li>
+</ul>
+
+<h3 id="mai-departe">Mai departe</h3>
+<ul>
+  <li><a href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/">Firefox jails, sau cum Mozilla sporește securitatea</a></li>
+  <li><a href="https://www.bloomberg.com/news/articles/2021-05-10/white-house-creates-task-force-to-deal-with-pipeline-breach?sref=vuYGislZ">Istoria despre cum hackerii ruși(posibil nu) au făcut ca americanii să care benzină în pungi de plastic</a></li>
+  <li><a href="https://www.macrumors.com/2021/05/14/macbook-pro-leaks-confirm-returning-ports/">Apple m40</a></li>
+</ul>
+
+<h3 id="mai-multe-în-aftershownu-se-publică-la-care-puteți-participa-alăturânduvă-la-comunitatea-cowsay-pe-discord">Mai multe în aftershow(nu se publică), la care puteți participa alăturânduvă la comunitatea Cowsay pe <a href="https://discord.com/invite/UaNer3K">Discord</a></h3>
+]]></content:encoded>
+            <enclosure url="https://episodes.cowsay.show/cow50.mp3" 
+                         length="62063965" 
+                         type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cowsay Crew ©</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>01:00:03</itunes:duration>
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
+              <image>
+                <title></title>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
+              </image></item><item>
             <title>#49 ⚡ Tesla Bitcoin xaxaxa - </title>
             <link>https://cowsay.show/2021/05/14/_49-_-tesla-bitcoin-xaxaxa.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_49-_-tesla-bitcoin-xaxaxa"/>
@@ -1293,58 +1377,5 @@ It is only necessary for hosting remotely.
                 <title></title>
                 <url>https://cowsay.show/img/covers/default.png</url>
                 <link>https://cowsay.show</link>
-              </image></item><item>
-            <title>#30 🔥 RISC - </title>
-            <link>https://cowsay.show/2020/12/07/_30-_-risc.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_30-_-risc"/>
-            <comments>https://cowsay.show/2020/12/07/_30-_-risc.html#disqus_thread</comments>
-            <pubDate>Mon, 07 Dec 2020 00:00:00 -0800</pubDate>
-            
-            <guid isPermaLink="false">https://cowsay.show/2020/12/07/_30-_-risc.html</guid>
-            <description><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Vasile Catana face posibil alegerea rutelor de transport public din Chișinău în Google Maps - https://twitter.com/roataway/status/1334095231336263680</li>
-  <li>Slack cumpărat de Salesforce cu 27.7 Miliarde - https://techcrunch.com/2020/12/01/salesforce-buys-slack/</li>
-  <li>HP pleacă cu tot în Texas - https://www.cnbc.com/2020/12/01/hpe-is-relocating-headquarters-to-houston-from-california.html</li>
-  <li>EC2 pe macos de la Amazon - https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</li>
-  <li>Cineva deja portează Linux pe M1 de la Apple - https://twitter.com/marcan42</li>
-  <li>Ce pot face Intel și AMD cu Apple M1 deocamdată - https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
--->
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Vasile Catana face posibil alegerea rutelor de transport public din Chișinău în Google Maps - https://twitter.com/roataway/status/1334095231336263680</li>
-  <li>Slack cumpărat de Salesforce cu 27.7 Miliarde - https://techcrunch.com/2020/12/01/salesforce-buys-slack/</li>
-  <li>HP pleacă cu tot în Texas - https://www.cnbc.com/2020/12/01/hpe-is-relocating-headquarters-to-houston-from-california.html</li>
-  <li>EC2 pe macos de la Amazon - https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</li>
-  <li>Cineva deja portează Linux pe M1 de la Apple - https://twitter.com/marcan42</li>
-  <li>Ce pot face Intel și AMD cu Apple M1 deocamdată - https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="https://episodes.cowsay.show/cow30.mp3" 
-                         length="52287499" 
-                         type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cowsay Crew ©</itunes:author>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>01:12:34</itunes:duration>
-            </item></channel>
+              </image></item></channel>
 </rss>
