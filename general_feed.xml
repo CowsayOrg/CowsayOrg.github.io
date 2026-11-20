@@ -4,7 +4,7 @@
   <title>Cowsay Show</title>
   <link href="https://cowsay.show/general_feed.xml" rel="self"/>
   <link href="https://cowsay.show"/>
-  <updated>2026-11-20T15:25:52-07:00</updated>
+  <updated>2026-11-20T15:26:15-07:00</updated>
   <id>https://cowsay.show/</id>
   <author>
     <name>Cowsay Crew ©</name>
@@ -18,7 +18,7 @@
       <updated>2026-11-20T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/11/20/174</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow174.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/11/20/174.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:03:12.928 &quot;,&quot;title&quot;:&quot;Scandalul NVIDIA: Jensen Huang, Mega Speed și cipurile vândute în China&quot;},{&quot;start&quot;:&quot;00:17:33.556 &quot;,&quot;title&quot;:&quot;IPO-ul Anthropic&quot;},{&quot;start&quot;:&quot;00:29:38.132 &quot;,&quot;title&quot;:&quot;Anthropic și demonstrarea ipotezei lui Riemann&quot;},{&quot;start&quot;:&quot;00:37:15.132 &quot;,&quot;title&quot;:&quot;Structura de guvernare Anthropic: acțiuni fără vot și Trust-ul&quot;},{&quot;start&quot;:&quot;00:46:20.000 &quot;,&quot;title&quot;:&quot;Lansarea GTA 6&quot;},{&quot;start&quot;:&quot;01:00:32.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow174.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/11/20/174.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:03:12.928 &quot;,&quot;title&quot;:&quot;Scandalul Jensen Huang și cipurile NVIDIA în China&quot;},{&quot;start&quot;:&quot;00:17:33.556 &quot;,&quot;title&quot;:&quot;Anthropic, cel mai mare IPO din istorie&quot;},{&quot;start&quot;:&quot;00:29:52.032 &quot;,&quot;title&quot;:&quot;Angajat Anthropic demonstrează ipoteza lui Riemann&quot;},{&quot;start&quot;:&quot;00:37:15.132 &quot;,&quot;title&quot;:&quot;Structura de vot și Trust-ul Anthropic&quot;},{&quot;start&quot;:&quot;00:46:20.000 &quot;,&quot;title&quot;:&quot;Lansarea GTA VI: preorder-uri și 30 FPS&quot;},{&quot;start&quot;:&quot;01:00:32.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -34,11 +34,11 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
 
 &lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Scandalul NVIDIA: Jensen Huang, Mega Speed și cipurile vândute în China&lt;/li&gt;
-  &lt;li&gt;IPO-ul Anthropic&lt;/li&gt;
-  &lt;li&gt;Anthropic și demonstrarea ipotezei lui Riemann&lt;/li&gt;
-  &lt;li&gt;Structura de guvernare Anthropic: acțiuni fără vot și Trust-ul&lt;/li&gt;
-  &lt;li&gt;Lansarea GTA 6&lt;/li&gt;
+  &lt;li&gt;Scandalul Jensen Huang și cipurile NVIDIA în China&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/legal/transactional/wall-street-prepares-anthropic-ipo-frenzy-despite-broader-ai-stock-slump-2026-11-18/&quot;&gt;Anthropic, cel mai mare IPO din istorie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;Angajat Anthropic demonstrează ipoteza lui Riemann&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/legal/transactional/wall-street-prepares-anthropic-ipo-frenzy-despite-broader-ai-stock-slump-2026-11-18/&quot;&gt;Structura de vot și Trust-ul Anthropic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lansarea GTA VI: preorder-uri și 30 FPS&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
