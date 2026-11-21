@@ -4,7 +4,7 @@
   <title>Cowsay Show</title>
   <link href="https://cowsay.show/general_feed.xml" rel="self"/>
   <link href="https://cowsay.show"/>
-  <updated>2026-11-20T15:26:15-07:00</updated>
+  <updated>2026-11-21T10:11:35-07:00</updated>
   <id>https://cowsay.show/</id>
   <author>
     <name>Cowsay Crew ©</name>
@@ -115,12 +115,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 172</title>
+      <title>Live 172: Tim Cook își ia rămas bun</title>
       <link href="https://cowsay.show/2026/09/01/172.html"/>
       <updated>2026-09-01T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/09/01/172</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow172.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 172&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/09/01/172.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow172.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 172: Tim Cook își ia rămas bun&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/09/01/172.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -163,12 +163,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 171</title>
+      <title>Live 171: Anthropic trece de OpenAI</title>
       <link href="https://cowsay.show/2026/08/25/171.html"/>
       <updated>2026-08-25T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/08/25/171</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow171.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 171&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/25/171.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow171.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 171: Anthropic trece de OpenAI&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/25/171.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -215,12 +215,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 170</title>
+      <title>Live 170: AI;DR</title>
       <link href="https://cowsay.show/2026/08/18/170.html"/>
       <updated>2026-08-18T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/08/18/170</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow170.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 170&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/18/170.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow170.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 170: AI;DR&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/18/170.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -266,12 +266,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 169</title>
+      <title>Live 169: Stack Overflow, R.I.P.</title>
       <link href="https://cowsay.show/2026/08/11/169.html"/>
       <updated>2026-08-11T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/08/11/169</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow169.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 169&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/11/169.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow169.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 169: Stack Overflow, R.I.P.&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/11/169.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -317,12 +317,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 168</title>
+      <title>Live 168: Lumea s-a săturat de AI Slop?</title>
       <link href="https://cowsay.show/2026/08/04/168.html"/>
       <updated>2026-08-04T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/08/04/168</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow168.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 168&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/04/168.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow168.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 168: Lumea s-a săturat de AI Slop?&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/08/04/168.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -416,12 +416,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 166</title>
+      <title>Live 166: Apple dă în judecată OpenAI</title>
       <link href="https://cowsay.show/2026/07/14/166.html"/>
       <updated>2026-07-14T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/07/14/166</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow166.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 166&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/14/166.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow166.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 166: Apple dă în judecată OpenAI&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/14/166.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -465,12 +465,12 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
-      <title>Live 165</title>
+      <title>Live 165: Trump îi dă drumul lui Anthropic</title>
       <link href="https://cowsay.show/2026/07/07/165.html"/>
       <updated>2026-07-07T00:00:00-07:00</updated>
       <id>https://cowsay.show/2026/07/07/165</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow165.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 165&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/07/165.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow165.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 165: Trump îi dă drumul lui Anthropic&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2026/07/07/165.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -658,6 +658,113 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
     </entry>
   
     <entry>
+      <title>Live 161: Memorii scumpe</title>
+      <link href="https://cowsay.show/2025/11/27/161.html"/>
+      <updated>2025-11-27T00:00:00-08:00</updated>
+      <id>https://cowsay.show/2025/11/27/161</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow161.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 161: Memorii scumpe&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2025/11/27/161.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:02:40.000 &quot;,&quot;title&quot;:&quot;HP concediază 6000 de angajați pentru AI&quot;},{&quot;start&quot;:&quot;00:09:33.123 &quot;,&quot;title&quot;:&quot;Sutskever: epoca scalării s-a terminat&quot;},{&quot;start&quot;:&quot;00:15:50.204 &quot;,&quot;title&quot;:&quot;Neuroștiința: limbajul nu înseamnă inteligență&quot;},{&quot;start&quot;:&quot;00:27:10.000 &quot;,&quot;title&quot;:&quot;Google Antigravity spart prin prompt injection&quot;},{&quot;start&quot;:&quot;00:31:10.000 &quot;,&quot;title&quot;:&quot;Breșa de date la OpenAI&quot;},{&quot;start&quot;:&quot;00:33:19.203 &quot;,&quot;title&quot;:&quot;CuriosityStream vinde conținut pentru antrenarea AI&quot;},{&quot;start&quot;:&quot;00:38:42.000 &quot;,&quot;title&quot;:&quot;Suno generează milioane de cântece zilnic&quot;},{&quot;start&quot;:&quot;00:43:36.123 &quot;,&quot;title&quot;:&quot;Slop Evader: internetul de dinainte de ChatGPT&quot;},{&quot;start&quot;:&quot;00:45:33.044 &quot;,&quot;title&quot;:&quot;Memoria DDR5 de trei ori mai scumpă&quot;},{&quot;start&quot;:&quot;00:46:57.564 &quot;,&quot;title&quot;:&quot;Speculația săptămânii: bula AI și Michael Burry&quot;},{&quot;start&quot;:&quot;01:01:21.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Urmăriți episodul pe &lt;a href=&quot;https://www.youtube.com/watch?v=hRDHhZtKrGc&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-&quot;&gt;Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.&lt;/h3&gt;
+
+&lt;p&gt;Ne găsiți pe &lt;a href=&quot;https://discord.gg/UaNer3K&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/cowsayshow&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://youtube.com/@cowsay&quot;&gt;Youtube&lt;/a&gt;.&lt;br /&gt;
+Abonați-vă la &lt;a href=&quot;https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&quot;&gt;calendar&lt;/a&gt; să nu ratați live-urile.&lt;br /&gt;
+De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;Patreon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elink640.dupple.com/ss/c/u001.QT9-cN0mZn-HYCKnMP3yhQaef6i08JVqfevH1xwmey7fEeHzgwkAkgIAsP4mYDNDgYTNA_myrTZigbyA2s1hvh2JXvnDeENsDUmxplh2DRPmQdkizjFaqjQsyUmzIKBcUWEpDiB4Usv8myd7-PrfH5P1OZIXAxa_chCocaLEVqgzd_40UHIThh6DUikkZZrK/4lx/gIg3YBasRS-BZ9itmIEymg/h13/h001.c3XfAs5gRTtFjltEwDENssFIKSE8L7DkuQKz-Oiay5s&quot;&gt;HP concediază 6000 de angajați pentru AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/ilya-sutskever-2&quot;&gt;Sutskever: epoca scalării s-a terminat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.ph/IOo3p#selection-1601.101-1605.112&quot;&gt;Neuroștiința: limbajul nu înseamnă inteligență&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data&quot;&gt;Google Antigravity spart prin prompt injection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Breșa de date la OpenAI&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/&quot;&gt;CuriosityStream vinde conținut pentru antrenarea AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Suno generează milioane de cântece zilnic (&lt;a href=&quot;https://web.archive.org/web/20251126014712/https://www.billboard.com/pro/suno-creates-spotify-catalog-music-two-weeks-pitch-deck/&quot;&gt;link1&lt;/a&gt;, &lt;a href=&quot;https://web.archive.org/web/20251126014712im_/https://www.billboard.com/wp-content/uploads/2025/08/Suno-logo-new-2025-billboard-1800.jpg?w=237&amp;amp;h=147&amp;amp;crop=1&quot;&gt;link2&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.404media.co/slop-evader-browser-extension-pre-generative-ai-search-filter/&quot;&gt;Slop Evader: internetul de dinainte de ChatGPT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/&quot;&gt;Memoria DDR5 de trei ori mai scumpă&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Speculația săptămânii: bula AI și Michael Burry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
+&lt;p&gt;Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - &lt;a href=&quot;https://discord.gg/GAYUppJUVX&quot;&gt;https://discord.gg/GAYUppJUVX&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stand-with-ukraine-&quot;&gt;Stand with Ukraine 🇺🇦&lt;/h3&gt;
+&lt;p&gt;Cowsay nu poate sta deoparte și noi am gătit o pagină specială - &lt;a href=&quot;https://cowsay.show/standwithukraine&quot;&gt;https://cowsay.show/standwithukraine&lt;/a&gt; unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.&lt;/p&gt;
+
+&lt;h3 id=&quot;patreon&quot;&gt;Patreon&lt;/h3&gt;
+&lt;p&gt;Acum avem și noi &lt;del&gt;Onlyfans&lt;/del&gt; &lt;strong&gt;Patreon&lt;/strong&gt; Aici - &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;https://www.patreon.com/cowsay&lt;/a&gt; puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.&lt;/p&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="62380069" 
+                href="https://episodes.cowsay.show/cow161.mp3"/> 
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Live 160: The Internet is down, again</title>
+      <link href="https://cowsay.show/2025/11/20/160.html"/>
+      <updated>2025-11-20T00:00:00-08:00</updated>
+      <id>https://cowsay.show/2025/11/20/160</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow160.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 160: The Internet is down, again&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2025/11/20/160.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:00:48.000 &quot;,&quot;title&quot;:&quot;Panica Rust care a picat Cloudflare&quot;},{&quot;start&quot;:&quot;00:03:51.000 &quot;,&quot;title&quot;:&quot;Agenții AI din Windows și riscurile de securitate&quot;},{&quot;start&quot;:&quot;00:07:39.000 &quot;,&quot;title&quot;:&quot;GPT-5.1: Instant și Thinking&quot;},{&quot;start&quot;:&quot;00:11:25.433 &quot;,&quot;title&quot;:&quot;Gemini 3 și Nano Banana Pro&quot;},{&quot;start&quot;:&quot;00:17:46.314 &quot;,&quot;title&quot;:&quot;CEO-ul Hugging Face despre bula LLM&quot;},{&quot;start&quot;:&quot;00:19:33.000 &quot;,&quot;title&quot;:&quot;Google Antigravity, un Windsurf legat de Gemini&quot;},{&quot;start&quot;:&quot;00:24:01.353 &quot;,&quot;title&quot;:&quot;Spionaj cibernetic orchestrat de AI cu Claude&quot;},{&quot;start&quot;:&quot;00:38:09.514 &quot;,&quot;title&quot;:&quot;Reuters: reclamele scam aduc bani la Meta&quot;},{&quot;start&quot;:&quot;00:51:10.000 &quot;,&quot;title&quot;:&quot;PostHog: nu mai colaborați&quot;},{&quot;start&quot;:&quot;01:05:36.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Urmăriți episodul pe &lt;a href=&quot;https://www.youtube.com/watch?v=nuHYDoqmGBk&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-&quot;&gt;Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.&lt;/h3&gt;
+
+&lt;p&gt;Ne găsiți pe &lt;a href=&quot;https://discord.gg/UaNer3K&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/cowsayshow&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://youtube.com/@cowsay&quot;&gt;Youtube&lt;/a&gt;.&lt;br /&gt;
+Abonați-vă la &lt;a href=&quot;https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&quot;&gt;calendar&lt;/a&gt; să nu ratați live-urile.&lt;br /&gt;
+De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;Patreon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://radiomoldova.md/p/63809/massive-cloudflare-outage-cripples-the-internet-the-company-is-investigating&quot;&gt;Panica Rust care a picat Cloudflare&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.windowscentral.com/microsoft/windows-11/microsoft-warns-security-risks-agentic-os-windows-11-xpia-malware&quot;&gt;Agenții AI din Windows și riscurile de securitate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openai.com/index/gpt-5-1/&quot;&gt;GPT-5.1: Instant și Thinking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.google/products/gemini/gemini-3/&quot;&gt;Gemini 3 și Nano Banana Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CEO-ul Hugging Face despre bula LLM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://antigravity.google/&quot;&gt;Google Antigravity, un Windsurf legat de Gemini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news/disrupting-AI-espionage&quot;&gt;Spionaj cibernetic orchestrat de AI cu Claude&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2025/11/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai/&quot;&gt;Reuters: reclamele scam aduc bani la Meta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newsletter.posthog.com/p/collaboration-sucks&quot;&gt;PostHog: nu mai colaborați&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
+&lt;p&gt;Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - &lt;a href=&quot;https://discord.gg/GAYUppJUVX&quot;&gt;https://discord.gg/GAYUppJUVX&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stand-with-ukraine-&quot;&gt;Stand with Ukraine 🇺🇦&lt;/h3&gt;
+&lt;p&gt;Cowsay nu poate sta deoparte și noi am gătit o pagină specială - &lt;a href=&quot;https://cowsay.show/standwithukraine&quot;&gt;https://cowsay.show/standwithukraine&lt;/a&gt; unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.&lt;/p&gt;
+
+&lt;h3 id=&quot;patreon&quot;&gt;Patreon&lt;/h3&gt;
+&lt;p&gt;Acum avem și noi &lt;del&gt;Onlyfans&lt;/del&gt; &lt;strong&gt;Patreon&lt;/strong&gt; Aici - &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;https://www.patreon.com/cowsay&lt;/a&gt; puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.&lt;/p&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="66351026" 
+                href="https://episodes.cowsay.show/cow160.mp3"/> 
+        
+      
+      
+    </entry>
+  
+    <entry>
       <title>Live 159: Vreu o torbă împletită pentru telefon</title>
       <link href="https://cowsay.show/2025/11/13/159.html"/>
       <updated>2025-11-13T00:00:00-08:00</updated>
@@ -764,6 +871,112 @@ De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreo
                 type="audio/mpeg" 
                 length="62123855" 
                 href="https://episodes.cowsay.show/cow158.mp3"/> 
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Live 157: Cea mai memegenică catastrofă în internet</title>
+      <link href="https://cowsay.show/2025/10/23/157.html"/>
+      <updated>2025-10-23T00:00:00-07:00</updated>
+      <id>https://cowsay.show/2025/10/23/157</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow157.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 157: Cea mai memegenică catastrofă în internet&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2025/10/23/157.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:00:59.772 &quot;,&quot;title&quot;:&quot;Apple taie producția iPhone Air&quot;},{&quot;start&quot;:&quot;00:04:15.372 &quot;,&quot;title&quot;:&quot;Meta concediază 600 de angajați din AI&quot;},{&quot;start&quot;:&quot;00:12:00.331 &quot;,&quot;title&quot;:&quot;LLM-urile pot dezvolta brain rot&quot;},{&quot;start&quot;:&quot;00:22:37.452 &quot;,&quot;title&quot;:&quot;OpenAI lansează browserul ChatGPT Atlas&quot;},{&quot;start&quot;:&quot;00:37:07.971 &quot;,&quot;title&quot;:&quot;Channel 4 cu prezentatoare generată de AI&quot;},{&quot;start&quot;:&quot;00:41:57.332 &quot;,&quot;title&quot;:&quot;Asistenții AI distorsionează știrile&quot;},{&quot;start&quot;:&quot;00:45:46.812 &quot;,&quot;title&quot;:&quot;Pana majoră AWS din US-EAST-1&quot;},{&quot;start&quot;:&quot;00:54:27.000 &quot;,&quot;title&quot;:&quot;Saltelele smart Eight Sleep picate odată cu AWS&quot;},{&quot;start&quot;:&quot;01:03:24.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Urmăriți episodul pe &lt;a href=&quot;https://www.youtube.com/watch?v=3aJlqwB0HG8&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-&quot;&gt;Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.&lt;/h3&gt;
+
+&lt;p&gt;Ne găsiți pe &lt;a href=&quot;https://discord.gg/UaNer3K&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/cowsayshow&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://youtube.com/@cowsay&quot;&gt;Youtube&lt;/a&gt;.&lt;br /&gt;
+Abonați-vă la &lt;a href=&quot;https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&quot;&gt;calendar&lt;/a&gt; să nu ratați live-urile.&lt;br /&gt;
+De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;Patreon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fortune.com/2025/10/22/apple-iphone-air-demand-weak-production-cuts-vs-17-pro/&quot;&gt;Apple taie producția iPhone Air&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html&quot;&gt;Meta concediază 600 de angajați din AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://x.com/alex_prompter/status/1980224548550369376&quot;&gt;LLM-urile pot dezvolta brain rot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axios.com/2025/10/21/openai-atlas-new-ai-web-browser-release-date&quot;&gt;OpenAI lansează browserul ChatGPT Atlas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.channel4.com/press/news/channel-4-makes-tv-history-britains-first-ai-presenter&quot;&gt;Channel 4 cu prezentatoare generată de AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content&quot;&gt;Asistenții AI distorsionează știrile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline&quot;&gt;Pana majoră AWS din US-EAST-1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide&quot;&gt;Saltelele smart Eight Sleep picate odată cu AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
+&lt;p&gt;Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - &lt;a href=&quot;https://discord.gg/GAYUppJUVX&quot;&gt;https://discord.gg/GAYUppJUVX&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stand-with-ukraine-&quot;&gt;Stand with Ukraine 🇺🇦&lt;/h3&gt;
+&lt;p&gt;Cowsay nu poate sta deoparte și noi am gătit o pagină specială - &lt;a href=&quot;https://cowsay.show/standwithukraine&quot;&gt;https://cowsay.show/standwithukraine&lt;/a&gt; unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.&lt;/p&gt;
+
+&lt;h3 id=&quot;patreon&quot;&gt;Patreon&lt;/h3&gt;
+&lt;p&gt;Acum avem și noi &lt;del&gt;Onlyfans&lt;/del&gt; &lt;strong&gt;Patreon&lt;/strong&gt; Aici - &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;https://www.patreon.com/cowsay&lt;/a&gt; puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.&lt;/p&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="63706435" 
+                href="https://episodes.cowsay.show/cow157.mp3"/> 
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Live 156: EroGPT, Apple M5 and more AI</title>
+      <link href="https://cowsay.show/2025/10/16/156.html"/>
+      <updated>2025-10-16T00:00:00-07:00</updated>
+      <id>https://cowsay.show/2025/10/16/156</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://episodes.cowsay.show/cow156.mp3&quot;},&quot;coverUrl&quot;:&quot;https://cowsay.show/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Live 156: EroGPT, Apple M5 and more AI&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://cowsay.show/2025/10/16/156.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro&quot;},{&quot;start&quot;:&quot;00:01:13.481 &quot;,&quot;title&quot;:&quot;Noile MacBook Pro cu cipul M5&quot;},{&quot;start&quot;:&quot;00:04:11.961 &quot;,&quot;title&quot;:&quot;Agentul AMP de la Sourcegraph, gratuit cu reclame&quot;},{&quot;start&quot;:&quot;00:11:27.361 &quot;,&quot;title&quot;:&quot;Amazon Echo Show arată tot mai multe reclame&quot;},{&quot;start&quot;:&quot;00:17:00.600 &quot;,&quot;title&quot;:&quot;Update-ul care a transformat Jeep-uri în cărămizi&quot;},{&quot;start&quot;:&quot;00:21:22.641 &quot;,&quot;title&quot;:&quot;Taxiurile autonome Waymo vin la Londra&quot;},{&quot;start&quot;:&quot;00:29:32.241 &quot;,&quot;title&quot;:&quot;ChatGPT va permite conținut erotic adulților&quot;},{&quot;start&quot;:&quot;00:37:05.801 &quot;,&quot;title&quot;:&quot;Nvidia DGX Spark a ajuns, cu întârziere&quot;},{&quot;start&quot;:&quot;00:41:28.441 &quot;,&quot;title&quot;:&quot;Moldova se conectează la rețeaua EuroHPC&quot;},{&quot;start&quot;:&quot;00:47:27.681 &quot;,&quot;title&quot;:&quot;Vite+, un toolchain JavaScript cu plată&quot;},{&quot;start&quot;:&quot;00:55:02.561 &quot;,&quot;title&quot;:&quot;Write the code: scrie codul singur&quot;},{&quot;start&quot;:&quot;01:04:45.000 &quot;,&quot;title&quot;:&quot;Outro&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Urmăriți episodul pe &lt;a href=&quot;https://www.youtube.com/watch?v=VZS4voovkW8&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-&quot;&gt;Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.&lt;/h3&gt;
+
+&lt;p&gt;Ne găsiți pe &lt;a href=&quot;https://discord.gg/UaNer3K&quot;&gt;Discord&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/cowsayshow&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://youtube.com/@cowsay&quot;&gt;Youtube&lt;/a&gt;.&lt;br /&gt;
+Abonați-vă la &lt;a href=&quot;https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&quot;&gt;calendar&lt;/a&gt; să nu ratați live-urile.&lt;br /&gt;
+De asemenea apreciem susținerea voastră pe &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;Patreon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;temele-săptămânii&quot;&gt;Temele săptămânii&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Noile MacBook Pro cu cipul M5&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ampcode.com/news/amp-free&quot;&gt;Agentul AMP de la Sourcegraph, gratuit cu reclame&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/&quot;&gt;Amazon Echo Show arată tot mai multe reclame&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://x.com/stephengutowski/status/1977055831720862101?s=12&amp;amp;t=2CnOJYyAmisuV5rtdbxaLA&quot;&gt;Update-ul care a transformat Jeep-uri în cărămizi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mashable.com/article/waymo-london&quot;&gt;Taxiurile autonome Waymo vin la Londra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/technology/2025/oct/14/openai-chatgpt-adult-erotic-content&quot;&gt;ChatGPT va permite conținut erotic adulților&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nvidia.com/en-eu/products/workstations/dgx-spark/?ncid=em-anno-286804&quot;&gt;Nvidia DGX Spark a ajuns, cu întârziere&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tv8.md/2025/10/15/moldova-va-fi-conectata-la-o-antena-ia-tara-face-un-pas-decisiv-spre-integrarea-in-reteaua-europeana-de-inovare-digitala/290663&quot;&gt;Moldova se conectează la rețeaua EuroHPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://viteplus.dev/&quot;&gt;Vite+, un toolchain JavaScript cu plată&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Write the code: scrie codul singur (&lt;a href=&quot;https://antonz.org/write-code/&quot;&gt;link1&lt;/a&gt;, &lt;a href=&quot;https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html&quot;&gt;link2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;temele-ascultătorilor&quot;&gt;Temele ascultătorilor&lt;/h3&gt;
+&lt;p&gt;Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - &lt;a href=&quot;https://discord.gg/GAYUppJUVX&quot;&gt;https://discord.gg/GAYUppJUVX&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stand-with-ukraine-&quot;&gt;Stand with Ukraine 🇺🇦&lt;/h3&gt;
+&lt;p&gt;Cowsay nu poate sta deoparte și noi am gătit o pagină specială - &lt;a href=&quot;https://cowsay.show/standwithukraine&quot;&gt;https://cowsay.show/standwithukraine&lt;/a&gt; unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.&lt;/p&gt;
+
+&lt;h3 id=&quot;patreon&quot;&gt;Patreon&lt;/h3&gt;
+&lt;p&gt;Acum avem și noi &lt;del&gt;Onlyfans&lt;/del&gt; &lt;strong&gt;Patreon&lt;/strong&gt; Aici - &lt;a href=&quot;https://www.patreon.com/cowsay&quot;&gt;https://www.patreon.com/cowsay&lt;/a&gt; puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.&lt;/p&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="65639859" 
+                href="https://episodes.cowsay.show/cow156.mp3"/> 
         
       
       
