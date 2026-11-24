@@ -19,7 +19,7 @@
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Mon, 23 Nov 2026 18:12:32 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:41:39 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -205,7 +205,21 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:18:45</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:03:30.439" title="Mistral atrage 3 miliarde de euro" />
+              <psc:chapter start="00:07:43.360" title="OpenAI lansează GPT-6 Astra" />
+              <psc:chapter start="00:17:02.319" title="ChatGPT, Claude și Grok picați simultan" />
+              <psc:chapter start="00:24:14.720" title="John Ternus anulează viitoarele Vision" />
+              <psc:chapter start="00:27:50.679" title="Rabbit R1 renaște ca manager de agenți" />
+              <psc:chapter start="00:34:48.159" title="IBM Bob și Bob Coins" />
+              <psc:chapter start="00:45:31.800" title="Agenții OpenAI comunică printr-un wiki german" />
+              <psc:chapter start="00:54:44.000" title="Claude demonstrează formal teorema lui Fermat" />
+              <psc:chapter start="01:01:30.720" title="OpenAI și ecuațiile Navier-Stokes" />
+              <psc:chapter start="01:04:37.279" title="Premiile Ig Nobel 2026" />
+              <psc:chapter start="01:13:35.000" title="DuckDuckGo AI anunță moartea lui Trump" />
+              <psc:chapter start="01:17:50.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 172: Tim Cook își ia rămas bun</title>
             <link>https://cowsay.show/2026/09/01/172.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/172"/>
@@ -276,7 +290,17 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:00:19</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:00:58.840" title="Tim Cook pleacă, vine John Ternus" />
+              <psc:chapter start="00:09:28.880" title="Interviul lui Elon Musk la The Economist" />
+              <psc:chapter start="00:18:32.480" title="Nvidia vrea să cumpere Hugging Face" />
+              <psc:chapter start="00:24:22.000" title="AI crawlerele sufocă kernel.org" />
+              <psc:chapter start="00:33:15.000" title="Drama testimonialului DHH pe site-ul Neovim" />
+              <psc:chapter start="00:38:08.560" title="Dramele Omarchy, distributivul lui DHH" />
+              <psc:chapter start="00:42:52.000" title="Emergence World: agenți AI în lumi simulate" />
+              <psc:chapter start="00:59:58.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 171: Anthropic trece de OpenAI</title>
             <link>https://cowsay.show/2026/08/25/171.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/171"/>
@@ -355,7 +379,19 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:04:33</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:00:57.000" title="AI la teme: copiii chinezi învață mai rău" />
+              <psc:chapter start="00:09:06.000" title="Anthropic depășește OpenAI la venituri" />
+              <psc:chapter start="00:16:28.920" title="Cursor Origin și apelul lui Musk" />
+              <psc:chapter start="00:21:38.000" title="Nu mai contează nimic: bucuria programării dispare" />
+              <psc:chapter start="00:32:44.640" title="AI elimină clasa de mijloc din software" />
+              <psc:chapter start="00:38:35.680" title="De la ZeroLabs la 99Labs: startup-uri AI" />
+              <psc:chapter start="00:43:51.240" title="Agenți AI cu obiective incompatibile se sabotează" />
+              <psc:chapter start="00:56:45.000" title="Noile Mac Studio și Mac Mini" />
+              <psc:chapter start="01:00:08.120" title="Apple pregătește AirPods cu cameră" />
+              <psc:chapter start="01:04:03.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 170: AI;DR</title>
             <link>https://cowsay.show/2026/08/18/170.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/170"/>
@@ -432,7 +468,18 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:06:53</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:01:17.000" title="AI;DR: rezumate generate de AI" />
+              <psc:chapter start="00:07:43.000" title="Incidentele GitHub și explozia de commituri AI" />
+              <psc:chapter start="00:10:45.720" title="Gemini atinge 1 miliard de utilizatori lunar" />
+              <psc:chapter start="00:14:53.519" title="YouTube schimbă politica de vizualizări și monetizare" />
+              <psc:chapter start="00:25:02.080" title="Meta judecată pentru dependența copiilor" />
+              <psc:chapter start="00:34:25.000" title="Organizațiile de agenți AI sunt mai puțin etice" />
+              <psc:chapter start="00:47:06.680" title="Sondajul Syntax FM despre AI și somn" />
+              <psc:chapter start="00:58:46.200" title="Anthropic se pregătește de IPO" />
+              <psc:chapter start="01:06:14.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 169: Stack Overflow, R.I.P.</title>
             <link>https://cowsay.show/2026/08/11/169.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/169"/>
@@ -509,7 +556,20 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:01:05</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:01:53.000" title="Meta lansează modelul local Muse Glimmer" />
+              <psc:chapter start="00:04:59.200" title="Manifestul AI al lui Zuckerberg" />
+              <psc:chapter start="00:14:37.000" title="Black Hat: cum a evadat modelul OpenAI" />
+              <psc:chapter start="00:16:48.440" title="Trump vinde acces API la postări" />
+              <psc:chapter start="00:24:08.800" title="Stack Overflow, cu 99% mai puține întrebări" />
+              <psc:chapter start="00:27:33.040" title="OpenClaw sparge sistemul de rezervări la sală" />
+              <psc:chapter start="00:34:42.919" title="Agenți AI atacă supply chain-ul pe GitHub" />
+              <psc:chapter start="00:39:42.000" title="Modelele AI își protejează colegii de ștergere" />
+              <psc:chapter start="00:47:51.080" title="Domeniul noreply.net primește mii de emailuri" />
+              <psc:chapter start="00:53:54.360" title="OpenAI pregătește un speaker de 300 dolari" />
+              <psc:chapter start="01:00:32.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 168: Lumea s-a săturat de AI Slop?</title>
             <link>https://cowsay.show/2026/08/04/168.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/168"/>
@@ -580,7 +640,18 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:59:27</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:01:41.360" title="OpenAI publică chat-urile în procesul cu Apple" />
+              <psc:chapter start="00:09:45.000" title="Amazon investește 50 de miliarde în OpenAI" />
+              <psc:chapter start="00:13:08.000" title="Google retrage Earth AI după o zi" />
+              <psc:chapter start="00:22:30.760" title="Mythos sparge criptarea post-quantum Hawk" />
+              <psc:chapter start="00:28:57.000" title="Și agenții Anthropic au ieșit din sandbox" />
+              <psc:chapter start="00:35:58.120" title="AI în customer support ar trebui interzis" />
+              <psc:chapter start="00:38:43.520" title="Contul LinkedIn al lui Vlad, spart și banat" />
+              <psc:chapter start="00:45:45.560" title="LinkedIn adaugă buton de AI slop" />
+              <psc:chapter start="00:58:49.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 167: Open Source din nou important</title>
             <link>https://cowsay.show/2026/07/28/167.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/167"/>
@@ -740,7 +811,17 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:58:43</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:02:03.079" title="Apple dă în judecată OpenAI pentru secrete industriale" />
+              <psc:chapter start="00:16:23.360" title="OpenAI lansează GPT-5.6 Sol, Terra și Luna" />
+              <psc:chapter start="00:21:04.520" title="ChatGPT Work, agentul care coordonează agenți" />
+              <psc:chapter start="00:28:09.240" title="Creatorul Zig răspunde la rescrierea Bun în Rust" />
+              <psc:chapter start="00:36:16.000" title="Grok Build încarcă tot repository-ul în cloud" />
+              <psc:chapter start="00:43:21.000" title="Bula AI și riscul pierderii tehnologiei" />
+              <psc:chapter start="00:55:02.200" title="ETF-uri noi fără companiile lui Elon Musk" />
+              <psc:chapter start="00:57:59.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 165: Trump îi dă drumul lui Anthropic</title>
             <link>https://cowsay.show/2026/07/07/165.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/165"/>
@@ -876,7 +957,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>0:33:22</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:02:45.080" title="SpaceX iese la IPO record" />
+              <psc:chapter start="00:23:08.000" title="Anthropic restricționează Mythos și Fable 5" />
+              <psc:chapter start="00:30:57.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 163: Apple gata?</title>
             <link>https://cowsay.show/2025/12/12/163.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/163"/>
@@ -949,7 +1035,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:05:27</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:00:58.160" title="Bilanțul speculațiilor din acest sezon" />
+              <psc:chapter start="00:08:11.120" title="Cursor lansează un editor vizual de design" />
+              <psc:chapter start="00:11:37.000" title="Reclama McDonald's generată cu Sora 2" />
+              <psc:chapter start="00:18:07.000" title="Netflix cumpără Warner Brothers" />
+              <psc:chapter start="00:24:39.240" title="Disney încheie un deal cu OpenAI pentru Sora" />
+              <psc:chapter start="00:27:00.399" title="ChatGPT Enterprise economisește o oră pe zi" />
+              <psc:chapter start="00:31:24.320" title="Sam Altman cumpără 40% din RAM-ul global" />
+              <psc:chapter start="00:40:42.000" title="Steam Machine și jocurile Valve pe ARM" />
+              <psc:chapter start="00:45:28.000" title="Pene mari de infrastructură în acest an" />
+              <psc:chapter start="00:46:59.000" title="Vibe coding schimbă paradigma programării" />
+              <psc:chapter start="00:48:29.543" title="Google câștigă cursa AI" />
+              <psc:chapter start="00:53:08.160" title="AI-ul devine standard în viața de zi cu zi" />
+              <psc:chapter start="00:57:24.000" title="Recomandare de carte: Careless People" />
+              <psc:chapter start="00:59:29.000" title="2025, anul deal-urilor și al politicii în AI" />
+              <psc:chapter start="01:02:31.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 162: Reclama voastră în agenții noștri</title>
             <link>https://cowsay.show/2025/12/04/162.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/162"/>
@@ -1026,7 +1129,19 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:10:31</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:02:04.782" title="[Sergiu] OpenAI prepares Ads" />
+              <psc:chapter start="00:03:33.297" title="OpenAI Code Red" />
+              <psc:chapter start="00:15:26.371" title="Anthropic acquires Bun" />
+              <psc:chapter start="00:21:42.233" title="AI Agents Find Smart Contract Exploits" />
+              <psc:chapter start="00:28:58.094" title="De sufletu' lui Claude" />
+              <psc:chapter start="00:37:04.541" title="Antigravity deleted the data" />
+              <psc:chapter start="00:40:35.840" title="Air — a new IDE from JetBrains" />
+              <psc:chapter start="00:46:42.971" title="Zig moves away from Github" />
+              <psc:chapter start="00:54:35.503" title="RCE in React" />
+              <psc:chapter start="01:10:21.661" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 161: Memorii scumpe</title>
             <link>https://cowsay.show/2025/11/27/161.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/161"/>
@@ -1294,7 +1409,19 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:09:15</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:00:32.840" title="iPhone Pocket, noua torbă de la Apple" />
+              <psc:chapter start="00:05:46.520" title="Cântec generat de AI în topul Billboard" />
+              <psc:chapter start="00:10:10.000" title="Germania: ChatGPT a încălcat copyright-ul la antrenare" />
+              <psc:chapter start="00:15:17.000" title="Agenții AI încă n-au common sense" />
+              <psc:chapter start="00:27:20.000" title="Conversații ChatGPT scurse în Google Search Console" />
+              <psc:chapter start="00:33:34.639" title="Mărturia lui Sutskever în procesul Musk vs Altman" />
+              <psc:chapter start="00:46:03.280" title="Tesla aprobă pachetul de un trilion pentru Musk" />
+              <psc:chapter start="00:52:15.000" title="Yann LeCun pleacă de la Meta" />
+              <psc:chapter start="00:57:40.359" title="FFmpeg cere bani de la Google pentru bug-uri" />
+              <psc:chapter start="01:06:41.000" title="Outro" />
+              
+            </psc:chapters></item><item>
             <title>Live 158: Nokia încă mai există?</title>
             <link>https://cowsay.show/2025/10/30/158.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/158"/>
@@ -1389,7 +1516,16 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:04:42</itunes:duration>
-            </item><item>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:01:27.193" title="Azure Outage" />
+              <psc:chapter start="00:05:07.078" title="Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation | Reuters" />
+              <psc:chapter start="00:10:35.043" title="Finally, a definition for AGI" />
+              <psc:chapter start="00:21:54.051" title="Amazon to announce largest layoffs in company history, source says" />
+              <psc:chapter start="00:28:40.972" title="Nvidia takes $1 billion stake in Nokia" />
+              <psc:chapter start="00:35:01.130" title="[Eugeniu] Helping protect the 2025 Moldova elections" />
+              <psc:chapter start="00:56:05.929" title="Agent HQ" />
+              
+            </psc:chapters></item><item>
             <title>Live 157: Cea mai memegenică catastrofă în internet</title>
             <link>https://cowsay.show/2025/10/23/157.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/157"/>
@@ -1648,5 +1784,15 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:02:27</itunes:duration>
-            </item></channel>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro" />
+              <psc:chapter start="00:07:49.884" title="Deloitte va întoarce 440k AUD Albaniei, ei aproape :)" />
+              <psc:chapter start="00:08:07.126" title="[Andrei] Microsoft is forcing online account" />
+              <psc:chapter start="00:12:35.941" title="[Andrei] AMD and OpenAI launches strategic partnership" />
+              <psc:chapter start="00:22:41.212" title="Mira Murati’s Thinking Machines Lab Launches Its First Product" />
+              <psc:chapter start="00:31:01.963" title="OpenAI Dev day" />
+              <psc:chapter start="00:31:11.043" title="NET Dollar" />
+              <psc:chapter start="00:36:54.310" title="Companies are Lying About AI Layoffs" />
+              <psc:chapter start="00:41:55.809" title="openai dev day" />
+              
+            </psc:chapters></item></channel>
 </rss>
