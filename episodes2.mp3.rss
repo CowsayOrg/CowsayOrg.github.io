@@ -9,17 +9,17 @@
 
   <channel>
     <title>Cowsay Show</title>
-    <link>https://cowsay.show</link>
-    <atom:link href="https://cowsay.show/episodes.mp3.rss2" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes3.mp3.rss" rel="next" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="prev" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/episodes.mp3.rss2" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes3.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="prev" type="application/rss+xml" />
 
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Tue, 24 Nov 2026 18:44:26 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:10:59 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Cowsay Crew ©</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:image href="http://localhost:4000/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>Cowsay Crew ©</itunes:name>
       <itunes:email>vlad.drahnea@gmail.com</itunes:email>
@@ -38,19 +38,19 @@
     <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
     <image>
       <title>Cowsay Show</title>
-      <url>https://cowsay.show/img/logo-itunes.png</url>
-      <link>https://cowsay.show</link>
+      <url>http://localhost:4000/img/logo-itunes.png</url>
+      <link>http://localhost:4000</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>Live 154: Sora2 , Friend.com și Oracle</title>
-            <link>https://cowsay.show/2025/10/02/154.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/154"/>
-            <comments>https://cowsay.show/2025/10/02/154.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/10/02/154.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/154"/>
+            <comments>http://localhost:4000/2025/10/02/154.html#disqus_thread</comments>
             <pubDate>Thu, 02 Oct 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/10/02/154.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/10/02/154.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -114,12 +114,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:20</itunes:duration>
             </item><item>
             <title>Live 153: Caut sponsor pentru viză</title>
-            <link>https://cowsay.show/2025/09/26/153.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/153"/>
-            <comments>https://cowsay.show/2025/09/26/153.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/09/26/153.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/153"/>
+            <comments>http://localhost:4000/2025/09/26/153.html#disqus_thread</comments>
             <pubDate>Fri, 26 Sep 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/09/26/153.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/09/26/153.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -187,12 +187,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:05</itunes:duration>
             </item><item>
             <title>Live 152: In next episode of Black Mirror...</title>
-            <link>https://cowsay.show/2025/09/19/152.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/152"/>
-            <comments>https://cowsay.show/2025/09/19/152.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/09/19/152.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/152"/>
+            <comments>http://localhost:4000/2025/09/19/152.html#disqus_thread</comments>
             <pubDate>Fri, 19 Sep 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/09/19/152.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/09/19/152.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -262,12 +262,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>0:59:47</itunes:duration>
             </item><item>
             <title>Live 151: Toamna de Aur</title>
-            <link>https://cowsay.show/2025/09/11/151.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/151"/>
-            <comments>https://cowsay.show/2025/09/11/151.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/09/11/151.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/151"/>
+            <comments>http://localhost:4000/2025/09/11/151.html#disqus_thread</comments>
             <pubDate>Thu, 11 Sep 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/09/11/151.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/09/11/151.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -337,12 +337,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:05:54</itunes:duration>
             </item><item>
             <title>Live 150: io, iyO or myBrainYoMayo</title>
-            <link>https://cowsay.show/2025/06/26/150.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/150"/>
-            <comments>https://cowsay.show/2025/06/26/150.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/06/26/150.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/150"/>
+            <comments>http://localhost:4000/2025/06/26/150.html#disqus_thread</comments>
             <pubDate>Thu, 26 Jun 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/06/26/150.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/06/26/150.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -412,12 +412,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:09:06</itunes:duration>
             </item><item>
             <title>Live 149: Mulțumesc, Google?</title>
-            <link>https://cowsay.show/2025/06/19/149.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/149"/>
-            <comments>https://cowsay.show/2025/06/19/149.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/06/19/149.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/149"/>
+            <comments>http://localhost:4000/2025/06/19/149.html#disqus_thread</comments>
             <pubDate>Thu, 19 Jun 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/06/19/149.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/06/19/149.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -493,12 +493,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:02</itunes:duration>
             </item><item>
             <title>Live 148: Mulțumesc, Apple</title>
-            <link>https://cowsay.show/2025/06/15/148.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/148"/>
-            <comments>https://cowsay.show/2025/06/15/148.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/06/15/148.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/148"/>
+            <comments>http://localhost:4000/2025/06/15/148.html#disqus_thread</comments>
             <pubDate>Sun, 15 Jun 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/06/15/148.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/06/15/148.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -548,12 +548,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>0:43:45</itunes:duration>
             </item><item>
             <title>Live 147: AI bubble starts to burst?</title>
-            <link>https://cowsay.show/2025/06/05/147.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/147"/>
-            <comments>https://cowsay.show/2025/06/05/147.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/06/05/147.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/147"/>
+            <comments>http://localhost:4000/2025/06/05/147.html#disqus_thread</comments>
             <pubDate>Thu, 05 Jun 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/06/05/147.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/06/05/147.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -623,12 +623,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:51</itunes:duration>
             </item><item>
             <title>Live 146: Triunghiul amoros USA-AI-EAU</title>
-            <link>https://cowsay.show/2025/05/15/146.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/146"/>
-            <comments>https://cowsay.show/2025/05/15/146.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/05/15/146.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/146"/>
+            <comments>http://localhost:4000/2025/05/15/146.html#disqus_thread</comments>
             <pubDate>Thu, 15 May 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/05/15/146.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/05/15/146.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -700,12 +700,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:08:09</itunes:duration>
             </item><item>
             <title>Live 145: AI-First Mind Virus</title>
-            <link>https://cowsay.show/2025/05/08/145.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/145"/>
-            <comments>https://cowsay.show/2025/05/08/145.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/05/08/145.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/145"/>
+            <comments>http://localhost:4000/2025/05/08/145.html#disqus_thread</comments>
             <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/05/08/145.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/05/08/145.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -775,12 +775,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:09:01</itunes:duration>
             </item><item>
             <title>Live 144: Meta Antitrust</title>
-            <link>https://cowsay.show/2025/05/01/144.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/144"/>
-            <comments>https://cowsay.show/2025/05/01/144.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/05/01/144.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/144"/>
+            <comments>http://localhost:4000/2025/05/01/144.html#disqus_thread</comments>
             <pubDate>Thu, 01 May 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/05/01/144.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/05/01/144.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -830,12 +830,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:06:33</itunes:duration>
             </item><item>
             <title>Live 143: Cuvântul săptămânii 📖 Slopsquatting</title>
-            <link>https://cowsay.show/2025/04/17/143.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/143"/>
-            <comments>https://cowsay.show/2025/04/17/143.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/04/17/143.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/143"/>
+            <comments>http://localhost:4000/2025/04/17/143.html#disqus_thread</comments>
             <pubDate>Thu, 17 Apr 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/04/17/143.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/04/17/143.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -905,12 +905,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:00:29</itunes:duration>
             </item><item>
             <title>Live 142: Reflexive 💪 AI usage</title>
-            <link>https://cowsay.show/2025/04/10/142.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/142"/>
-            <comments>https://cowsay.show/2025/04/10/142.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/04/10/142.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/142"/>
+            <comments>http://localhost:4000/2025/04/10/142.html#disqus_thread</comments>
             <pubDate>Thu, 10 Apr 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/04/10/142.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/04/10/142.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -978,12 +978,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:08:27</itunes:duration>
             </item><item>
             <title>Live 141: 1 Aprilie sau investiții 🤑 nemaipomenite</title>
-            <link>https://cowsay.show/2025/04/04/141.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/141"/>
-            <comments>https://cowsay.show/2025/04/04/141.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/04/04/141.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/141"/>
+            <comments>http://localhost:4000/2025/04/04/141.html#disqus_thread</comments>
             <pubDate>Fri, 04 Apr 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/04/04/141.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/04/04/141.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1055,12 +1055,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:08:05</itunes:duration>
             </item><item>
             <title>Live #140: Next.js Middleware CVE sau time ⏳🥾 travel bug fixing</title>
-            <link>https://cowsay.show/2025/03/28/140.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/140"/>
-            <comments>https://cowsay.show/2025/03/28/140.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/03/28/140.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/140"/>
+            <comments>http://localhost:4000/2025/03/28/140.html#disqus_thread</comments>
             <pubDate>Fri, 28 Mar 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/03/28/140.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/03/28/140.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1132,12 +1132,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:14:41</itunes:duration>
             </item><item>
             <title>Live #139: ✨Vibe Coding✨</title>
-            <link>https://cowsay.show/2025/03/20/139.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/139"/>
-            <comments>https://cowsay.show/2025/03/20/139.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/03/20/139.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/139"/>
+            <comments>http://localhost:4000/2025/03/20/139.html#disqus_thread</comments>
             <pubDate>Thu, 20 Mar 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/03/20/139.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/03/20/139.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1201,12 +1201,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:12</itunes:duration>
             </item><item>
             <title>Live #138: Revoluția AI continuă, Sesame Maya și Manus rup charturile</title>
-            <link>https://cowsay.show/2025/03/13/138.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/138"/>
-            <comments>https://cowsay.show/2025/03/13/138.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/03/13/138.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/138"/>
+            <comments>http://localhost:4000/2025/03/13/138.html#disqus_thread</comments>
             <pubDate>Thu, 13 Mar 2025 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/03/13/138.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/03/13/138.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1282,12 +1282,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:04</itunes:duration>
             </item><item>
             <title>Live #137: Mozilla drama, Macbook Air/Mac Studio/iPad, Apple 1:1 UK</title>
-            <link>https://cowsay.show/2025/03/06/137.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/137"/>
-            <comments>https://cowsay.show/2025/03/06/137.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/03/06/137.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/137"/>
+            <comments>http://localhost:4000/2025/03/06/137.html#disqus_thread</comments>
             <pubDate>Thu, 06 Mar 2025 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/03/06/137.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/03/06/137.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1355,12 +1355,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>0:58:46</itunes:duration>
             </item><item>
             <title>Live #136: Claude 3.7 Sonnet, Sweatshop AI, UK 1:0 Apple</title>
-            <link>https://cowsay.show/2025/02/27/136.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/136"/>
-            <comments>https://cowsay.show/2025/02/27/136.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/02/27/136.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/136"/>
+            <comments>http://localhost:4000/2025/02/27/136.html#disqus_thread</comments>
             <pubDate>Thu, 27 Feb 2025 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/02/27/136.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/02/27/136.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
@@ -1430,12 +1430,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:05:54</itunes:duration>
             </item><item>
             <title>Live #135: Middle east LLM, Majorana și cum AI afectează gândirea critică</title>
-            <link>https://cowsay.show/2025/02/20/135.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/135"/>
-            <comments>https://cowsay.show/2025/02/20/135.html#disqus_thread</comments>
+            <link>http://localhost:4000/2025/02/20/135.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/135"/>
+            <comments>http://localhost:4000/2025/02/20/135.html#disqus_thread</comments>
             <pubDate>Thu, 20 Feb 2025 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2025/02/20/135.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2025/02/20/135.html</guid>
             <description><![CDATA[
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>

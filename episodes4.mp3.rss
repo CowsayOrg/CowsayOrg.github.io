@@ -9,17 +9,17 @@
 
   <channel>
     <title>Cowsay Show</title>
-    <link>https://cowsay.show</link>
-    <atom:link href="https://cowsay.show/episodes.mp3.rss4" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes5.mp3.rss" rel="next" type="application/rss+xml" />
-    <atom:link href="https://cowsay.show/episodes3.mp3.rss" rel="prev" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/episodes.mp3.rss4" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes5.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes3.mp3.rss" rel="prev" type="application/rss+xml" />
 
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Tue, 24 Nov 2026 18:44:26 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:10:59 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Cowsay Crew ©</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
+    <itunes:image href="http://localhost:4000/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>Cowsay Crew ©</itunes:name>
       <itunes:email>vlad.drahnea@gmail.com</itunes:email>
@@ -38,19 +38,19 @@
     <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
     <image>
       <title>Cowsay Show</title>
-      <url>https://cowsay.show/img/logo-itunes.png</url>
-      <link>https://cowsay.show</link>
+      <url>http://localhost:4000/img/logo-itunes.png</url>
+      <link>http://localhost:4000</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>#114 🤷‍♂️ Șeva este, dar tare mult nu-i</title>
-            <link>https://cowsay.show/2024/08/01/114.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/114"/>
-            <comments>https://cowsay.show/2024/08/01/114.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/08/01/114.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/114"/>
+            <comments>http://localhost:4000/2024/08/01/114.html#disqus_thread</comments>
             <pubDate>Thu, 01 Aug 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/08/01/114.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/08/01/114.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -126,12 +126,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:57</itunes:duration>
             </item><item>
             <title>#113 😵‍💫 x.com - comoară nouă pentru scammeri</title>
-            <link>https://cowsay.show/2024/04/10/113.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/113"/>
-            <comments>https://cowsay.show/2024/04/10/113.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/04/10/113.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/113"/>
+            <comments>http://localhost:4000/2024/04/10/113.html#disqus_thread</comments>
             <pubDate>Wed, 10 Apr 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/04/10/113.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/04/10/113.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -213,12 +213,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:27</itunes:duration>
             </item><item>
             <title>#112 💾 $1.5</title>
-            <link>https://cowsay.show/2024/04/03/112.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/112"/>
-            <comments>https://cowsay.show/2024/04/03/112.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/04/03/112.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/112"/>
+            <comments>http://localhost:4000/2024/04/03/112.html#disqus_thread</comments>
             <pubDate>Wed, 03 Apr 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/04/03/112.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/04/03/112.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -300,12 +300,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:00:49</itunes:duration>
             </item><item>
             <title>#111 🚂 Carburator</title>
-            <link>https://cowsay.show/2024/03/27/111.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/111"/>
-            <comments>https://cowsay.show/2024/03/27/111.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/03/27/111.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/111"/>
+            <comments>http://localhost:4000/2024/03/27/111.html#disqus_thread</comments>
             <pubDate>Wed, 27 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/03/27/111.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/03/27/111.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -387,12 +387,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:04:48</itunes:duration>
             </item><item>
             <title>#110 🔋 4MegaIaloveniWați</title>
-            <link>https://cowsay.show/2024/03/20/110.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/110"/>
-            <comments>https://cowsay.show/2024/03/20/110.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/03/20/110.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/110"/>
+            <comments>http://localhost:4000/2024/03/20/110.html#disqus_thread</comments>
             <pubDate>Wed, 20 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/03/20/110.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/03/20/110.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -474,12 +474,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:20</itunes:duration>
             </item><item>
             <title>#109 🔌 Valorile Adăugate</title>
-            <link>https://cowsay.show/2024/03/13/109.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/109"/>
-            <comments>https://cowsay.show/2024/03/13/109.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/03/13/109.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/109"/>
+            <comments>http://localhost:4000/2024/03/13/109.html#disqus_thread</comments>
             <pubDate>Wed, 13 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/03/13/109.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/03/13/109.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -565,12 +565,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:30</itunes:duration>
             </item><item>
             <title>#108 🔌 Apocalipsa neașteptată</title>
-            <link>https://cowsay.show/2024/03/06/108.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/108"/>
-            <comments>https://cowsay.show/2024/03/06/108.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/03/06/108.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/108"/>
+            <comments>http://localhost:4000/2024/03/06/108.html#disqus_thread</comments>
             <pubDate>Wed, 06 Mar 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/03/06/108.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/03/06/108.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -656,12 +656,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:31</itunes:duration>
             </item><item>
             <title>#107 🥷 Elemente Huanganice</title>
-            <link>https://cowsay.show/2024/02/28/107.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/107"/>
-            <comments>https://cowsay.show/2024/02/28/107.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/02/28/107.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/107"/>
+            <comments>http://localhost:4000/2024/02/28/107.html#disqus_thread</comments>
             <pubDate>Wed, 28 Feb 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/02/28/107.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/02/28/107.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -743,12 +743,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:12:32</itunes:duration>
             </item><item>
             <title>#106 💭 Acesta este un podcast generat</title>
-            <link>https://cowsay.show/2024/02/21/106.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/106"/>
-            <comments>https://cowsay.show/2024/02/21/106.html#disqus_thread</comments>
+            <link>http://localhost:4000/2024/02/21/106.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/106"/>
+            <comments>http://localhost:4000/2024/02/21/106.html#disqus_thread</comments>
             <pubDate>Wed, 21 Feb 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2024/02/21/106.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2024/02/21/106.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -830,12 +830,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:49</itunes:duration>
             </item><item>
             <title>#105 🏝️ O luăm mai ușurel...</title>
-            <link>https://cowsay.show/2023/12/14/105.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/105"/>
-            <comments>https://cowsay.show/2023/12/14/105.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/12/14/105.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/105"/>
+            <comments>http://localhost:4000/2023/12/14/105.html#disqus_thread</comments>
             <pubDate>Thu, 14 Dec 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/12/14/105.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/12/14/105.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -919,12 +919,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>0:58:47</itunes:duration>
             </item><item>
             <title>#104 ⚛️🎰 Loterii quantice</title>
-            <link>https://cowsay.show/2023/12/07/104.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/104"/>
-            <comments>https://cowsay.show/2023/12/07/104.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/12/07/104.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/104"/>
+            <comments>http://localhost:4000/2023/12/07/104.html#disqus_thread</comments>
             <pubDate>Thu, 07 Dec 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/12/07/104.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/12/07/104.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1010,12 +1010,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:08</itunes:duration>
             </item><item>
             <title>#103 🦥 AI-ul buddist</title>
-            <link>https://cowsay.show/2023/11/30/103.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/103"/>
-            <comments>https://cowsay.show/2023/11/30/103.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/11/30/103.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/103"/>
+            <comments>http://localhost:4000/2023/11/30/103.html#disqus_thread</comments>
             <pubDate>Thu, 30 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/11/30/103.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/11/30/103.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1097,12 +1097,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:52</itunes:duration>
             </item><item>
             <title>#102 👼🏼 a doua venire</title>
-            <link>https://cowsay.show/2023/11/23/102.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/102"/>
-            <comments>https://cowsay.show/2023/11/23/102.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/11/23/102.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/102"/>
+            <comments>http://localhost:4000/2023/11/23/102.html#disqus_thread</comments>
             <pubDate>Thu, 23 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/11/23/102.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/11/23/102.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1184,12 +1184,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:54</itunes:duration>
             </item><item>
             <title>#101 🤖🔫 Kill all humans!</title>
-            <link>https://cowsay.show/2023/11/16/101.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/101"/>
-            <comments>https://cowsay.show/2023/11/16/101.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/11/16/101.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/101"/>
+            <comments>http://localhost:4000/2023/11/16/101.html#disqus_thread</comments>
             <pubDate>Thu, 16 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/11/16/101.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/11/16/101.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1275,12 +1275,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:48</itunes:duration>
             </item><item>
             <title>#100 🎯 Un AI to rule them all</title>
-            <link>https://cowsay.show/2023/11/09/100.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/100"/>
-            <comments>https://cowsay.show/2023/11/09/100.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/11/09/100.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/100"/>
+            <comments>http://localhost:4000/2023/11/09/100.html#disqus_thread</comments>
             <pubDate>Thu, 09 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/11/09/100.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/11/09/100.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1364,12 +1364,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:04:44</itunes:duration>
             </item><item>
             <title>#99 🎃 Spooky AI</title>
-            <link>https://cowsay.show/2023/11/02/99.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/99"/>
-            <comments>https://cowsay.show/2023/11/02/99.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/11/02/99.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/99"/>
+            <comments>http://localhost:4000/2023/11/02/99.html#disqus_thread</comments>
             <pubDate>Thu, 02 Nov 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/11/02/99.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/11/02/99.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1457,12 +1457,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:05:19</itunes:duration>
             </item><item>
             <title>#98 🧠🖥️ State of AI 2023</title>
-            <link>https://cowsay.show/2023/10/26/98.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/98"/>
-            <comments>https://cowsay.show/2023/10/26/98.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/10/26/98.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/98"/>
+            <comments>http://localhost:4000/2023/10/26/98.html#disqus_thread</comments>
             <pubDate>Thu, 26 Oct 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/10/26/98.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/10/26/98.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1546,12 +1546,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:00:46</itunes:duration>
             </item><item>
             <title>#97 📟 Unix GPT OS (in 2D)</title>
-            <link>https://cowsay.show/2023/08/24/97.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/97"/>
-            <comments>https://cowsay.show/2023/08/24/97.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/08/24/97.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/97"/>
+            <comments>http://localhost:4000/2023/08/24/97.html#disqus_thread</comments>
             <pubDate>Thu, 24 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/08/24/97.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/08/24/97.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1639,12 +1639,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:40</itunes:duration>
             </item><item>
             <title>#96 🎪 Boșii remote-urilor noastre</title>
-            <link>https://cowsay.show/2023/08/17/96.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/96"/>
-            <comments>https://cowsay.show/2023/08/17/96.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/08/17/96.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/96"/>
+            <comments>http://localhost:4000/2023/08/17/96.html#disqus_thread</comments>
             <pubDate>Thu, 17 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/08/17/96.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/08/17/96.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1736,12 +1736,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>59:01</itunes:duration>
             </item><item>
             <title>#95 🪦 :wq</title>
-            <link>https://cowsay.show/2023/08/10/95.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/95"/>
-            <comments>https://cowsay.show/2023/08/10/95.html#disqus_thread</comments>
+            <link>http://localhost:4000/2023/08/10/95.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/95"/>
+            <comments>http://localhost:4000/2023/08/10/95.html#disqus_thread</comments>
             <pubDate>Thu, 10 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">https://cowsay.show/2023/08/10/95.html</guid>
+            <guid isPermaLink="false">http://localhost:4000/2023/08/10/95.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
