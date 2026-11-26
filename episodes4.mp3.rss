@@ -9,17 +9,17 @@
 
   <channel>
     <title>Cowsay Show</title>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss4" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://localhost:4000/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
-    <atom:link href="http://localhost:4000/episodes5.mp3.rss" rel="next" type="application/rss+xml" />
-    <atom:link href="http://localhost:4000/episodes3.mp3.rss" rel="prev" type="application/rss+xml" />
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss4" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes5.mp3.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes3.mp3.rss" rel="prev" type="application/rss+xml" />
 
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Wed, 25 Nov 2026 18:10:59 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:18:38 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Cowsay Crew ©</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://localhost:4000/img/logo-itunes.png" />
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>Cowsay Crew ©</itunes:name>
       <itunes:email>vlad.drahnea@gmail.com</itunes:email>
@@ -38,19 +38,19 @@
     <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
     <image>
       <title>Cowsay Show</title>
-      <url>http://localhost:4000/img/logo-itunes.png</url>
-      <link>http://localhost:4000</link>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>#114 🤷‍♂️ Șeva este, dar tare mult nu-i</title>
-            <link>http://localhost:4000/2024/08/01/114.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/114"/>
-            <comments>http://localhost:4000/2024/08/01/114.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/08/01/114.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/114"/>
+            <comments>https://cowsay.show/2024/08/01/114.html#disqus_thread</comments>
             <pubDate>Thu, 01 Aug 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/08/01/114.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/08/01/114.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -60,9 +60,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -75,13 +75,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -92,9 +92,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -107,13 +107,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow114.mp3" 
                          length="67285422" 
@@ -126,12 +126,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:57</itunes:duration>
             </item><item>
             <title>#113 😵‍💫 x.com - comoară nouă pentru scammeri</title>
-            <link>http://localhost:4000/2024/04/10/113.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/113"/>
-            <comments>http://localhost:4000/2024/04/10/113.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/04/10/113.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/113"/>
+            <comments>https://cowsay.show/2024/04/10/113.html#disqus_thread</comments>
             <pubDate>Wed, 10 Apr 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/04/10/113.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/04/10/113.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -141,9 +141,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -159,13 +159,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -176,9 +176,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -194,13 +194,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow113.mp3" 
                          length="64369318" 
@@ -213,12 +213,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:27</itunes:duration>
             </item><item>
             <title>#112 💾 $1.5</title>
-            <link>http://localhost:4000/2024/04/03/112.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/112"/>
-            <comments>http://localhost:4000/2024/04/03/112.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/04/03/112.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/112"/>
+            <comments>https://cowsay.show/2024/04/03/112.html#disqus_thread</comments>
             <pubDate>Wed, 03 Apr 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/04/03/112.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/04/03/112.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -228,9 +228,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -246,13 +246,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -263,9 +263,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -281,13 +281,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow112.mp3" 
                          length="64425265" 
@@ -300,12 +300,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:00:49</itunes:duration>
             </item><item>
             <title>#111 🚂 Carburator</title>
-            <link>http://localhost:4000/2024/03/27/111.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/111"/>
-            <comments>http://localhost:4000/2024/03/27/111.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/03/27/111.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/111"/>
+            <comments>https://cowsay.show/2024/03/27/111.html#disqus_thread</comments>
             <pubDate>Wed, 27 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/03/27/111.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/03/27/111.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -315,9 +315,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -333,13 +333,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -350,9 +350,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -368,13 +368,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow111.mp3" 
                          length="69527704" 
@@ -387,12 +387,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:04:48</itunes:duration>
             </item><item>
             <title>#110 🔋 4MegaIaloveniWați</title>
-            <link>http://localhost:4000/2024/03/20/110.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/110"/>
-            <comments>http://localhost:4000/2024/03/20/110.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/03/20/110.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/110"/>
+            <comments>https://cowsay.show/2024/03/20/110.html#disqus_thread</comments>
             <pubDate>Wed, 20 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/03/20/110.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/03/20/110.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -402,9 +402,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -420,13 +420,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -437,9 +437,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -455,13 +455,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow110.mp3" 
                          length="67106465" 
@@ -474,12 +474,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:20</itunes:duration>
             </item><item>
             <title>#109 🔌 Valorile Adăugate</title>
-            <link>http://localhost:4000/2024/03/13/109.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/109"/>
-            <comments>http://localhost:4000/2024/03/13/109.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/03/13/109.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/109"/>
+            <comments>https://cowsay.show/2024/03/13/109.html#disqus_thread</comments>
             <pubDate>Wed, 13 Mar 2024 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/03/13/109.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/03/13/109.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -489,9 +489,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -509,13 +509,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -526,9 +526,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -546,13 +546,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow109.mp3" 
                          length="67160357" 
@@ -565,12 +565,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:30</itunes:duration>
             </item><item>
             <title>#108 🔌 Apocalipsa neașteptată</title>
-            <link>http://localhost:4000/2024/03/06/108.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/108"/>
-            <comments>http://localhost:4000/2024/03/06/108.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/03/06/108.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/108"/>
+            <comments>https://cowsay.show/2024/03/06/108.html#disqus_thread</comments>
             <pubDate>Wed, 06 Mar 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/03/06/108.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/03/06/108.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -580,9 +580,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -600,13 +600,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -617,9 +617,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -637,13 +637,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow108.mp3" 
                          length="66339076" 
@@ -656,12 +656,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:03:31</itunes:duration>
             </item><item>
             <title>#107 🥷 Elemente Huanganice</title>
-            <link>http://localhost:4000/2024/02/28/107.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/107"/>
-            <comments>http://localhost:4000/2024/02/28/107.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/02/28/107.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/107"/>
+            <comments>https://cowsay.show/2024/02/28/107.html#disqus_thread</comments>
             <pubDate>Wed, 28 Feb 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/02/28/107.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/02/28/107.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -671,9 +671,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -689,13 +689,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -706,9 +706,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -724,13 +724,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow107.mp3" 
                          length="76128387" 
@@ -743,12 +743,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:12:32</itunes:duration>
             </item><item>
             <title>#106 💭 Acesta este un podcast generat</title>
-            <link>http://localhost:4000/2024/02/21/106.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/106"/>
-            <comments>http://localhost:4000/2024/02/21/106.html#disqus_thread</comments>
+            <link>https://cowsay.show/2024/02/21/106.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/106"/>
+            <comments>https://cowsay.show/2024/02/21/106.html#disqus_thread</comments>
             <pubDate>Wed, 21 Feb 2024 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2024/02/21/106.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2024/02/21/106.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -758,9 +758,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -776,13 +776,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -793,9 +793,9 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -811,13 +811,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow106.mp3" 
                          length="65831017" 
@@ -830,12 +830,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:49</itunes:duration>
             </item><item>
             <title>#105 🏝️ O luăm mai ușurel...</title>
-            <link>http://localhost:4000/2023/12/14/105.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/105"/>
-            <comments>http://localhost:4000/2023/12/14/105.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/12/14/105.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/105"/>
+            <comments>https://cowsay.show/2023/12/14/105.html#disqus_thread</comments>
             <pubDate>Thu, 14 Dec 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/12/14/105.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/12/14/105.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -845,11 +845,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -864,13 +864,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -881,11 +881,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -900,13 +900,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow105.mp3" 
                          length="62594914" 
@@ -919,12 +919,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>0:58:47</itunes:duration>
             </item><item>
             <title>#104 ⚛️🎰 Loterii quantice</title>
-            <link>http://localhost:4000/2023/12/07/104.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/104"/>
-            <comments>http://localhost:4000/2023/12/07/104.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/12/07/104.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/104"/>
+            <comments>https://cowsay.show/2023/12/07/104.html#disqus_thread</comments>
             <pubDate>Thu, 07 Dec 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/12/07/104.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/12/07/104.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -934,11 +934,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -954,13 +954,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -971,11 +971,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Am lansat chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -991,13 +991,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow104.mp3" 
                          length="62408109" 
@@ -1010,12 +1010,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:08</itunes:duration>
             </item><item>
             <title>#103 🦥 AI-ul buddist</title>
-            <link>http://localhost:4000/2023/11/30/103.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/103"/>
-            <comments>http://localhost:4000/2023/11/30/103.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/11/30/103.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/103"/>
+            <comments>https://cowsay.show/2023/11/30/103.html#disqus_thread</comments>
             <pubDate>Thu, 30 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/11/30/103.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/11/30/103.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1025,11 +1025,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1043,13 +1043,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1060,11 +1060,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1078,13 +1078,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow103.mp3" 
                          length="63209284" 
@@ -1097,12 +1097,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:52</itunes:duration>
             </item><item>
             <title>#102 👼🏼 a doua venire</title>
-            <link>http://localhost:4000/2023/11/23/102.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/102"/>
-            <comments>http://localhost:4000/2023/11/23/102.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/11/23/102.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/102"/>
+            <comments>https://cowsay.show/2023/11/23/102.html#disqus_thread</comments>
             <pubDate>Thu, 23 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/11/23/102.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/11/23/102.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1112,11 +1112,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1130,13 +1130,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1147,11 +1147,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1165,13 +1165,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow102.mp3" 
                          length="63269104" 
@@ -1184,12 +1184,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:02:54</itunes:duration>
             </item><item>
             <title>#101 🤖🔫 Kill all humans!</title>
-            <link>http://localhost:4000/2023/11/16/101.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/101"/>
-            <comments>http://localhost:4000/2023/11/16/101.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/11/16/101.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/101"/>
+            <comments>https://cowsay.show/2023/11/16/101.html#disqus_thread</comments>
             <pubDate>Thu, 16 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/11/16/101.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/11/16/101.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1199,11 +1199,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1219,13 +1219,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1236,11 +1236,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1256,13 +1256,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow101.mp3" 
                          length="61830433" 
@@ -1275,12 +1275,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:48</itunes:duration>
             </item><item>
             <title>#100 🎯 Un AI to rule them all</title>
-            <link>http://localhost:4000/2023/11/09/100.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/100"/>
-            <comments>http://localhost:4000/2023/11/09/100.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/11/09/100.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/100"/>
+            <comments>https://cowsay.show/2023/11/09/100.html#disqus_thread</comments>
             <pubDate>Thu, 09 Nov 2023 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/11/09/100.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/11/09/100.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1290,11 +1290,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1309,13 +1309,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1326,11 +1326,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1345,13 +1345,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow100.mp3" 
                          length="67692005" 
@@ -1364,12 +1364,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:04:44</itunes:duration>
             </item><item>
             <title>#99 🎃 Spooky AI</title>
-            <link>http://localhost:4000/2023/11/02/99.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/99"/>
-            <comments>http://localhost:4000/2023/11/02/99.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/11/02/99.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/99"/>
+            <comments>https://cowsay.show/2023/11/02/99.html#disqus_thread</comments>
             <pubDate>Thu, 02 Nov 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/11/02/99.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/11/02/99.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1379,11 +1379,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1400,13 +1400,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1417,11 +1417,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1438,13 +1438,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow99.mp3" 
                          length="68034316" 
@@ -1457,12 +1457,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:05:19</itunes:duration>
             </item><item>
             <title>#98 🧠🖥️ State of AI 2023</title>
-            <link>http://localhost:4000/2023/10/26/98.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/98"/>
-            <comments>http://localhost:4000/2023/10/26/98.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/10/26/98.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/98"/>
+            <comments>https://cowsay.show/2023/10/26/98.html#disqus_thread</comments>
             <pubDate>Thu, 26 Oct 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/10/26/98.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/10/26/98.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1472,11 +1472,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1491,13 +1491,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1508,11 +1508,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://forms.gle/SvWeVq12MEygByP77">Click aici</a>.</p>
+<p>Acest sezon lansăm chestionarul “State of AI 2023” unde vrem să răspundem la întrebarea “Cât de mult dezvoltatorii folosesc instrumentele AI?”. <a href="https://cwsy.link/ai-survey-2023">Click aici</a>.</p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1527,13 +1527,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow98.mp3" 
                          length="67709796" 
@@ -1546,12 +1546,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:00:46</itunes:duration>
             </item><item>
             <title>#97 📟 Unix GPT OS (in 2D)</title>
-            <link>http://localhost:4000/2023/08/24/97.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/97"/>
-            <comments>http://localhost:4000/2023/08/24/97.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/08/24/97.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/97"/>
+            <comments>https://cowsay.show/2023/08/24/97.html#disqus_thread</comments>
             <pubDate>Thu, 24 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/08/24/97.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/08/24/97.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1561,15 +1561,15 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
-  <li>Bingo s-a terminat(pentru acest sezon). Postați bilețelele voastre în <a href="https://discord.gg/UaNer3K">Discord-&gt;General</a></li>
+  <li>Bingo s-a terminat(pentru acest sezon). Postați bilețelele voastre în <a href="https://cwsy.link/discord">Discord-&gt;General</a></li>
   <li><a href="https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/">Crypto iar cade, și o cauză ar putea fi acest WinRAR exploit</a></li>
   <li>(Tanya) <a href="https://news.mit.edu/2023/mit-researchers-combine-deep-learning-physics-fix-motion-corrupted-MRI-scans-0817">AI acum poate restabili imaginile MRI corupte</a></li>
   <li><a href="https://www.nytimes.com/2023/08/23/health/ai-stroke-speech-neuroscience.html">Încă AI i-a dat voce unei femei paralizate</a></li>
@@ -1582,13 +1582,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1599,15 +1599,15 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
-  <li>Bingo s-a terminat(pentru acest sezon). Postați bilețelele voastre în <a href="https://discord.gg/UaNer3K">Discord-&gt;General</a></li>
+  <li>Bingo s-a terminat(pentru acest sezon). Postați bilețelele voastre în <a href="https://cwsy.link/discord">Discord-&gt;General</a></li>
   <li><a href="https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/">Crypto iar cade, și o cauză ar putea fi acest WinRAR exploit</a></li>
   <li>(Tanya) <a href="https://news.mit.edu/2023/mit-researchers-combine-deep-learning-physics-fix-motion-corrupted-MRI-scans-0817">AI acum poate restabili imaginile MRI corupte</a></li>
   <li><a href="https://www.nytimes.com/2023/08/23/health/ai-stroke-speech-neuroscience.html">Încă AI i-a dat voce unei femei paralizate</a></li>
@@ -1620,13 +1620,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow97.mp3" 
                          length="69785734" 
@@ -1639,12 +1639,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>1:01:40</itunes:duration>
             </item><item>
             <title>#96 🎪 Boșii remote-urilor noastre</title>
-            <link>http://localhost:4000/2023/08/17/96.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/96"/>
-            <comments>http://localhost:4000/2023/08/17/96.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/08/17/96.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/96"/>
+            <comments>https://cowsay.show/2023/08/17/96.html#disqus_thread</comments>
             <pubDate>Thu, 17 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/08/17/96.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/08/17/96.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1654,11 +1654,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1677,13 +1677,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1694,11 +1694,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1717,13 +1717,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow96.mp3" 
                          length="64283730" 
@@ -1736,12 +1736,12 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
             <itunes:duration>59:01</itunes:duration>
             </item><item>
             <title>#95 🪦 :wq</title>
-            <link>http://localhost:4000/2023/08/10/95.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/95"/>
-            <comments>http://localhost:4000/2023/08/10/95.html#disqus_thread</comments>
+            <link>https://cowsay.show/2023/08/10/95.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/95"/>
+            <comments>https://cowsay.show/2023/08/10/95.html#disqus_thread</comments>
             <pubDate>Thu, 10 Aug 2023 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2023/08/10/95.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2023/08/10/95.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -1751,11 +1751,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1771,13 +1771,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -1788,11 +1788,11 @@ It is only necessary for hosting remotely.
 
 <h3 id="live-ul-săptămânal-cowsay-show-ne-bucurăm-să-vă-vedem-cu-noi-">Live-ul săptămânal Cowsay Show. Ne bucurăm să vă vedem cu noi 🤗</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
-<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://docs.google.com/spreadsheets/d/1g4SKp5I5bMM7vS2dsh-mHqCWZe4ci8bikAHjryo7X8s">BINGO!</a></h4>
+<h4 id="bingo-acest-sezon-jucăm-bingo">BINGO! Acest sezon jucăm <a href="https://cwsy.link/bingo">BINGO!</a></h4>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -1808,13 +1808,13 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>
 ]]></content:encoded>
             <enclosure url="https://episodes.cowsay.show/cow95.mp3" 
                          length="70399582" 

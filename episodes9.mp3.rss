@@ -9,17 +9,17 @@
 
   <channel>
     <title>Cowsay Show</title>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss9" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://localhost:4000/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://localhost:4000/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://cowsay.show</link>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss9" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://cowsay.show/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes9.mp3.rss" rel="last" type="application/rss+xml" />
     
-    <atom:link href="http://localhost:4000/episodes8.mp3.rss" rel="prev" type="application/rss+xml" />
+    <atom:link href="https://cowsay.show/episodes8.mp3.rss" rel="prev" type="application/rss+xml" />
 
     
     <description>Podcast Moldovenesc depsre IT, business și oameni
 </description>
-    <lastBuildDate>Wed, 25 Nov 2026 18:10:59 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:18:38 -0700</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Cowsay Crew ©</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://localhost:4000/img/logo-itunes.png" />
+    <itunes:image href="https://cowsay.show/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>Cowsay Crew ©</itunes:name>
       <itunes:email>vlad.drahnea@gmail.com</itunes:email>
@@ -38,19 +38,19 @@
     <itunes:keywords>podcast, moldova, it, business</itunes:keywords>
     <image>
       <title>Cowsay Show</title>
-      <url>http://localhost:4000/img/logo-itunes.png</url>
-      <link>http://localhost:4000</link>
+      <url>https://cowsay.show/img/logo-itunes.png</url>
+      <link>https://cowsay.show</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>#15 Tiktok gata?</title>
-            <link>http://localhost:4000/2020/08/14/_15-tiktok-gata_.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_15-tiktok-gata_"/>
-            <comments>http://localhost:4000/2020/08/14/_15-tiktok-gata_.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/08/14/_15-tiktok-gata_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_15-tiktok-gata_"/>
+            <comments>https://cowsay.show/2020/08/14/_15-tiktok-gata_.html#disqus_thread</comments>
             <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/08/14/_15-tiktok-gata_.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/08/14/_15-tiktok-gata_.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -100,19 +100,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>01:13:24</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov15.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov15.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov15.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov15.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#14 Alibaba Inteligence</title>
-            <link>http://localhost:4000/2020/08/07/_14-alibaba-inteligence.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_14-alibaba-inteligence"/>
-            <comments>http://localhost:4000/2020/08/07/_14-alibaba-inteligence.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_14-alibaba-inteligence"/>
+            <comments>https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html#disqus_thread</comments>
             <pubDate>Fri, 07 Aug 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/08/07/_14-alibaba-inteligence.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/08/07/_14-alibaba-inteligence.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -162,19 +162,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>01:00:33</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov14.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov14.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov14.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov14.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#13 Antitirust them all!</title>
-            <link>http://localhost:4000/2020/07/31/_13-antitirust-them-all_.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_13-antitirust-them-all_"/>
-            <comments>http://localhost:4000/2020/07/31/_13-antitirust-them-all_.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_13-antitirust-them-all_"/>
+            <comments>https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html#disqus_thread</comments>
             <pubDate>Fri, 31 Jul 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/07/31/_13-antitirust-them-all_.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/07/31/_13-antitirust-them-all_.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -228,19 +228,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>01:23:59</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov13.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov13.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov13.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov13.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#12 Blind AI</title>
-            <link>http://localhost:4000/2020/07/24/_12-blind-ai.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_12-blind-ai"/>
-            <comments>http://localhost:4000/2020/07/24/_12-blind-ai.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/07/24/_12-blind-ai.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_12-blind-ai"/>
+            <comments>https://cowsay.show/2020/07/24/_12-blind-ai.html#disqus_thread</comments>
             <pubDate>Fri, 24 Jul 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/07/24/_12-blind-ai.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/07/24/_12-blind-ai.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -294,19 +294,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>01:13:14</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov12.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov12.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov12.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov12.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#11 Money</title>
-            <link>http://localhost:4000/2020/07/17/_11-money.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_11-money"/>
-            <comments>http://localhost:4000/2020/07/17/_11-money.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/07/17/_11-money.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_11-money"/>
+            <comments>https://cowsay.show/2020/07/17/_11-money.html#disqus_thread</comments>
             <pubDate>Fri, 17 Jul 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/07/17/_11-money.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/07/17/_11-money.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -356,19 +356,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>00:57:56</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov11.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov11.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov11.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov11.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#10 Microsoft Supper Together</title>
-            <link>http://localhost:4000/2020/07/11/_10-microsoft-supper-together.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_10-microsoft-supper-together"/>
-            <comments>http://localhost:4000/2020/07/11/_10-microsoft-supper-together.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_10-microsoft-supper-together"/>
+            <comments>https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html#disqus_thread</comments>
             <pubDate>Sat, 11 Jul 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/07/11/_10-microsoft-supper-together.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/07/11/_10-microsoft-supper-together.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -420,19 +420,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>00:58:18</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov10.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov10.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov10.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov10.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#9 no code?</title>
-            <link>http://localhost:4000/2020/07/09/_9-no-code_.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_9-no-code_"/>
-            <comments>http://localhost:4000/2020/07/09/_9-no-code_.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/07/09/_9-no-code_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_9-no-code_"/>
+            <comments>https://cowsay.show/2020/07/09/_9-no-code_.html#disqus_thread</comments>
             <pubDate>Thu, 09 Jul 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/07/09/_9-no-code_.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/07/09/_9-no-code_.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -472,19 +472,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>1:16:24</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov9.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov9.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov9.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov9.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#8 Misha</title>
-            <link>http://localhost:4000/2020/06/25/_8-misha.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_8-misha"/>
-            <comments>http://localhost:4000/2020/06/25/_8-misha.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/06/25/_8-misha.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_8-misha"/>
+            <comments>https://cowsay.show/2020/06/25/_8-misha.html#disqus_thread</comments>
             <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/06/25/_8-misha.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/06/25/_8-misha.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -516,19 +516,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>00:58:17</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov8.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov8.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov8.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov8.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#7 Hey, hello! :)</title>
-            <link>http://localhost:4000/2020/06/18/_7-hey_-hello_-__.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_7-hey_-hello_-__"/>
-            <comments>http://localhost:4000/2020/06/18/_7-hey_-hello_-__.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_7-hey_-hello_-__"/>
+            <comments>https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html#disqus_thread</comments>
             <pubDate>Thu, 18 Jun 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/06/18/_7-hey_-hello_-__.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/06/18/_7-hey_-hello_-__.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -566,19 +566,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>00:56:14</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov7.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov7.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov7.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov7.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#6 Apple + ARM = ❤️</title>
-            <link>http://localhost:4000/2020/06/17/_6-apple-_-arm-_-__.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_6-apple-_-arm-_-__"/>
-            <comments>http://localhost:4000/2020/06/17/_6-apple-_-arm-_-__.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_6-apple-_-arm-_-__"/>
+            <comments>https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html#disqus_thread</comments>
             <pubDate>Wed, 17 Jun 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/06/17/_6-apple-_-arm-_-__.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/06/17/_6-apple-_-arm-_-__.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -616,19 +616,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>0:54;47</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov6.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov6.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov6.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov6.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#5 Revolut, Facebook & Trump</title>
-            <link>http://localhost:4000/2020/06/04/_5-revolut_-facebook-_-trump.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_5-revolut_-facebook-_-trump"/>
-            <comments>http://localhost:4000/2020/06/04/_5-revolut_-facebook-_-trump.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_5-revolut_-facebook-_-trump"/>
+            <comments>https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html#disqus_thread</comments>
             <pubDate>Thu, 04 Jun 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/06/04/_5-revolut_-facebook-_-trump.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/06/04/_5-revolut_-facebook-_-trump.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -670,19 +670,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>0:44:38</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov5.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov5.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov5.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov5.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#4 Stackoverflow20</title>
-            <link>http://localhost:4000/2020/05/29/_4-stackoverflow20.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_4-stackoverflow20"/>
-            <comments>http://localhost:4000/2020/05/29/_4-stackoverflow20.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/05/29/_4-stackoverflow20.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_4-stackoverflow20"/>
+            <comments>https://cowsay.show/2020/05/29/_4-stackoverflow20.html#disqus_thread</comments>
             <pubDate>Fri, 29 May 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/05/29/_4-stackoverflow20.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/05/29/_4-stackoverflow20.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -724,19 +724,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>1:10:54</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov4.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov4.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov4.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov4.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#3 Erlang-Erlang-Erlang!</title>
-            <link>http://localhost:4000/2020/05/08/_3-erlang-erlang-erlang_.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_3-erlang-erlang-erlang_"/>
-            <comments>http://localhost:4000/2020/05/08/_3-erlang-erlang-erlang_.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_3-erlang-erlang-erlang_"/>
+            <comments>https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html#disqus_thread</comments>
             <pubDate>Fri, 08 May 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/05/08/_3-erlang-erlang-erlang_.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/05/08/_3-erlang-erlang-erlang_.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -768,19 +768,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>0:44:06</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov3.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov3.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov3.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov3.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>#2 Pandemic IT World</title>
-            <link>http://localhost:4000/2020/05/07/_2-pandemic-it-world.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/_2-pandemic-it-world"/>
-            <comments>http://localhost:4000/2020/05/07/_2-pandemic-it-world.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/_2-pandemic-it-world"/>
+            <comments>https://cowsay.show/2020/05/07/_2-pandemic-it-world.html#disqus_thread</comments>
             <pubDate>Thu, 07 May 2020 00:00:00 -0700</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/05/07/_2-pandemic-it-world.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/05/07/_2-pandemic-it-world.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -818,19 +818,19 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>1:25:15</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/cov2.jpg" />
+            <itunes:image href="https://cowsay.show/img/covers/cov2.jpg" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/cov2.jpg</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/cov2.jpg</url>
+                <link>https://cowsay.show</link>
               </image></item><item>
             <title>Podcast #1</title>
-            <link>http://localhost:4000/2020/02/01/podcast-_1.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/podcast-_1"/>
-            <comments>http://localhost:4000/2020/02/01/podcast-_1.html#disqus_thread</comments>
+            <link>https://cowsay.show/2020/02/01/podcast-_1.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://cowsay.show/players/podcast-_1"/>
+            <comments>https://cowsay.show/2020/02/01/podcast-_1.html#disqus_thread</comments>
             <pubDate>Sat, 01 Feb 2020 00:00:00 -0800</pubDate>
             
-            <guid isPermaLink="false">http://localhost:4000/2020/02/01/podcast-_1.html</guid>
+            <guid isPermaLink="false">https://cowsay.show/2020/02/01/podcast-_1.html</guid>
             <description><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -870,10 +870,10 @@ It is only necessary for hosting remotely.
             <itunes:author>Cowsay Crew ©</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>1:12:02</itunes:duration>
-            <itunes:image href="http://localhost:4000/img/covers/default.png" />
+            <itunes:image href="https://cowsay.show/img/covers/default.png" />
               <image>
                 <title></title>
-                <url>http://localhost:4000/img/covers/default.png</url>
-                <link>http://localhost:4000</link>
+                <url>https://cowsay.show/img/covers/default.png</url>
+                <link>https://cowsay.show</link>
               </image></item></channel>
 </rss>

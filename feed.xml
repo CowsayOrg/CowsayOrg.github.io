@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-11-25T18:10:59-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cowsay Show</title><subtitle>Podcast Moldovenesc depsre IT, business și oameni</subtitle><author><name>Cowsay Crew ©</name></author><entry><title type="html">LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?</title><link href="http://localhost:4000/2026/11/20/174.html" rel="alternate" type="text/html" title="LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?" /><published>2026-11-20T00:00:00-07:00</published><updated>2026-11-20T00:00:00-07:00</updated><id>http://localhost:4000/2026/11/20/174</id><content type="html" xml:base="http://localhost:4000/2026/11/20/174.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow174.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?","subtitle":"","url":"http://localhost:4000/2026/11/20/174.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:03:12.928 ","title":"Scandalul Jensen Huang și cipurile NVIDIA în China"},{"start":"00:17:33.556 ","title":"Anthropic, cel mai mare IPO din istorie"},{"start":"00:29:52.032 ","title":"Angajat Anthropic demonstrează ipoteza lui Riemann"},{"start":"00:37:15.132 ","title":"Structura de vot și Trust-ul Anthropic"},{"start":"00:46:20.000 ","title":"Lansarea GTA VI: preorder-uri și 30 FPS"},{"start":"01:00:32.000 ","title":"Outro"}]}}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://cowsay.show/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cowsay.show/" rel="alternate" type="text/html" /><updated>2026-11-25T19:18:38-07:00</updated><id>https://cowsay.show/feed.xml</id><title type="html">Cowsay Show</title><subtitle>Podcast Moldovenesc depsre IT, business și oameni</subtitle><author><name>Cowsay Crew ©</name></author><entry><title type="html">LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?</title><link href="https://cowsay.show/2026/11/20/174.html" rel="alternate" type="text/html" title="LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?" /><published>2026-11-20T00:00:00-07:00</published><updated>2026-11-20T00:00:00-07:00</updated><id>https://cowsay.show/2026/11/20/174</id><content type="html" xml:base="https://cowsay.show/2026/11/20/174.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow174.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"LIVE DE URGENȚĂ 174: Anthropic IPO, GTA VI, NVIDIA wtf?","subtitle":"","url":"https://cowsay.show/2026/11/20/174.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:03:12.928 ","title":"Scandalul Jensen Huang și cipurile NVIDIA în China"},{"start":"00:17:33.556 ","title":"Anthropic, cel mai mare IPO din istorie"},{"start":"00:29:52.032 ","title":"Angajat Anthropic demonstrează ipoteza lui Riemann"},{"start":"00:37:15.132 ","title":"Structura de vot și Trust-ul Anthropic"},{"start":"00:46:20.000 ","title":"Lansarea GTA VI: preorder-uri și 30 FPS"},{"start":"01:00:32.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <p>Urmăriți episodul pe <a href="https://www.youtube.com/watch?v=F8DOR3Gd5pE">YouTube</a></p>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -23,24 +23,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 173: Season Finale!</title><link href="http://localhost:4000/2026/09/08/173.html" rel="alternate" type="text/html" title="Live 173: Season Finale!" /><published>2026-09-08T00:00:00-07:00</published><updated>2026-09-08T00:00:00-07:00</updated><id>http://localhost:4000/2026/09/08/173</id><content type="html" xml:base="http://localhost:4000/2026/09/08/173.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow173.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 173: Season Finale!","subtitle":"","url":"http://localhost:4000/2026/09/08/173.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:03:30.439 ","title":"Mistral atrage 3 miliarde de euro"},{"start":"00:07:43.360 ","title":"OpenAI lansează GPT-6 Astra"},{"start":"00:17:02.319 ","title":"ChatGPT, Claude și Grok picați simultan"},{"start":"00:24:14.720 ","title":"John Ternus anulează viitoarele Vision"},{"start":"00:27:50.679 ","title":"Rabbit R1 renaște ca manager de agenți"},{"start":"00:34:48.159 ","title":"IBM Bob și Bob Coins"},{"start":"00:45:31.800 ","title":"Agenții OpenAI comunică printr-un wiki german"},{"start":"00:54:44.000 ","title":"Claude demonstrează formal teorema lui Fermat"},{"start":"01:01:30.720 ","title":"OpenAI și ecuațiile Navier-Stokes"},{"start":"01:04:37.279 ","title":"Premiile Ig Nobel 2026"},{"start":"01:13:35.000 ","title":"DuckDuckGo AI anunță moartea lui Trump"},{"start":"01:17:50.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 173: Season Finale!</title><link href="https://cowsay.show/2026/09/08/173.html" rel="alternate" type="text/html" title="Live 173: Season Finale!" /><published>2026-09-08T00:00:00-07:00</published><updated>2026-09-08T00:00:00-07:00</updated><id>https://cowsay.show/2026/09/08/173</id><content type="html" xml:base="https://cowsay.show/2026/09/08/173.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow173.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 173: Season Finale!","subtitle":"","url":"https://cowsay.show/2026/09/08/173.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:03:30.439 ","title":"Mistral atrage 3 miliarde de euro"},{"start":"00:07:43.360 ","title":"OpenAI lansează GPT-6 Astra"},{"start":"00:17:02.319 ","title":"ChatGPT, Claude și Grok picați simultan"},{"start":"00:24:14.720 ","title":"John Ternus anulează viitoarele Vision"},{"start":"00:27:50.679 ","title":"Rabbit R1 renaște ca manager de agenți"},{"start":"00:34:48.159 ","title":"IBM Bob și Bob Coins"},{"start":"00:45:31.800 ","title":"Agenții OpenAI comunică printr-un wiki german"},{"start":"00:54:44.000 ","title":"Claude demonstrează formal teorema lui Fermat"},{"start":"01:01:30.720 ","title":"OpenAI și ecuațiile Navier-Stokes"},{"start":"01:04:37.279 ","title":"Premiile Ig Nobel 2026"},{"start":"01:13:35.000 ","title":"DuckDuckGo AI anunță moartea lui Trump"},{"start":"01:17:50.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -58,24 +58,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 172: Tim Cook își ia rămas bun</title><link href="http://localhost:4000/2026/09/01/172.html" rel="alternate" type="text/html" title="Live 172: Tim Cook își ia rămas bun" /><published>2026-09-01T00:00:00-07:00</published><updated>2026-09-01T00:00:00-07:00</updated><id>http://localhost:4000/2026/09/01/172</id><content type="html" xml:base="http://localhost:4000/2026/09/01/172.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow172.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 172: Tim Cook își ia rămas bun","subtitle":"","url":"http://localhost:4000/2026/09/01/172.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:00:58.840 ","title":"Tim Cook pleacă, vine John Ternus"},{"start":"00:09:28.880 ","title":"Interviul lui Elon Musk la The Economist"},{"start":"00:18:32.480 ","title":"Nvidia vrea să cumpere Hugging Face"},{"start":"00:24:22.000 ","title":"AI crawlerele sufocă kernel.org"},{"start":"00:33:15.000 ","title":"Drama testimonialului DHH pe site-ul Neovim"},{"start":"00:38:08.560 ","title":"Dramele Omarchy, distributivul lui DHH"},{"start":"00:42:52.000 ","title":"Emergence World: agenți AI în lumi simulate"},{"start":"00:59:58.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 172: Tim Cook își ia rămas bun</title><link href="https://cowsay.show/2026/09/01/172.html" rel="alternate" type="text/html" title="Live 172: Tim Cook își ia rămas bun" /><published>2026-09-01T00:00:00-07:00</published><updated>2026-09-01T00:00:00-07:00</updated><id>https://cowsay.show/2026/09/01/172</id><content type="html" xml:base="https://cowsay.show/2026/09/01/172.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow172.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 172: Tim Cook își ia rămas bun","subtitle":"","url":"https://cowsay.show/2026/09/01/172.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:00:58.840 ","title":"Tim Cook pleacă, vine John Ternus"},{"start":"00:09:28.880 ","title":"Interviul lui Elon Musk la The Economist"},{"start":"00:18:32.480 ","title":"Nvidia vrea să cumpere Hugging Face"},{"start":"00:24:22.000 ","title":"AI crawlerele sufocă kernel.org"},{"start":"00:33:15.000 ","title":"Drama testimonialului DHH pe site-ul Neovim"},{"start":"00:38:08.560 ","title":"Dramele Omarchy, distributivul lui DHH"},{"start":"00:42:52.000 ","title":"Emergence World: agenți AI în lumi simulate"},{"start":"00:59:58.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -88,24 +88,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 171: Anthropic trece de OpenAI</title><link href="http://localhost:4000/2026/08/25/171.html" rel="alternate" type="text/html" title="Live 171: Anthropic trece de OpenAI" /><published>2026-08-25T00:00:00-07:00</published><updated>2026-08-25T00:00:00-07:00</updated><id>http://localhost:4000/2026/08/25/171</id><content type="html" xml:base="http://localhost:4000/2026/08/25/171.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow171.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 171: Anthropic trece de OpenAI","subtitle":"","url":"http://localhost:4000/2026/08/25/171.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:00:57.000 ","title":"AI la teme: copiii chinezi învață mai rău"},{"start":"00:09:06.000 ","title":"Anthropic depășește OpenAI la venituri"},{"start":"00:16:28.920 ","title":"Cursor Origin și apelul lui Musk"},{"start":"00:21:38.000 ","title":"Nu mai contează nimic: bucuria programării dispare"},{"start":"00:32:44.640 ","title":"AI elimină clasa de mijloc din software"},{"start":"00:38:35.680 ","title":"De la ZeroLabs la 99Labs: startup-uri AI"},{"start":"00:43:51.240 ","title":"Agenți AI cu obiective incompatibile se sabotează"},{"start":"00:56:45.000 ","title":"Noile Mac Studio și Mac Mini"},{"start":"01:00:08.120 ","title":"Apple pregătește AirPods cu cameră"},{"start":"01:04:03.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 171: Anthropic trece de OpenAI</title><link href="https://cowsay.show/2026/08/25/171.html" rel="alternate" type="text/html" title="Live 171: Anthropic trece de OpenAI" /><published>2026-08-25T00:00:00-07:00</published><updated>2026-08-25T00:00:00-07:00</updated><id>https://cowsay.show/2026/08/25/171</id><content type="html" xml:base="https://cowsay.show/2026/08/25/171.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow171.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 171: Anthropic trece de OpenAI","subtitle":"","url":"https://cowsay.show/2026/08/25/171.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:00:57.000 ","title":"AI la teme: copiii chinezi învață mai rău"},{"start":"00:09:06.000 ","title":"Anthropic depășește OpenAI la venituri"},{"start":"00:16:28.920 ","title":"Cursor Origin și apelul lui Musk"},{"start":"00:21:38.000 ","title":"Nu mai contează nimic: bucuria programării dispare"},{"start":"00:32:44.640 ","title":"AI elimină clasa de mijloc din software"},{"start":"00:38:35.680 ","title":"De la ZeroLabs la 99Labs: startup-uri AI"},{"start":"00:43:51.240 ","title":"Agenți AI cu obiective incompatibile se sabotează"},{"start":"00:56:45.000 ","title":"Noile Mac Studio și Mac Mini"},{"start":"01:00:08.120 ","title":"Apple pregătește AirPods cu cameră"},{"start":"01:04:03.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -122,24 +122,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 170: AI;DR</title><link href="http://localhost:4000/2026/08/18/170.html" rel="alternate" type="text/html" title="Live 170: AI;DR" /><published>2026-08-18T00:00:00-07:00</published><updated>2026-08-18T00:00:00-07:00</updated><id>http://localhost:4000/2026/08/18/170</id><content type="html" xml:base="http://localhost:4000/2026/08/18/170.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow170.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 170: AI;DR","subtitle":"","url":"http://localhost:4000/2026/08/18/170.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:17.000 ","title":"AI;DR: rezumate generate de AI"},{"start":"00:07:43.000 ","title":"Incidentele GitHub și explozia de commituri AI"},{"start":"00:10:45.720 ","title":"Gemini atinge 1 miliard de utilizatori lunar"},{"start":"00:14:53.519 ","title":"YouTube schimbă politica de vizualizări și monetizare"},{"start":"00:25:02.080 ","title":"Meta judecată pentru dependența copiilor"},{"start":"00:34:25.000 ","title":"Organizațiile de agenți AI sunt mai puțin etice"},{"start":"00:47:06.680 ","title":"Sondajul Syntax FM despre AI și somn"},{"start":"00:58:46.200 ","title":"Anthropic se pregătește de IPO"},{"start":"01:06:14.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 170: AI;DR</title><link href="https://cowsay.show/2026/08/18/170.html" rel="alternate" type="text/html" title="Live 170: AI;DR" /><published>2026-08-18T00:00:00-07:00</published><updated>2026-08-18T00:00:00-07:00</updated><id>https://cowsay.show/2026/08/18/170</id><content type="html" xml:base="https://cowsay.show/2026/08/18/170.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow170.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 170: AI;DR","subtitle":"","url":"https://cowsay.show/2026/08/18/170.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:17.000 ","title":"AI;DR: rezumate generate de AI"},{"start":"00:07:43.000 ","title":"Incidentele GitHub și explozia de commituri AI"},{"start":"00:10:45.720 ","title":"Gemini atinge 1 miliard de utilizatori lunar"},{"start":"00:14:53.519 ","title":"YouTube schimbă politica de vizualizări și monetizare"},{"start":"00:25:02.080 ","title":"Meta judecată pentru dependența copiilor"},{"start":"00:34:25.000 ","title":"Organizațiile de agenți AI sunt mai puțin etice"},{"start":"00:47:06.680 ","title":"Sondajul Syntax FM despre AI și somn"},{"start":"00:58:46.200 ","title":"Anthropic se pregătește de IPO"},{"start":"01:06:14.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -155,24 +155,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 169: Stack Overflow, R.I.P.</title><link href="http://localhost:4000/2026/08/11/169.html" rel="alternate" type="text/html" title="Live 169: Stack Overflow, R.I.P." /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>http://localhost:4000/2026/08/11/169</id><content type="html" xml:base="http://localhost:4000/2026/08/11/169.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow169.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 169: Stack Overflow, R.I.P.","subtitle":"","url":"http://localhost:4000/2026/08/11/169.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:53.000 ","title":"Meta lansează modelul local Muse Glimmer"},{"start":"00:04:59.200 ","title":"Manifestul AI al lui Zuckerberg"},{"start":"00:14:37.000 ","title":"Black Hat: cum a evadat modelul OpenAI"},{"start":"00:16:48.440 ","title":"Trump vinde acces API la postări"},{"start":"00:24:08.800 ","title":"Stack Overflow, cu 99% mai puține întrebări"},{"start":"00:27:33.040 ","title":"OpenClaw sparge sistemul de rezervări la sală"},{"start":"00:34:42.919 ","title":"Agenți AI atacă supply chain-ul pe GitHub"},{"start":"00:39:42.000 ","title":"Modelele AI își protejează colegii de ștergere"},{"start":"00:47:51.080 ","title":"Domeniul noreply.net primește mii de emailuri"},{"start":"00:53:54.360 ","title":"OpenAI pregătește un speaker de 300 dolari"},{"start":"01:00:32.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 169: Stack Overflow, R.I.P.</title><link href="https://cowsay.show/2026/08/11/169.html" rel="alternate" type="text/html" title="Live 169: Stack Overflow, R.I.P." /><published>2026-08-11T00:00:00-07:00</published><updated>2026-08-11T00:00:00-07:00</updated><id>https://cowsay.show/2026/08/11/169</id><content type="html" xml:base="https://cowsay.show/2026/08/11/169.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow169.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 169: Stack Overflow, R.I.P.","subtitle":"","url":"https://cowsay.show/2026/08/11/169.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:53.000 ","title":"Meta lansează modelul local Muse Glimmer"},{"start":"00:04:59.200 ","title":"Manifestul AI al lui Zuckerberg"},{"start":"00:14:37.000 ","title":"Black Hat: cum a evadat modelul OpenAI"},{"start":"00:16:48.440 ","title":"Trump vinde acces API la postări"},{"start":"00:24:08.800 ","title":"Stack Overflow, cu 99% mai puține întrebări"},{"start":"00:27:33.040 ","title":"OpenClaw sparge sistemul de rezervări la sală"},{"start":"00:34:42.919 ","title":"Agenți AI atacă supply chain-ul pe GitHub"},{"start":"00:39:42.000 ","title":"Modelele AI își protejează colegii de ștergere"},{"start":"00:47:51.080 ","title":"Domeniul noreply.net primește mii de emailuri"},{"start":"00:53:54.360 ","title":"OpenAI pregătește un speaker de 300 dolari"},{"start":"01:00:32.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -188,24 +188,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 168: Lumea s-a săturat de AI Slop?</title><link href="http://localhost:4000/2026/08/04/168.html" rel="alternate" type="text/html" title="Live 168: Lumea s-a săturat de AI Slop?" /><published>2026-08-04T00:00:00-07:00</published><updated>2026-08-04T00:00:00-07:00</updated><id>http://localhost:4000/2026/08/04/168</id><content type="html" xml:base="http://localhost:4000/2026/08/04/168.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow168.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 168: Lumea s-a săturat de AI Slop?","subtitle":"","url":"http://localhost:4000/2026/08/04/168.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:41.360 ","title":"OpenAI publică chat-urile în procesul cu Apple"},{"start":"00:09:45.000 ","title":"Amazon investește 50 de miliarde în OpenAI"},{"start":"00:13:08.000 ","title":"Google retrage Earth AI după o zi"},{"start":"00:22:30.760 ","title":"Mythos sparge criptarea post-quantum Hawk"},{"start":"00:28:57.000 ","title":"Și agenții Anthropic au ieșit din sandbox"},{"start":"00:35:58.120 ","title":"AI în customer support ar trebui interzis"},{"start":"00:38:43.520 ","title":"Contul LinkedIn al lui Vlad, spart și banat"},{"start":"00:45:45.560 ","title":"LinkedIn adaugă buton de AI slop"},{"start":"00:58:49.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 168: Lumea s-a săturat de AI Slop?</title><link href="https://cowsay.show/2026/08/04/168.html" rel="alternate" type="text/html" title="Live 168: Lumea s-a săturat de AI Slop?" /><published>2026-08-04T00:00:00-07:00</published><updated>2026-08-04T00:00:00-07:00</updated><id>https://cowsay.show/2026/08/04/168</id><content type="html" xml:base="https://cowsay.show/2026/08/04/168.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow168.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 168: Lumea s-a săturat de AI Slop?","subtitle":"","url":"https://cowsay.show/2026/08/04/168.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:41.360 ","title":"OpenAI publică chat-urile în procesul cu Apple"},{"start":"00:09:45.000 ","title":"Amazon investește 50 de miliarde în OpenAI"},{"start":"00:13:08.000 ","title":"Google retrage Earth AI după o zi"},{"start":"00:22:30.760 ","title":"Mythos sparge criptarea post-quantum Hawk"},{"start":"00:28:57.000 ","title":"Și agenții Anthropic au ieșit din sandbox"},{"start":"00:35:58.120 ","title":"AI în customer support ar trebui interzis"},{"start":"00:38:43.520 ","title":"Contul LinkedIn al lui Vlad, spart și banat"},{"start":"00:45:45.560 ","title":"LinkedIn adaugă buton de AI slop"},{"start":"00:58:49.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -218,26 +218,26 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 167: Open Source din nou important</title><link href="http://localhost:4000/2026/07/28/167.html" rel="alternate" type="text/html" title="Live 167: Open Source din nou important" /><published>2026-07-28T00:00:00-07:00</published><updated>2026-07-28T00:00:00-07:00</updated><id>http://localhost:4000/2026/07/28/167</id><content type="html" xml:base="http://localhost:4000/2026/07/28/167.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow167.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 167: Open Source din nou important","subtitle":"","url":"http://localhost:4000/2026/07/28/167.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:08.120 ","title":"Stanford: AI nu fură încă joburile"},{"start":"00:10:10.640 ","title":"Agentul OpenAI a spart Hugging Face"},{"start":"00:21:40.586 ","title":"AI Kill Switch Act în SUA"},{"start":"00:32:18.924 ","title":"Alignment versus cuști mai groase pentru agenți"},{"start":"00:36:28.276 ","title":"Momentul Kubernetes al modelelor open weight"},{"start":"00:47:15.000 ","title":"Scrisoarea deschisă pentru modele open weight"},{"start":"00:56:11.744 ","title":"Factura AWS de 2,5 miliarde de dolari"},{"start":"00:58:17.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 167: Open Source din nou important</title><link href="https://cowsay.show/2026/07/28/167.html" rel="alternate" type="text/html" title="Live 167: Open Source din nou important" /><published>2026-07-28T00:00:00-07:00</published><updated>2026-07-28T00:00:00-07:00</updated><id>https://cowsay.show/2026/07/28/167</id><content type="html" xml:base="https://cowsay.show/2026/07/28/167.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow167.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 167: Open Source din nou important","subtitle":"","url":"https://cowsay.show/2026/07/28/167.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:01:08.120 ","title":"Stanford: AI nu fură încă joburile"},{"start":"00:10:10.640 ","title":"Agentul OpenAI a spart Hugging Face"},{"start":"00:21:40.586 ","title":"AI Kill Switch Act în SUA"},{"start":"00:32:18.924 ","title":"Alignment versus cuști mai groase pentru agenți"},{"start":"00:36:28.276 ","title":"Momentul Kubernetes al modelelor open weight"},{"start":"00:47:15.000 ","title":"Scrisoarea deschisă pentru modele open weight"},{"start":"00:56:11.744 ","title":"Factura AWS de 2,5 miliarde de dolari"},{"start":"00:58:17.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <p>Urmăriți episodul pe <a href="https://www.youtube.com/watch?v=CBs0wtbxaKo">YouTube</a></p>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -251,24 +251,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 166: Apple dă în judecată OpenAI</title><link href="http://localhost:4000/2026/07/14/166.html" rel="alternate" type="text/html" title="Live 166: Apple dă în judecată OpenAI" /><published>2026-07-14T00:00:00-07:00</published><updated>2026-07-14T00:00:00-07:00</updated><id>http://localhost:4000/2026/07/14/166</id><content type="html" xml:base="http://localhost:4000/2026/07/14/166.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow166.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 166: Apple dă în judecată OpenAI","subtitle":"","url":"http://localhost:4000/2026/07/14/166.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:02:03.079 ","title":"Apple dă în judecată OpenAI pentru secrete industriale"},{"start":"00:16:23.360 ","title":"OpenAI lansează GPT-5.6 Sol, Terra și Luna"},{"start":"00:21:04.520 ","title":"ChatGPT Work, agentul care coordonează agenți"},{"start":"00:28:09.240 ","title":"Creatorul Zig răspunde la rescrierea Bun în Rust"},{"start":"00:36:16.000 ","title":"Grok Build încarcă tot repository-ul în cloud"},{"start":"00:43:21.000 ","title":"Bula AI și riscul pierderii tehnologiei"},{"start":"00:55:02.200 ","title":"ETF-uri noi fără companiile lui Elon Musk"},{"start":"00:57:59.000 ","title":"Outro"}]}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 166: Apple dă în judecată OpenAI</title><link href="https://cowsay.show/2026/07/14/166.html" rel="alternate" type="text/html" title="Live 166: Apple dă în judecată OpenAI" /><published>2026-07-14T00:00:00-07:00</published><updated>2026-07-14T00:00:00-07:00</updated><id>https://cowsay.show/2026/07/14/166</id><content type="html" xml:base="https://cowsay.show/2026/07/14/166.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow166.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 166: Apple dă în judecată OpenAI","subtitle":"","url":"https://cowsay.show/2026/07/14/166.html","description":null,"chaptermarks":[{"start":"00:00:00.000 ","title":"Intro"},{"start":"00:02:03.079 ","title":"Apple dă în judecată OpenAI pentru secrete industriale"},{"start":"00:16:23.360 ","title":"OpenAI lansează GPT-5.6 Sol, Terra și Luna"},{"start":"00:21:04.520 ","title":"ChatGPT Work, agentul care coordonează agenți"},{"start":"00:28:09.240 ","title":"Creatorul Zig răspunde la rescrierea Bun în Rust"},{"start":"00:36:16.000 ","title":"Grok Build încarcă tot repository-ul în cloud"},{"start":"00:43:21.000 ","title":"Bula AI și riscul pierderii tehnologiei"},{"start":"00:55:02.200 ","title":"ETF-uri noi fără companiile lui Elon Musk"},{"start":"00:57:59.000 ","title":"Outro"}]}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -282,24 +282,24 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 165: Trump îi dă drumul lui Anthropic</title><link href="http://localhost:4000/2026/07/07/165.html" rel="alternate" type="text/html" title="Live 165: Trump îi dă drumul lui Anthropic" /><published>2026-07-07T00:00:00-07:00</published><updated>2026-07-07T00:00:00-07:00</updated><id>http://localhost:4000/2026/07/07/165</id><content type="html" xml:base="http://localhost:4000/2026/07/07/165.html"><![CDATA[<script>
-  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow165.mp3"},"coverUrl":"http://localhost:4000/img/logo-360x360.png","title":"Live 165: Trump îi dă drumul lui Anthropic","subtitle":"","url":"http://localhost:4000/2026/07/07/165.html","description":null,"chaptermarks":null}}
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Live 165: Trump îi dă drumul lui Anthropic</title><link href="https://cowsay.show/2026/07/07/165.html" rel="alternate" type="text/html" title="Live 165: Trump îi dă drumul lui Anthropic" /><published>2026-07-07T00:00:00-07:00</published><updated>2026-07-07T00:00:00-07:00</updated><id>https://cowsay.show/2026/07/07/165</id><content type="html" xml:base="https://cowsay.show/2026/07/07/165.html"><![CDATA[<script>
+  window.playerConfiguration = {"options":{"theme":"default","startPanel":"ChapterMarks"},"extensions":{"ChapterMarks":{},"EpisodeInfo":{},"Playlist":{}},"title":null,"episode":{"media":{"mp3":"https://episodes.cowsay.show/cow165.mp3"},"coverUrl":"https://cowsay.show/img/logo-360x360.png","title":"Live 165: Trump îi dă drumul lui Anthropic","subtitle":"","url":"https://cowsay.show/2026/07/07/165.html","description":null,"chaptermarks":null}}
 </script>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js">
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="https://cowsay.show/podigee-player/javascripts/podigee-podcast-player.js">
 </script>
 
 <h3 id="live-ul-săptămânal-cowsay-show-vă-aducem-o-doză-nesănătoasă-de-speculații-">Live-ul săptămânal Cowsay Show. Vă aducem o doză [ne]sănătoasă de speculații 🤗.</h3>
 
-<p>Ne găsiți pe <a href="https://discord.gg/UaNer3K">Discord</a>, <a href="https://www.facebook.com/cowsayshow">Facebook</a>, <a href="https://youtube.com/@cowsay">Youtube</a>.<br />
-Abonați-vă la <a href="https://calendar.google.com/calendar/u/0cid=YTQ1NnUyNjRjNmlyMzFqcXIzZTQ2bHBrN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a> să nu ratați live-urile.<br />
-De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/cowsay">Patreon</a></p>
+<p>Ne găsiți pe <a href="https://cwsy.link/discord">Discord</a>, <a href="https://cwsy.link/facebook">Facebook</a>, <a href="https://cwsy.link/youtube">Youtube</a>.<br />
+Abonați-vă la <a href="https://cwsy.link/calendar">calendar</a> să nu ratați live-urile.<br />
+De asemenea apreciem susținerea voastră pe <a href="https://cwsy.link/patreon">Patreon</a></p>
 
 <h3 id="temele-săptămânii">Temele săptămânii</h3>
 <ul>
@@ -313,10 +313,10 @@ De asemenea apreciem susținerea voastră pe <a href="https://www.patreon.com/co
 </ul>
 
 <h3 id="temele-ascultătorilor">Temele ascultătorilor</h3>
-<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://discord.gg/GAYUppJUVX">https://discord.gg/GAYUppJUVX</a></p>
+<p>Colectăm teme de la voi pe canalul #topics din Discord. Iată aici - <a href="https://cwsy.link/topics">https://cwsy.link/topics</a></p>
 
 <h3 id="stand-with-ukraine-">Stand with Ukraine 🇺🇦</h3>
-<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cowsay.show/standwithukraine">https://cowsay.show/standwithukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
+<p>Cowsay nu poate sta deoparte și noi am gătit o pagină specială - <a href="https://cwsy.link/ukraine">https://cwsy.link/ukraine</a> unde puteți găsi fonduri care ajută Ucraina și Ucrainienii în diferite moduri la moment. Văd îndemnăm să donați și voi în măsura posibilităților. Războiul trebuie să se oprească. Agresorii trebuie să răspundă.</p>
 
 <h3 id="patreon">Patreon</h3>
-<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://www.patreon.com/cowsay">https://www.patreon.com/cowsay</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p>Acum avem și noi <del>Onlyfans</del> <strong>Patreon</strong> Aici - <a href="https://cwsy.link/patreon">https://cwsy.link/patreon</a> puteți ajuta dezvoltarea podcastului și primi beneficii exclusive pentru asta.</p>]]></content><author><name>Cowsay Crew ©</name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
